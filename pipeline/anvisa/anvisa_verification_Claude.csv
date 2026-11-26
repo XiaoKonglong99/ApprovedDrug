@@ -1,0 +1,32 @@
+Drug,Table_before,Verified_online,Confidence,Source,Action
+benznidazole,1981,registered 1970s (Roche Rochagan; exact year unknown),low,MSF / DNDi / SciELO RSBMT,kept 1981 (earliest ANVISA record)
+nifurtimox,2026,2026 (Lampit; DOU 8 Jul 2026),high,agenciagov.ebc.com.br 2026-07,ok
+miltefosine,1996,topical Miltex registered 1996 per ANVISA open data; oral Impavido never registered,high,ANVISA votes cd-0227-2026 / cd-0583-2026,kept (record is a real ANVISA registration)
+oxamniquine,1989,~mid-1970s (Pfizer Mansil),med-low,RIMTSP 1973-75; Conitec 1011,override -> Approved
+meglumine antimoniate,missing,registered before 1999 (Glucantime); now exceptional import,med,ANVISA vote cd-0723-2025,added (Approved)
+praziquantel,1984,1980s plausible,low,Conitec 2026,ok
+pentamidine,1995,no valid registration today; 1995 unverified,low-med,ANVISA votes 2025-26,kept (historical record)
+mefloquine,1995,pre-2000 unverified,low,SciELO / WHO Bulletin,kept
+tafenoquine,2019,2019 (Kozenis 29 Oct 2019),high,agenciabrasil 2019-11,ok
+artesunate,1995,2008 earliest confirmed (ASMQ),med,DNDi 2008,kept (ANVISA record 1995)
+primaquine,1996,registered; first year unknown,low,Brasil de Fato 2022,kept
+fexinidazole,NA,possibly 2026; unconfirmed,low,one news item (403),kept NA
+ivermectin,1999,1990s,low,ANVISA votes,ok
+sofosbuvir,2015,2015 (Sovaldi 30 Mar 2015),high,agenciabrasil 2015-03,ok
+imatinib,2001,2001,med,INCA RBC,ok
+empagliflozin,2014,2014 plausible,med,Afya,ok
+selpercatinib,2024,2024 (Retsevmo Jan 2024),high,Lilly PR,ok
+trifarotene,2020,unconfirmed,low,conflicting,kept
+vortioxetine,2015,2015,med,CFF review,ok
+osimertinib,2016,2016 (DOU 19 Dec 2016),high,AstraZeneca PR,ok
+rivaroxaban,2009,2008-2009,low-med,none,ok
+metamizole,1976,sold since 1922 (Novalgina),med,ICTQ / BBC Brasil,override -> Approved
+ketoconazole,1983,~1981-83,low,RIMTSP 1981,ok
+simvastatin,1989,~1989-90,low,DrugBank,ok
+captopril,1993,likely 1980s,low,none,rule -> Approved (FDA 1981)
+dacomitinib,Stage 3,not found,low,none,ok
+ceftaroline fosamil,Stage 3,2014 (Zinforo 20 Jan 2014),high,saudebusiness.com,override -> 2014
+eslicarbazepine acetate,Stage 3,not found,low,none,ok
+sparsentan,Stage 3,not found,med,none,ok
+fomepizole,NA,not registered,high,ANVISA Edital 17/2025,ok
+ibutilide,NA,not found,med,none,ok

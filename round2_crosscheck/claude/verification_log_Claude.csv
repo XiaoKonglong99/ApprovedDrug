@@ -1,0 +1,86 @@
+Agency,Drug,Verified_online,Claude_score,Gemini_score,DeepSeek_score
+FDA,Fluorescein,1976,1,1,0
+FDA,Fluticasone furoate,2007,1,0,1
+FDA,Fosaprepitant,2008,1,1,0
+FDA,Melphalan,1964,0,1,1
+FDA,Oxandrolone,1964,0,0,1
+FDA,Levonorgestrel,1982,0,0,0
+FDA,Ranitidine,1983,1,1,0
+FDA,Testosterone,~1939,0,0,0
+FDA,Pyridoxine,<=1956 (1947 plausible),1,1,0
+FDA,Infigratinib,2021,1,1,0
+FDA,Nicotine,1984,0,1,0
+FDA,Phytonadione,1955,1,1,0
+FDA,Tenofovir alafenamide,2015,1,0,1
+FDA,Isosorbide dinitrate,~1959,1,1,0
+FDA,Glutethimide,1957,1,1,0
+FDA,Ritodrine,1980,1,1,0
+FDA,Sulfamethoxazole,1961,0,0,0
+FDA,Fluprednisolone,approved ~1960,0,0.5,0.5
+FDA,Aceclofenac,not approved,1,0,0
+FDA,Amodiaquine,approved ~1950,0,1,1
+FDA,Ixazomib,2015,0,1,1
+FDA,Lorcaserin,2012,0,0.5,1
+FDA,Imlunestrant,2025,0,1,1
+FDA,Giredestrant,2026,0,0,1
+FDA,Huperzine A,not approved,1,0,1
+FDA,Idebenone,not approved,1,0,1
+FDA,Levomepromazine,approved (pre-1982),0,1,1
+FDA,Moxalactam,1981,0,1,1
+FDA,Melatonin,not approved,1,0,0
+FDA,Levofenfluramine,not approved,1,0,1
+FDA,Gamma-aminobutyric acid,not approved,1,1,0
+EMA,Opicapone,2016,0,1,1
+EMA,Tezacaftor,2018,1,1,0
+EMA,Maribavir,2022,1,1,0
+EMA,Eliglustat,2015,1,1,0
+EMA,Asciminib,2022,1,1,0
+EMA,Estetrol,2021,0,1,1
+EMA,Buprenorphine,2006 centralised (national ~1978),0,1,0
+EMA,Conivaptan,not approved,1,0,1
+EMA,Levamlodipine,not approved,1,0,1
+EMA,Loratadine,national only,1,0,0
+EMA,Probenecid,national only,1,0,0
+EMA,Clevidipine,national only,1,0,0
+EMA,Fluciclovine F18,2017,0,0,1
+EMA,Piflufolastat F18,2023,0,0,1
+EMA,Treprostinil,2020 centralised (national 2005),0.5,1,1
+EMA,Levodopa,2003 centralised (national 1970s),0.5,1,0
+PMDA,Imatinib,2001,1,0,0
+PMDA,Ciclesonide,2007,1,0,0
+PMDA,Everolimus,2007,1,0,0
+PMDA,Darunavir,2007,1,0,1
+PMDA,Dutasteride,2009,1,0,0
+PMDA,Miconazole,~1979,1,0,0
+PMDA,Pranlukast,1995,1,0,0
+PMDA,Maxacalcitol,2000,1,0,0
+PMDA,Sitafloxacin,2008,1,0,1
+PMDA,Treprostinil,2014,1,1,0
+PMDA,Apremilast,2016,1,1,0
+PMDA,Camizestrant,2026,1,0,0
+PMDA,Olmesartan,2004,0,0,0
+PMDA,Dexlansoprazole,not approved,1,0,1
+PMDA,Ipragliflozin,2014,0.5,0.5,0
+PMDA,Ropinirole,2006,1,0,0
+PMDA,Glycopyrronium,2012,1,1,0
+NMPA,Oteseconazole,2023,1,0,0
+NMPA,Deucravacitinib,2023,1,0,0
+NMPA,Mobocertinib,2023,1,0,0
+NMPA,Iptacopan,2024,1,0,0
+NMPA,Sunvozertinib,2023,1,0,0
+NMPA,Repotrectinib,2024,1,0,0
+NMPA,Molnupiravir,2022,1,0,0
+NMPA,Durlobactam,2024,0.5,0,0
+NMPA,Gumarontinib,2023,1,0,0
+NMPA,Senaparib,2025,1,0,0
+NMPA,Velpatasvir,2018,0,0.5,0
+NMPA,Venetoclax,2020,0,0.5,0
+NMPA,Isavuconazole,2021,0,0.5,0
+NMPA,Selexipag,approved (after 2018),0,0,0.5
+NMPA,Dantrolene,2020,0,0,0.5
+NMPA,Aceclofenac,approved (~2002 plausible),0,0,1
+NMPA,Artemether,approved (~1987),0,0,0.5
+NMPA,Epalrestat,approved (year unknown),0,0.5,0.5
+NMPA,Dexibuprofen,approved (~2001),0,0.5,1
+NMPA,Cefotaxime,approved (1980s-90s),0,0,0.5
+NMPA,Fosrolapitant,not approved (NDA under review),1,0,0.5

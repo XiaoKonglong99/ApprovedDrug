@@ -1,0 +1,321 @@
+lab,item,itemLabel,smi,ismi,ik
+Argipresina,http://www.wikidata.org/entity/Q183011,arginine vasopressin,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)N,C1C[C@H](N(C1)C(=O)[C@@H]2CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N,KBZOIRJILGZLEJ-LGYYRGKSSA-N
+Alfa-1-antitripsina,http://www.wikidata.org/entity/Q292982,Serpin family A member 1,,,
+Bencilpenicilina benzatina,http://www.wikidata.org/entity/Q868435,benzathine benzylpenicillin,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C.CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C.C1=CC=C(C=C1)CNCCNCC2=CC=CC=C2,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)Cc3ccccc3)C(=O)O)C.CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)Cc3ccccc3)C(=O)O)C.c1ccc(cc1)CNCCNCc2ccccc2,BVGLIYRKPOITBQ-ANPZCEIESA-N
+Achillea millefolium,http://www.wikidata.org/entity/Q25408,Achillea millefolium,,,
+Calcio,http://www.wikidata.org/entity/Q100125,Calcio,,,
+Althaea officinalis,http://www.wikidata.org/entity/Q158496,Althaea officinalis,,,
+Angelica archangelica,http://www.wikidata.org/entity/Q207745,Angelica archangelica,,,
+Arnica montana,http://www.wikidata.org/entity/Q207848,Arnica montana,,,
+Arctostaphylos uva-ursi,http://www.wikidata.org/entity/Q208032,Arctostaphylos uva-ursi,,,
+Apomorfina,http://www.wikidata.org/entity/Q269111,apomorphine,CN1CCC2=CC=CC3=C2C1CC4=C3C(=C(C=C4)O)O,CN1CCC2=CC=CC3=C2[C@H]1CC4=C3C(=C(C=C4)O)O,VMWNQDUVQKEIOC-CYBMUJFWSA-N
+Acarbosa,http://www.wikidata.org/entity/Q338005,acarbose,CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO,C[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)O)O)CO)CO)O)O)N[C@H]4C=C([C@H]([C@@H]([C@H]4O)O)O)CO,XUFXOAAUWZOOIT-SXARVLRPSA-N
+Acarbosa,http://www.wikidata.org/entity/Q338005,acarbose,CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO,C[C@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@H](O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)C=O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1N[C@H]3C=C(CO)[C@@H](O)[C@H](O)[C@H]3O,XUFXOAAUWZOOIT-SXARVLRPSA-N
+Alantoína,http://www.wikidata.org/entity/Q409804,allantoin,C1(C(=O)NC(=O)N1)NC(=O)N,,POJWUDADGALRAB-UHFFFAOYSA-N
+Calcio,http://www.wikidata.org/entity/Q412180,Calcio,,,
+Bleomicina,http://www.wikidata.org/entity/Q415571,bleomycin,,,
+Arteméter,http://www.wikidata.org/entity/Q416199,artemether,CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)OC)C,C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC)C,SXYIRMFQILZOAM-HVNFFKDJSA-N
+Acetato de magnesio,http://www.wikidata.org/entity/Q418767,magnesium acetate,CC(=O)[O-].CC(=O)[O-].[Mg+2],,UEGPKNKPLBYCNK-UHFFFAOYSA-L
+Bacitracina,http://www.wikidata.org/entity/Q424319,bacitracin a,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCCCCC(C(=O)NC(C(=O)N1)CCCN)NC(=O)C(C(C)CC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C2CSC(=N2)C(C(C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4,CC[C@H](C)[C@H]1C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCC[C@@H](C(=O)N[C@@H](C(=O)N1)CCCN)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CSC(=N2)[C@H]([C@@H](C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4,CLKOFPXJLQSYAH-ABRJDSQDSA-N
+Aloe ferox,http://www.wikidata.org/entity/Q1194889,Aloe ferox,,,
+Antimoniato de meglumina,http://www.wikidata.org/entity/Q2757969,meglumine antimoniate,CNCC(C(C(C(CO)O)O)O)O.O[Sb](=O)=O,CNC[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O.O[Sb](=O)=O,XOGYVDXPYVPAAQ-SESJOKTNSA-M
+Bivalirudina,http://www.wikidata.org/entity/Q4919218,bivalirudin,CCC(C)C(C(=O)N1CCCC1C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)C4CCCN4C(=O)C(CCCNC(=N)N)NC(=O)C5CCCN5C(=O)C(CC6=CC=CC=C6)N,CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)O)NC(=O)CNC(=O)[C@H](CC(=O)N)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)[C@@H]4CCCN4C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]5CCCN5C(=O)[C@@H](CC6=CC=CC=C6)N,OIRCOABEOLEUMC-GEJPAHFPSA-N
+Cafeína,http://www.wikidata.org/entity/Q5017167,Caffeine,,,
+Alcanfor,http://www.wikidata.org/entity/Q8193803,Alcanfor,,,
+Alcanfor,http://www.wikidata.org/entity/Q22338679,Alcanfor,,,
+Calcio,http://www.wikidata.org/entity/Q30023351,Calcio,,,
+Alteplasa,http://www.wikidata.org/entity/Q45769835,alteplase,,,
+Alcanfor,http://www.wikidata.org/entity/Q118825166,Càmfora,,,
+Alcohol etílico,http://www.wikidata.org/entity/Q140321999,Q140321999,,,
+Calcio,http://www.wikidata.org/entity/Q142196641,Calcium,,,
+Centella asiática,http://www.wikidata.org/entity/Q324714,Centella asiatica,,,
+Cúrcuma longa,http://www.wikidata.org/entity/Q42562,Curcuma longa,,,
+Camellia sinensis,http://www.wikidata.org/entity/Q101815,Camellia sinensis,,,
+Cynara scolymus,http://www.wikidata.org/entity/Q134609,Cynara scolymus,,,
+Centaurium erythraea,http://www.wikidata.org/entity/Q156870,Centaurium erythraea,,,
+Crataegus monogyna,http://www.wikidata.org/entity/Q161511,Crataegus monogyna,,,
+Efedrina,http://www.wikidata.org/entity/Q219626,(−)-ephedrine,CC(C(C1=CC=CC=C1)O)NC,C[C@@H]([C@@H](C1=CC=CC=C1)O)NC,KWGRBVOPPLSCSI-WPRPVWTQSA-N
+Desmopresina,http://www.wikidata.org/entity/Q241006,desmopressin,C1CC(N(C1)C(=O)C2CSSCCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)N,C1C[C@H](N(C1)C(=O)[C@@H]2CSSCCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)C(=O)N[C@H](CCCN=C(N)N)C(=O)NCC(=O)N,NFLWUMRGJYTJIN-PNIOQBSNSA-N
+Cianocobalamina,http://www.wikidata.org/entity/Q252251,cyanocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=C(C7=NC(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=O)N)C(C7(C)CC(=O)N)CCC(=O)N)C)[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],[Co+3].[C-]#N.C[C@H](CNC(=O)CC[C@]1(C)[C@@H](CC(N)=O)C2[N-]C1=C(C)C3=NC(=CC4=NC(=C(C)C5=N[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]5CCC(N)=O)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)C(C)(C)[C@@H]3CCC(N)=O)OP([O-])(=O)O[C@@H]6[C@@H](CO)O[C@@H]([C@@H]6O)N7C=NC8=C7C=C(C)C(C)=C8,FDJOLVPMNUYSCM-UVKKECPRSA-L
+Cianocobalamina,http://www.wikidata.org/entity/Q252251,cyanocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],[Co+3].[C-]#N.C[C@H](CNC(=O)CC[C@]1(C)[C@@H](CC(N)=O)C2[N-]C1=C(C)C3=NC(=CC4=NC(=C(C)C5=N[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]5CCC(N)=O)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)C(C)(C)[C@@H]3CCC(N)=O)OP([O-])(=O)O[C@@H]6[C@@H](CO)O[C@@H]([C@@H]6O)N7C=NC8=C7C=C(C)C(C)=C8,FDJOLVPMNUYSCM-UVKKECPRSA-L
+Cianocobalamina,http://www.wikidata.org/entity/Q252251,cyanocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=C(C7=NC(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=O)N)C(C7(C)CC(=O)N)CCC(=O)N)C)[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]\4([C@H](C5[C@]6([C@@]([C@@H](C(=N6)/C(=C\7/[C@@]([C@@H](C(=N7)/C=C\8/C([C@@H](C(=N8)/C(=C4\[N-]5)/C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)/C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],FDJOLVPMNUYSCM-UVKKECPRSA-L
+Cianocobalamina,http://www.wikidata.org/entity/Q252251,cyanocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]\4([C@H](C5[C@]6([C@@]([C@@H](C(=N6)/C(=C\7/[C@@]([C@@H](C(=N7)/C=C\8/C([C@@H](C(=N8)/C(=C4\[N-]5)/C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)/C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],FDJOLVPMNUYSCM-UVKKECPRSA-L
+Echinacea purpurea,http://www.wikidata.org/entity/Q272661,Echinacea purpurea,,,
+Citrulina,http://www.wikidata.org/entity/Q408641,L-citrulline,C(CC(C(=O)O)N)CNC(=O)N,N[C@@H](CCCNC(N)=O)C(O)=O,RHGKLRLOHDJJDR-BYPYZUCNSA-N
+Carmín de índigo,http://www.wikidata.org/entity/Q410120,indigotindisulfonate sodium,C1=CC2=C(C=C1S(=O)(=O)[O-])C(=O)C(=C3C(=O)C4=C(N3)C=CC(=C4)S(=O)(=O)[O-])N2.[Na+].[Na+],C1=CC2=C(C=C1S(=O)(=O)[O-])C(=O)/C(=C\3/C(=O)C4=C(N3)C=CC(=C4)S(=O)(=O)[O-])/N2.[Na+].[Na+],KHLVKKOJDHCJMG-QDBORUFSSA-L
+Cisplatino,http://www.wikidata.org/entity/Q412415,cisplatin,Cl[Pt]([NH3])([NH3])Cl,Cl[Pt@SP1]([NH3])([NH3])Cl,LXZZYRPGZAFOLE-UHFFFAOYSA-L
+Carboplatino,http://www.wikidata.org/entity/Q415588,carboplatin,N.N.O=C1O[Pt]OC(=O)C11CCC1,,OLESAACUTLOWQZ-UHFFFAOYSA-L
+Carboplatino,http://www.wikidata.org/entity/Q415588,carboplatin,O=C1O[Pt]23OC(=O)C11CCC1.[NH3]2.[NH3]3,,OLESAACUTLOWQZ-UHFFFAOYSA-L
+Colestiramina,http://www.wikidata.org/entity/Q418006,colestyramine,,,
+Dimetilfumarato,http://www.wikidata.org/entity/Q418123,dimethyl fumarate,COC(=O)C=CC(=O)OC,COC(=O)/C=C/C(=O)OC,LDCRTTXIJACKKU-ONEGZZNKSA-N
+Citidina,http://www.wikidata.org/entity/Q422538,cytidine,Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1,Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1,UHDGCWIWMRVCDJ-XVFCMESISA-N
+Cerio,http://www.wikidata.org/entity/Q611067,Zerio,,,
+Cnicus benedictus,http://www.wikidata.org/entity/Q792835,Centaurea benedicta,,,
+Eleutherococcus senticosus,http://www.wikidata.org/entity/Q894245,Eleutherococcus senticosus,,,
+Cineol,http://www.wikidata.org/entity/Q973147,Cineol,,,
+Cerio,http://www.wikidata.org/entity/Q1055249,Cerio,,,
+Echinacea angustifolia,http://www.wikidata.org/entity/Q1062627,Echinacea angustifolia,,,
+Dermatophagoides farinae,http://www.wikidata.org/entity/Q2916791,Dermatophagoides farinae,,,
+Crataegus oxyacantha,http://www.wikidata.org/entity/Q3780432,Crataegus oxyacantha L. (1753),,,
+Dermatophagoides pteronyssinus,http://www.wikidata.org/entity/Q4573411,Dermatophagoides pteronyssinus,,,
+Carbetocina,http://www.wikidata.org/entity/Q5037853,carbetocin,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSCCCC(=O)NC(C(=O)N1)CC2=CC=C(C=C2)OC)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N,CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)OC)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N,NSTRIRCPWQHTIA-DTRKZRJBSA-N
+Cetrorelix,http://www.wikidata.org/entity/Q5065704,cetrorelix,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NC(C)C(=O)N)NC(=O)C(CCCNC(=O)N)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CN=CC=C3)NC(=O)C(CC4=CC=C(C=C4)Cl)NC(=O)C(CC5=CC6=CC=CC=C6C=C5)NC(=O)C,C[C@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CCCNC(=O)N)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@@H](CC3=CN=CC=C3)NC(=O)[C@@H](CC4=CC=C(C=C4)Cl)NC(=O)[C@@H](CC5=CC6=CC=CC=C6C=C5)NC(=O)C,SBNPWPIBESPSIF-MHWMIDJBSA-N
+Cnicus benedictus,http://www.wikidata.org/entity/Q15548577,Cnicus benedictus,,,
+Cimicifuga racemosa,http://www.wikidata.org/entity/Q19847513,Cimicifuga racemosa,,,
+Dextran 70,http://www.wikidata.org/entity/Q28163637,Dextran 70,,,
+Cerio,http://www.wikidata.org/entity/Q37130804,Cerio,,,
+Cassia angustifolia,http://www.wikidata.org/entity/Q50838910,Cassia angustifolia,,,
+Dióxido de carbono,http://www.wikidata.org/entity/Q125877459,Dióxido de carbono,,,
+Dióxido de carbono,http://www.wikidata.org/entity/Q125877473,Q125877473,,,
+Glycine max,http://www.wikidata.org/entity/Q11006,soybean,,,
+Helio,http://www.wikidata.org/entity/Q134270,Helios,,,
+Gonadotropina coriónica,http://www.wikidata.org/entity/Q407172,chorionic gonadotropin,,,
+Hipromelosa,http://www.wikidata.org/entity/Q423846,hypromellose,CC(COCC1C(C(C(C(O1)OC)OCC(C)O)OCC(C)O)OC2C(C(C(C(O2)COC)OC3C(C(C(C(O3)CO)OC)O)O)OC)OC)O,,PUSNGFYSTWMJSK-GSZQVNRLSA-N
+Epoetina alfa,http://www.wikidata.org/entity/Q5383794,epoetin alfa,,,
+Hierro dextran,http://www.wikidata.org/entity/Q5897556,iron dextran,,,
+Gaba,http://www.wikidata.org/entity/Q48461214,Gabriel Pusula,,,
+Hedera helix,http://www.wikidata.org/entity/Q26354,Hedera helix,,,
+Ginkgo biloba,http://www.wikidata.org/entity/Q43284,Ginkgo biloba,,,
+Foeniculum vulgare,http://www.wikidata.org/entity/Q43511,Foeniculum vulgare,,,
+Humulus lupulus,http://www.wikidata.org/entity/Q104212,Humulus lupulus,,,
+Equisetum arvense,http://www.wikidata.org/entity/Q107592,Equisetum arvense,,,
+Fragaria vesca,http://www.wikidata.org/entity/Q146684,Fragaria vesca,,,
+Hypericum perforatum,http://www.wikidata.org/entity/Q158289,Hypericum perforatum,,,
+Gentiana lutea,http://www.wikidata.org/entity/Q158572,Gentiana lutea,,,
+Glycyrrhiza glabra,http://www.wikidata.org/entity/Q257106,liquorice,,,
+Escina,http://www.wikidata.org/entity/Q381866,escin Ia,CC=C(C)C(=O)OC1C(C2(C(CC1(C)C)C3=CCC4C5(CCC(C(C5CCC4(C3(CC2O)C)C)(C)CO)OC6C(C(C(C(O6)C(=O)O)OC7C(C(C(C(O7)CO)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CO)OC(=O)C,,AXNVHPCVMSNXNP-UHFFFAOYSA-N
+Harpagophytum procumbens,http://www.wikidata.org/entity/Q386675,Harpagophytum procumbens,,,
+Estreptoquinasa,http://www.wikidata.org/entity/Q416485,streptokinase,,,
+Gramicidina,http://www.wikidata.org/entity/Q418980,gramicidin D,,,
+Hidroxicina,http://www.wikidata.org/entity/Q421937,(RS)-hydroxyzine,C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,,ZQDWXGKKHFNSQK-UHFFFAOYSA-N
+Goma guar,http://www.wikidata.org/entity/Q422071,guar gum,,,
+Fucus vesiculosus,http://www.wikidata.org/entity/Q754755,Fucus vesiculosus,,,
+Hamamelis virginiana,http://www.wikidata.org/entity/Q913129,Hamamelis virginiana,,,
+Goserelina,http://www.wikidata.org/entity/Q1992653,goserelin,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(=O)N)NC(=O)C(COC(C)(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6,CC(C)C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NNC(=O)N)NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6,BLCLNMBMMGCOAS-URPVMXJPSA-N
+Helio,http://www.wikidata.org/entity/Q3699935,Cyrus,,,
+Gaba,http://www.wikidata.org/entity/Q4130834,Gaba,,,
+Ganirelix,http://www.wikidata.org/entity/Q5521314,Ganirelix,CCNC(=NCCCCC(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1cccnc1)NC(=O)C(Cc1ccc(Cl)cc1)NC(=O)C(Cc1ccc2ccccc2c1)NC(C)=O)C(=O)NC(CC(C)C)C(=O)NC(CCCCN=C(NCC)NCC)C(=O)N1CCCC1C(=O)NC(C)C(N)=O)NCC,CCNC(NCC)=NCCCC[C@@H](NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@@H](CC1=CC=CN=C1)NC(=O)[C@@H](CC1=CC=C(Cl)C=C1)NC(=O)[C@@H](CC1=CC2=CC=CC=C2C=C1)NC(C)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN=C(NCC)NCC)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(N)=O,GJNXBNATEDXMAK-PFLSVRRQSA-N
+Ganirelix,http://www.wikidata.org/entity/Q5521314,Ganirelix,CCNC(=NCCCCC(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1cccnc1)NC(=O)C(Cc1ccc(Cl)cc1)NC(=O)C(Cc1ccc2ccccc2c1)NC(C)=O)C(=O)NC(CC(C)C)C(=O)NC(CCCCN=C(NCC)NCC)C(=O)N1CCCC1C(=O)NC(C)C(N)=O)NCC,CCNC(NCC)=NCCCC[C@@H](NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@@H](CC2=CC=CN=C2)NC(=O)[C@@H](CC3=CC=C(Cl)C=C3)NC(=O)[C@@H](CC4=CC5=C(C=CC=C5)C=C4)NC(C)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN=C(NCC)NCC)C(=O)N6CCC[C@H]6C(=O)N[C@H](C)C(N)=O,GJNXBNATEDXMAK-PFLSVRRQSA-N
+Helio,http://www.wikidata.org/entity/Q5705398,Helio,,,
+Helio,http://www.wikidata.org/entity/Q21285879,Helio,,,
+Helio,http://www.wikidata.org/entity/Q23829726,Helio,,,
+Gaba,http://www.wikidata.org/entity/Q28900409,Q28900409,,,
+Gaba,http://www.wikidata.org/entity/Q37011997,Gaba,,,
+Hemina,http://www.wikidata.org/entity/Q56294730,Hemina,,,
+Escina,http://www.wikidata.org/entity/Q72289699,aescin,,,
+Matricaria recutita,http://www.wikidata.org/entity/Q28437,Matricaria chamomilla,,,
+Mentha piperita,http://www.wikidata.org/entity/Q156037,Mentha × piperita,,,
+Lipasa,http://www.wikidata.org/entity/Q123171475,LMJFC_310015400,,,
+Levisticum officinale,http://www.wikidata.org/entity/Q27615,Levisticum officinale,,,
+Lepidium latifolium,http://www.wikidata.org/entity/Q32465,Lepidium latifolium,,,
+Linum usitatissimum,http://www.wikidata.org/entity/Q45108,Linum usitatissimum,,,
+Lactobacillus acidophilus,http://www.wikidata.org/entity/Q132644,Lactobacillus acidophilus,,,
+Mentol,http://www.wikidata.org/entity/Q407418,L-menthol,CC1CCC(C(C1)O)C(C)C,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,NOOLISFMXDJSKH-KXUCPTDWSA-N
+Merbromina,http://www.wikidata.org/entity/Q419070,merbromin,[Na+].[Na+].[O-]C(=O)c4ccccc4C=1c3cc(Br)c([O-])c([Hg]O)c3O/C/2=C/C(=O)C(/Br)=C\C=1\2,,SQFDQLBYJKFDDO-UHFFFAOYSA-K
+Merbromina,http://www.wikidata.org/entity/Q419070,merbromin,c1ccc(c(c1)c2c3cc(c(c(c3oc-4cc(=O)c(cc24)Br)[Hg+])[O-])Br)C(=O)[O-].[OH-].[Na+].[Na+],,SQFDQLBYJKFDDO-UHFFFAOYSA-K
+Levotiroxina,http://www.wikidata.org/entity/Q773449,L-thyroxine,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)C[C@@H](C(=O)O)N,XUIIKFGFIJCVMT-LBPRGKRZSA-N
+Lactobacillus rhamnosus,http://www.wikidata.org/entity/Q1607640,Lactobacillus rhamnosus,,,
+Lactobacillus plantarum,http://www.wikidata.org/entity/Q1756682,Lactobacillus plantarum,,,
+Lactobacillus gasseri,http://www.wikidata.org/entity/Q1975869,Lactobacillus gasseri,,,
+Morfina,http://www.wikidata.org/entity/Q3324321,Morphine,,,
+Nafarelina,http://www.wikidata.org/entity/Q3869873,nafarelin,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(=O)N)NC(=O)C(CC2=CC=CC3=CC=CC=C32)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CC7=CN=CN7)NC(=O)C8CCC(=O)N8,CC(C)C[C@H](NC(=O)[C@@H](CC1=CC2=C(C=CC=C2)C=C1)NC(=O)[C@H](CC3=CC=C(O)C=C3)NC(=O)[C@H](CO)NC(=O)[C@H](CC4=CNC5=C4C=CC=C5)NC(=O)[C@H](CC6=CNC=N6)NC(=O)[C@@H]7CCC(=O)N7)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N8CCC[C@H]8C(=O)NCC(N)=O,RWHUEXWOYVBUCI-ITQXDASVSA-N
+Matricaria recutita,http://www.wikidata.org/entity/Q3978815,Matricaria recutita,,,
+Iodo,http://www.wikidata.org/entity/Q6062261,Iodo,,,
+Iodo,http://www.wikidata.org/entity/Q6062263,Iodo,,,
+Morfina,http://www.wikidata.org/entity/Q11785512,Morfina,,,
+Metano,http://www.wikidata.org/entity/Q18447868,Metano,,,
+Lisozima,http://www.wikidata.org/entity/Q21114915,Lysozyme,,,
+Mentha piperita,http://www.wikidata.org/entity/Q102165594,Mentha piperita,,,
+Morfina,http://www.wikidata.org/entity/Q121224774,Morfina,,,
+Paullinia cupana,http://www.wikidata.org/entity/Q209089,guarana plant,,,
+Peróxido de benzoilo,http://www.wikidata.org/entity/Q411424,benzoyl peroxide,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,,OMPJBNCRMGITSC-UHFFFAOYSA-N
+Otilonio bromuro,http://www.wikidata.org/entity/Q920900,otilonium bromide,CCCCCCCCOC1=CC=CC=C1C(=O)NC2=CC=C(C=C2)C(=O)OCC[N+](C)(CC)CC.[Br-],,VWZPIJGXYWHBOW-UHFFFAOYSA-N
+Oxido nitroso,http://www.wikidata.org/entity/Q16652315,Q16652315,,,
+Polio,http://www.wikidata.org/entity/Q32979354,Pollius,,,
+Oxígeno,http://www.wikidata.org/entity/Q4804,Oxygen,,,
+Passiflora incarnata,http://www.wikidata.org/entity/Q128939,Passiflora incarnata,,,
+Plantago lanceolata,http://www.wikidata.org/entity/Q157408,Plantago lanceolata,,,
+Primula veris,http://www.wikidata.org/entity/Q157552,Primula veris,,,
+Panax ginseng,http://www.wikidata.org/entity/Q182881,Panax ginseng,,,
+Nistatina,http://www.wikidata.org/entity/Q251005,nystatin,,,
+Phleum pratense,http://www.wikidata.org/entity/Q256508,Phleum pratense,,,
+Plantago ovata,http://www.wikidata.org/entity/Q311228,Plantago ovata,,,
+Octreotida,http://www.wikidata.org/entity/Q419935,octreotide,CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=CC=C4)NC(=O)C(CC5=CC=CC=C5)N)C(=O)NC(CO)C(C)O)O,C[C@@H](O)[C@@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@H](N)CC2=CC=CC=C2)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@H](CC4=CNC5=C4C=CC=C5)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1,DEQANNDTNATYII-OULOTJBUSA-N
+Oxaliplatino,http://www.wikidata.org/entity/Q422327,oxaliplatin,O=C1O[Pt]2(NC3CCCCC3N2)OC1=O,O=C1O[Pt]2(N[C@@H]3CCCC[C@H]3N2)OC1=O,ZROHGHOFXNOHSO-BNTLRKBRSA-L
+Oxaliplatino,http://www.wikidata.org/entity/Q422327,oxaliplatin,O=C1O[Pt]2(NC3CCCCC3N2)OC1=O,O=C1O[Pt]2(N[C@@H]3CCCC[C@H]3N2)OC1=O,DWAFYCQODLXJNR-BNTLRKBRSA-L
+Orthosiphon stamineus,http://www.wikidata.org/entity/Q632860,Orthosiphon stamineus,,,
+Peumus boldus,http://www.wikidata.org/entity/Q833994,árnica,,,
+Pelargonium sidoides,http://www.wikidata.org/entity/Q900994,Pelargonium sidoides,,,
+Prunus africana,http://www.wikidata.org/entity/Q959738,Prunus africana,,,
+Pyrus malus,http://www.wikidata.org/entity/Q21877185,Pyrus malus,,,
+Polio,http://www.wikidata.org/entity/Q26086422,Polio,,,
+Oxígeno,http://www.wikidata.org/entity/Q29581842,Oxygen,,,
+Polio,http://www.wikidata.org/entity/Q36969707,Polio,,,
+Oxígeno,http://www.wikidata.org/entity/Q47495533,Oxígeno,,,
+Oxígeno,http://www.wikidata.org/entity/Q60824975,Oxígeno,,,
+Oxígeno,http://www.wikidata.org/entity/Q97656981,Oxygen,,,
+Oxígeno,http://www.wikidata.org/entity/Q106765931,Oxígeno,,,
+Oxitocina,http://www.wikidata.org/entity/Q142106869,Oxytocin,,,
+Rodoficea,http://www.wikidata.org/entity/Q103169,Q103169,,,
+Sen,http://www.wikidata.org/entity/Q311117,Senna,,,
+Suxametonio,http://www.wikidata.org/entity/Q424378,succinylcholine,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,,AXOIZCJOOAYSMI-UHFFFAOYSA-N
+Serenoa serrulata,http://www.wikidata.org/entity/Q927607,Serenoa repens,,,
+Serenoa repens,http://www.wikidata.org/entity/Q927607,Serenoa repens,,,
+Sen,http://www.wikidata.org/entity/Q20823776,Anupam Sen,,,
+Sen,http://www.wikidata.org/entity/Q72287312,Michael Sen,,,
+Rosmarinus officinalis,http://www.wikidata.org/entity/Q102240169,Salvia rosmarinus,,,
+Sambucus nigra,http://www.wikidata.org/entity/Q22701,Sambucus nigra,,,
+Sarampión,http://www.wikidata.org/entity/Q79793,measles,,,
+Rosmarinus officinalis,http://www.wikidata.org/entity/Q122679,Rosmarinus officinalis,,,
+Saccharomyces boulardii,http://www.wikidata.org/entity/Q135368,Saccharomyces boulardii,,,
+Rhamnus frangula,http://www.wikidata.org/entity/Q146136,Frangula alnus,,,
+Thymus vulgaris,http://www.wikidata.org/entity/Q148668,Thymus vulgaris,,,
+Rumex crispus,http://www.wikidata.org/entity/Q157643,Rumex crispus,,,
+Ruscus aculeatus,http://www.wikidata.org/entity/Q161425,Ruscus aculeatus,,,
+Rhodiola rosea,http://www.wikidata.org/entity/Q161665,Rhodiola rosea,,,
+Rocuronio,http://www.wikidata.org/entity/Q185331,rocuronium,CC(=O)OC1C(CC2C1(CCC3C2CCC4C3(CC(C(C4)O)N5CCOCC5)C)C)[N+]6(CCCC6)CC=C,CC(=O)O[C@H]1[C@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)N5CCOCC5)C)C)[N+]6(CCCC6)CC=C,YXRDKMPIGHSVRX-OOJCLDBCSA-N
+Silybum marianum,http://www.wikidata.org/entity/Q193798,Silybum marianum,,,
+Rheum officinale,http://www.wikidata.org/entity/Q312527,Rheum officinale,,,
+Terlipresina,http://www.wikidata.org/entity/Q324147,terlipressin,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)CNC(=O)CN)C(=O)NC(CCCCN)C(=O)NCC(=O)N,C1C[C@H](N(C1)C(=O)[C@@H]2CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)CNC(=O)CN)C(=O)N[C@@H](CCCCN)C(=O)NCC(=O)N,BENFXAYNYRLAIU-QSVFAHTRSA-N
+Tiosulfato de sodio,http://www.wikidata.org/entity/Q339866,sodium thiosulfate,[O-]S(=O)(=S)[O-].[Na+].[Na+],,AKHNMLFCWUSKQB-UHFFFAOYSA-L
+Sen,http://www.wikidata.org/entity/Q360083,Sen,,,
+Salicilato de metilo,http://www.wikidata.org/entity/Q407669,methyl salicylate,COC(=O)C1=CC=CC=C1O,,OSWPMRLSEDHDFF-UHFFFAOYSA-N
+Teriparatida,http://www.wikidata.org/entity/Q411781,teriparatide,,,OGBMKVWORPGQRR-UMXFMPSGSA-N
+Simeticona,http://www.wikidata.org/entity/Q419415,simethicone,CO[Si](C)(C)O[Si](C)(C)C.O=[Si]=O,,AMTWCFIAVKBGOD-UHFFFAOYSA-N
+Tirotricina,http://www.wikidata.org/entity/Q419421,tyrothricin,,,
+Tiotropio,http://www.wikidata.org/entity/Q424316,tiotropium,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C,C[N+]1([C@@H]2C[C@H](C[C@H]1[C@H]3[C@@H]2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C,LERNTVKEWCAPOY-DZZGSBJMSA-N
+Tetracosactida,http://www.wikidata.org/entity/Q560542,cosyntropin,CC(C)C(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(C(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)N3CCCC3C(=O)O)NC(=O)C4CCCN4C(=O)C(CCCCN)NC(=O)CNC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CC8=CN=CN8)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CO)NC(=O)C(CC9=CC=C(C=C9)O)NC(=O)C(CO)N,,ZOEFCCMDUURGSE-SQKVDDBVSA-N
+Tetracosactida,http://www.wikidata.org/entity/Q560542,cosyntropin,CC(C)C(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(C(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)N3CCCC3C(=O)O)NC(=O)C4CCCN4C(=O)C(CCCCN)NC(=O)CNC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CC8=CNC=N8)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CO)NC(=O)C(CC9=CC=C(C=C9)O)NC(=O)C(CO)N,,ZOEFCCMDUURGSE-SQKVDDBVSA-N
+Solidago gigantea,http://www.wikidata.org/entity/Q609627,Solidago gigantea,,,
+Salvia officinalis,http://www.wikidata.org/entity/Q1111359,Salvia officinalis,,,
+Teicoplanina,http://www.wikidata.org/entity/Q2731762,teicoplanin,CCCCCCCCCC(=O)NC1C(Oc2c3cc4cc2Oc2ccc(cc2Cl)C(OC2OC(CO)C(O)C(O)C2NC(C)=O)C2NC(=O)C(NC(=O)C4NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)O3)NC(=O)C(N)c3ccc(O)c(c3)Oc3cc(O)cc4c3)c3ccc(O)c(c3)-c3c(OC4OC(CO)C(O)C(O)C4O)cc(O)cc3C(C(=O)O)NC2=O)OC(CO)C(O)C1O,CCCCCCCCCC(=O)N[C@H]1[C@H](Oc2c3cc4cc2Oc2ccc(cc2Cl)[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2NC(C)=O)[C@@H]2NC(=O)[C@H](NC(=O)[C@@H]4NC(=O)[C@H]4NC(=O)[C@@H](Cc5ccc(c(Cl)c5)O3)NC(=O)[C@H](N)c3ccc(O)c(c3)Oc3cc(O)cc4c3)c3ccc(O)c(c3)-c3c(OC4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc(O)cc3[C@@H](C(=O)O)NC2=O)O[C@H](CO)[C@@H](O)[C@@H]1O,BJNLLBUOHPVGFT-CAYRISATSA-N
+Sen,http://www.wikidata.org/entity/Q7449891,Sen,,,
+Sen,http://www.wikidata.org/entity/Q7449892,Sen,,,
+Teduglutida,http://www.wikidata.org/entity/Q7694156,teduglutide,,,CILIXQOJUNDIDU-ASQIGDHWSA-N
+Sen,http://www.wikidata.org/entity/Q9335226,Sen,,,
+Sen,http://www.wikidata.org/entity/Q9335230,Sen,,,
+Rhamnus frangula,http://www.wikidata.org/entity/Q11122869,Rhamnus frangula,,,
+Sen,http://www.wikidata.org/entity/Q12267296,Sen,,,
+Sen,http://www.wikidata.org/entity/Q16600462,Sen,,,
+Sen,http://www.wikidata.org/entity/Q18440832,Sen,,,
+Sen,http://www.wikidata.org/entity/Q21526940,Q21526940,,,
+Sen,http://www.wikidata.org/entity/Q25480328,Sen,,,
+Sen,http://www.wikidata.org/entity/Q31193065,Sen,,,
+Rhamnus purshiana,http://www.wikidata.org/entity/Q31843439,Rhamnus purshiana,,,
+Sen,http://www.wikidata.org/entity/Q66741660,Sen,,,
+Serenoa serrulata,http://www.wikidata.org/entity/Q87644358,Serenoa serrulata,,,
+Sen,http://www.wikidata.org/entity/Q115098094,Sen,,,
+Sen,http://www.wikidata.org/entity/Q122818452,Sen,,,
+Sen,http://www.wikidata.org/entity/Q125778256,Sen,,,
+alcohol etílico,http://www.wikidata.org/entity/Q153,ethanol,CCO,,LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+Veneno de abeja,http://www.wikidata.org/entity/Q423888,apitoxin,,,
+alcohol isopropílico,http://www.wikidata.org/entity/Q16392,isopropyl alcohol,CC(C)O,,KFZMGEQAYNKOFK-UHFFFAOYSA-N
+Vitis vinifera,http://www.wikidata.org/entity/Q30046,Vitis vinifera,,,
+aceite de oliva,http://www.wikidata.org/entity/Q93165,olive oil,,,
+acetileno,http://www.wikidata.org/entity/Q133145,acetylene,C#C,,HSFWRNGVRCDJHI-UHFFFAOYSA-N
+Vaccinium macrocarpon,http://www.wikidata.org/entity/Q149397,Vaccinium macrocarpon,,,
+Urtica dioica,http://www.wikidata.org/entity/Q155909,Urtica dioica,,,
+Valeriana officinalis,http://www.wikidata.org/entity/Q157819,Valeriana officinalis,,,
+Verbena officinalis,http://www.wikidata.org/entity/Q161417,Verbena officinalis,,,
+alcanfor,http://www.wikidata.org/entity/Q181559,camphor,CC1(C2CCC1(C(=O)C2)C)C,,DSSYKIVIOFKYAU-UHFFFAOYSA-N
+aceite de ricino,http://www.wikidata.org/entity/Q337492,castor oil,,,
+acetato de sodio,http://www.wikidata.org/entity/Q339940,sodium acetate,CC(=O)[O-].[Na+],,VMHLLURERBWHNL-UHFFFAOYSA-M
+Vardenafilo,http://www.wikidata.org/entity/Q424161,vardenafil,CCCC1=NC(=C2N1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)CC)OCC)C,,SECKRCOLJRRGGV-UHFFFAOYSA-N
+Tos ferina,http://www.wikidata.org/entity/Q1294581,Whooping Cough,,,
+Triptorelina,http://www.wikidata.org/entity/Q1992452,triptorelin,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(=O)N)NC(=O)C(CC2=CNC3=CC=CC=C32)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CC7=CN=CN7)NC(=O)C8CCC(=O)N8,CC(C)C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CN=CN7)NC(=O)[C@@H]8CCC(=O)N8,VXKHXGOKWPXYNA-PGBVPBMZSA-N
+Vitis vinifera,http://www.wikidata.org/entity/Q7199733,Pixie Grape,,,
+Tos ferina,http://www.wikidata.org/entity/Q141816428,Whooping cough,,,
+amoniaco,http://www.wikidata.org/entity/Q4087,ammonia,N,,QGZKDVFQNNGYKY-UHFFFAOYSA-N
+calcio carbonato,http://www.wikidata.org/entity/Q23767,calcium carbonate,C(=O)([O-])[O-].[Ca+2],,VTYYLEPIZMXCLO-UHFFFAOYSA-L
+calcio acetato,http://www.wikidata.org/entity/Q409251,calcium acetate,CC(=O)[O-].CC(=O)[O-].[Ca+2],,VSGNNIFQASZAOI-UHFFFAOYSA-L
+calcio,http://www.wikidata.org/entity/Q706,calcium,[Ca],,OYPRJOBELJOOCE-UHFFFAOYSA-N
+cerio,http://www.wikidata.org/entity/Q1385,cerium,[Ce],,GWXLDORMOJMVQZ-UHFFFAOYSA-N
+amilasa,http://www.wikidata.org/entity/Q17153,amylase,,,
+cafeína,http://www.wikidata.org/entity/Q60235,caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Cn1c(=O)c2c(ncn2C)n(C)c1=O,RYYVLZVUVIJVGH-UHFFFAOYSA-N
+carbón activado,http://www.wikidata.org/entity/Q190878,activated carbon,,,
+ciclosporina,http://www.wikidata.org/entity/Q367700,cyclosporine,CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)CC=CC)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C,CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C,PMATZTZNYRCHOR-CGLBZJNRSA-N
+aprotinina,http://www.wikidata.org/entity/Q418625,aprotinin,,,ZPNFWUPYTFPOJU-LPYSRVMUSA-N
+atosibán,http://www.wikidata.org/entity/Q421322,atosiban,CCOc1ccc(CC2NC(=O)CCSSCC(C(=O)N3CCCC3C(=O)NC(CCCN)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(C(C)O)NC(=O)C(C(C)CC)NC2=O)cc1,CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSCCC(=O)N[C@@H](C(=O)N1)CC2=CC=C(C=C2)OCC)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCN)C(=O)NCC(=O)N)CC(=O)N)[C@@H](C)O,VWXRQYYUEIYXCZ-OBIMUBPZSA-N
+carbón activado,http://www.wikidata.org/entity/Q2957662,activated charcoal,,,
+bacitracina,http://www.wikidata.org/entity/Q12887800,bacitracin,,,
+dióxido de carbono,http://www.wikidata.org/entity/Q1997,carbon dioxide,C(=O)=O,,CURLTUGMZLYLDI-UHFFFAOYSA-N
+condroitín sulfato,http://www.wikidata.org/entity/Q408014,chondroitin sulfate,,,
+espiramicina,http://www.wikidata.org/entity/Q422265,spiramycin,CC1CC=CC=CC(C(CC(C(C(C(CC(=O)O1)O)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)OC4CCC(C(O4)C)N(C)C,CC1C/C=C/C=C/C(C(CC(C(C(C(CC(=O)O1)O)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)OC4CCC(C(O4)C)N(C)C,ACTOXUHEUCPTEW-KWBWCIJSSA-N
+espiramicina,http://www.wikidata.org/entity/Q422265,spiramycin,CC1CC=CC=CC(C(CC(C(C(C(CC(=O)O1)O)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)OC4CCC(C(O4)C)N(C)C,CC1C/C=C/C=C/C(C(CC(C(C(C(CC(=O)O1)O)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)OC4CCC(C(O4)C)N(C)C,ACTOXUHEUCPTEW-OBURPCBNSA-N
+dornasa alfa,http://www.wikidata.org/entity/Q2067922,dornase alfa,,,
+filgrastim,http://www.wikidata.org/entity/Q3151081,filgrastim,,,
+dihidroergocristina,http://www.wikidata.org/entity/Q5276428,dihydroergocristine,CC(C)C1(C(=O)N2C(C(=O)N3CCCC3C2(O1)O)CC4=CC=CC=C4)NC(=O)C5CC6C(CC7=CNC8=CC=CC6=C78)N(C5)C,CC(C)[C@@]1(C(=O)N2[C@H](C(=O)N3CCC[C@H]3[C@@]2(O1)O)CC4=CC=CC=C4)NC(=O)[C@@H]5C[C@H]6[C@@H](CC7=CNC8=CC=CC6=C78)N(C5)C,DEQITUUQPICUMR-HJPBWRTMSA-N
+electrolitos,http://www.wikidata.org/entity/Q162908,electrolyte,,,
+esencia de lavanda,http://www.wikidata.org/entity/Q900534,lavender oil,,,
+helio,http://www.wikidata.org/entity/Q560,helium,[He],,SWQJXJOGLNCZEY-UHFFFAOYSA-N
+glucosa,http://www.wikidata.org/entity/Q37525,glucose,,,
+hidroxocobalamina,http://www.wikidata.org/entity/Q73972,hydroxocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[OH-].[Co+3],[H]O[Co+]N1\C2=C(C)/C3=N/C(=C\C4=N\C(=C(C)/C5=N[C@@](C)([C@@]1([H])[C@H](CC(=O)N)[C@@]2(C)CCC(=O)NC[C@@H](C)OP(=O)([O-])O[C@H]1[C@@H](O)[C@H](O[C@@H]1CO)N1C=NC2=CC(C)=C(C)C=C12)[C@@](C)(CC(N)=O)[C@@H]5CCC(=O)N)\[C@@](C)(CC(=O)N)[C@@H]4CCC(=O)N)/C(C)(C)[C@@H]3CCC(=O)N,YOZNUFWCRFCGIH-WZHZPDAFSA-K
+hidroxocobalamina,http://www.wikidata.org/entity/Q73972,hydroxocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[OH-].[Co+3],[OH-].[Co+3].C[C@H](CNC(=O)CC[C@]1(C)[C@@H](CC(N)=O)[C@H]2[N-]C1=C(C)C3=NC(=CC4=NC(=C(C)C5=N[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]5CCC(N)=O)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)C(C)(C)[C@@H]3CCC(N)=O)OP([O-])(=O)O[C@@H]6[C@@H](CO)O[C@@H]([C@@H]6O)N7C=NC8=C7C=C(C)C(C)=C8,YOZNUFWCRFCGIH-WZHZPDAFSA-K
+glucagón,http://www.wikidata.org/entity/Q170617,glucagon,,,
+heparina,http://www.wikidata.org/entity/Q190016,heparin,,,
+ivermectina,http://www.wikidata.org/entity/Q415178,ivermectin,,CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C.C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)O[C@@H]1C(C)C,
+hidroquinona,http://www.wikidata.org/entity/Q419164,hydroquinone,C1=CC(=CC=C1O)O,,QIGBRXMKCJKVMJ-UHFFFAOYSA-N
+gentamicina,http://www.wikidata.org/entity/Q422482,gentamicin,,,CEAZRRDELHUEMR-UHFFFAOYSA-N
+hemina,http://www.wikidata.org/entity/Q425165,haemin,CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C=C)C)C=C)C)C)CCC(=O)O)CCC(=O)O.[Cl-].[Fe+3],,BTIJJDXEELBZFS-HXFTUNQESA-K
+hemina,http://www.wikidata.org/entity/Q425165,haemin,CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C=C)C)C=C)C)C)CCC(=O)O)CCC(=O)O.[Cl-].[Fe+3],,BTIJJDXEELBZFS-UHFFFAOYSA-K
+hemina,http://www.wikidata.org/entity/Q9002764,Q9002764,,,
+hemina,http://www.wikidata.org/entity/Q11925390,hemina,,,
+glucagón,http://www.wikidata.org/entity/Q14821391,GCG,,,
+iodo,http://www.wikidata.org/entity/Q1103,iodine,,,
+gluconato de calcio,http://www.wikidata.org/entity/Q413739,calcium gluconate,C(C(C(C(C(C(=O)[O-])O)O)O)O)O.C(C(C(C(C(C(=O)[O-])O)O)O)O)O.[Ca+2],C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.[Ca+2],NEEHYRZPVYRGPP-IYEMJOQQSA-L
+parotiditis,http://www.wikidata.org/entity/Q176741,mumps,,,
+lipasa,http://www.wikidata.org/entity/Q64006480,LINF_310014000,,,
+lipasa,http://www.wikidata.org/entity/Q105978116,LDHU3_31.1280,,,
+litio,http://www.wikidata.org/entity/Q568,lithium,,,SIAPCJWMELPYOE-UHFFFAOYSA-N
+oxígeno,http://www.wikidata.org/entity/Q629,oxygen,,,
+magnesio,http://www.wikidata.org/entity/Q660,magnesium,[Mg],,FYYHWMGAXLPEAU-UHFFFAOYSA-N
+monóxido de carbono,http://www.wikidata.org/entity/Q2025,carbon monoxide,[C-]#[O+],,UGFAIRIUMAVXCW-UHFFFAOYSA-N
+metano,http://www.wikidata.org/entity/Q37129,methane,C,,VNWKTOKETHGBQD-UHFFFAOYSA-N
+morfina,http://www.wikidata.org/entity/Q81225,morphine,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O,BQJCRHHNABKAKU-KBQPJGBKSA-N
+nitroglicerina,http://www.wikidata.org/entity/Q162867,nitroglycerin,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-],,SNIOPGDIGTZGOP-UHFFFAOYSA-N
+oxitocina,http://www.wikidata.org/entity/Q169960,oxytocin,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N,CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N,XNOPRXBHLZRZKH-DSZYJQQASA-N
+peróxido de hidrógeno,http://www.wikidata.org/entity/Q171877,hydrogen peroxide,OO,,MHAJPDPJQMAIIY-UHFFFAOYSA-N
+nitrito de sodio,http://www.wikidata.org/entity/Q339975,sodium nitrite,N(=O)[O-].[Na+],,LPXPTNMVRIOKMN-UHFFFAOYSA-M
+lipasa,http://www.wikidata.org/entity/Q380967,lipases,,,
+manitol,http://www.wikidata.org/entity/Q407646,D-(-)-mannitol,C(C(C(C(C(CO)O)O)O)O)O,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,FBPFZTCFMRRESA-KVTDHHQDSA-N
+metacolina,http://www.wikidata.org/entity/Q413188,methacholine,CC(C[N+](C)(C)C)OC(=O)C,,NZWOPGCLSHLLPA-UHFFFAOYSA-N
+metilcelulosa,http://www.wikidata.org/entity/Q416312,methyl cellulose,,,
+neomicina,http://www.wikidata.org/entity/Q423098,neomycin,,,
+leuprorelina,http://www.wikidata.org/entity/Q907160,leuprolide,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6,GFIJNRVAKGFPGQ-LIJARHBVSA-N
+parotiditis,http://www.wikidata.org/entity/Q1975850,parotitis,,,
+liraglutida,http://www.wikidata.org/entity/Q2526479,liraglutide,,,YSDQQAXHVYUZIW-QCIJIYAXSA-N
+nitroglicerina,http://www.wikidata.org/entity/Q3221044,pharmaceutical preparation of nitroglycerin,,,
+macrogol,http://www.wikidata.org/entity/Q3500889,macrogol,,,
+lisozima,http://www.wikidata.org/entity/Q24779410,lysozyme family,,,
+potasio,http://www.wikidata.org/entity/Q703,potassium,[K],,ZLMJMSJWJFRBEC-UHFFFAOYSA-N
+selenio,http://www.wikidata.org/entity/Q876,selenium,[Se],,BUGBHKTXTAQXES-UHFFFAOYSA-N
+pimpinella anisum,http://www.wikidata.org/entity/Q28692,Pimpinella anisum,,,
+povidona,http://www.wikidata.org/entity/Q413433,polyvinylpyrrolidone,,,
+piridostigmina,http://www.wikidata.org/entity/Q419472,pyridostigmine,C[N+]1=CC=CC(=C1)OC(=O)N(C)C,,RVOLLAQWKVFTGE-UHFFFAOYSA-N
+sen,http://www.wikidata.org/entity/Q2269590,sen,,,
+protamina,http://www.wikidata.org/entity/Q5449573,protamine,,,
+polio,http://www.wikidata.org/entity/Q12195,poliomyelitis,,,
+proteasa,http://www.wikidata.org/entity/Q212410,peptidase,,,
+proteasas,http://www.wikidata.org/entity/Q212410,peptidase,,,
+somatropina,http://www.wikidata.org/entity/Q29956617,growth hormone,,,
+tétanos,http://www.wikidata.org/entity/Q47790,tetanus,,,
+tos ferina,http://www.wikidata.org/entity/Q134859,pertussis,,,
+somatostatina,http://www.wikidata.org/entity/Q407166,somatostatin,,,
+teofilina,http://www.wikidata.org/entity/Q407308,theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,,ZFXYFBGIUFBOJW-UHFFFAOYSA-N
+sugammadex,http://www.wikidata.org/entity/Q420857,sugammadex sodium,C(CSCC1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])O)O)C(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+],C(CSC[C@@H]1[C@@H]2[C@@H]([C@H]([C@H](O1)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O[C@@H]4[C@H](O[C@@H]([C@@H]([C@H]4O)O)O[C@@H]5[C@H](O[C@@H]([C@@H]([C@H]5O)O)O[C@@H]6[C@H](O[C@@H]([C@@H]([C@H]6O)O)O[C@@H]7[C@H](O[C@@H]([C@@H]([C@H]7O)O)O[C@@H]8[C@H](O[C@@H]([C@@H]([C@H]8O)O)O[C@@H]9[C@H](O[C@H](O2)[C@@H]([C@H]9O)O)CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])CSCCC(=O)[O-])O)O)C(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+],KMGKABOMYQLLDJ-VKHHSAQNSA-F
+tocoferol,http://www.wikidata.org/entity/Q910277,tocopherol,,,
+uroquinasa,http://www.wikidata.org/entity/Q7119591,"Plasminogen activator, urokinase",,,
+óxido nitroso,http://www.wikidata.org/entity/Q424418,nitrogen oxide,,,
+ácido acetilsalicílico,http://www.wikidata.org/entity/Q18216,aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,,BSYNRYMUTXBXSQ-UHFFFAOYSA-N
+varicela,http://www.wikidata.org/entity/Q44727,chickenpox,,,
+ácido acético,http://www.wikidata.org/entity/Q47512,acetic acid,CC(=O)O,,QTBSBXVTEAMEQO-UHFFFAOYSA-N
+ácido cítrico,http://www.wikidata.org/entity/Q159683,citric acid,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,,KRKNYBCHXYNGOX-UHFFFAOYSA-N
+ácido láctico,http://www.wikidata.org/entity/Q161249,DL-lactic acid,CC(C(=O)O)O,,JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+Ácido folínico,http://www.wikidata.org/entity/Q192464,L-folinic acid,C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,C1[C@@H](N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,VVIAGPKUTFNRDU-STQMWFEESA-N
+ácido salicílico,http://www.wikidata.org/entity/Q193572,salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,,YGSDEFSMJLZEOE-UHFFFAOYSA-N
+ácido tartárico,http://www.wikidata.org/entity/Q194322,tartaric acid,C(C(C(=O)O)O)(C(=O)O)O,,FEWJPZIEWOKRBE-UHFFFAOYSA-N
+ácido hialurónico,http://www.wikidata.org/entity/Q337231,hyaluronic acid,,,
+Ácido tánico,http://www.wikidata.org/entity/Q427956,tannic acid,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,LRBQNJMCXXYXIU-PPKXGCFTSA-N
+óxido nitroso,http://www.wikidata.org/entity/Q905750,nitrous oxide,N#[N+][O-],,GQPLMRYTRLFLPF-UHFFFAOYSA-N
+Óxido nitroso,http://www.wikidata.org/entity/Q16652315,Q16652315,,,
+Ácido folínico,http://www.wikidata.org/entity/Q45435667,folinic acid,C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,VVIAGPKUTFNRDU-ABLWVSNPSA-N

@@ -1,0 +1,14 @@
+# local scratch / superseded files (kept on disk, not published)
+_archive_not_for_github/
+# large raw downloads and caches: re-created by the scripts
+data/raw/
+data/nmpa/
+data/cache_deepseek/
+pipeline/*/raw/
+round2_crosscheck/claude/*.pkl
+# MacrocycleWizard is a separate package with its own git history
+App_CT_MC/MacrocycleWizard_CP/
+App_CT_MC/_mc_input.tmp.csv
+__pycache__/
+*.pyc
+.DS_Store

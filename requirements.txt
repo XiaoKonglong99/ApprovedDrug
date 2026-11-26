@@ -1,0 +1,8 @@
+# final pipeline (pipeline/, round2_crosscheck/claude/)
+pandas>=2.0
+rdkit>=2023.3
+requests
+openpyxl
+lxml
+# round-1 agent scripts additionally use: pg8000 (DeepSeek, DrugCentral database), pypdf (Gemini, PMDA PDF)
+# App_CT_MC/ needs MacrocycleWizard (not included) and its requirements (incl. IPython)

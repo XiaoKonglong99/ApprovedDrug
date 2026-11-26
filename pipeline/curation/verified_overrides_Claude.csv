@@ -1,0 +1,67 @@
+name,field,value,source
+Fluorescein,FDA,1976,FR 2012-9292: Funduscein-25 NDA 017869 approved 1976
+Levonorgestrel,FDA,1982,Orange Book NDA 018668 Nordette 1982; labels 'Initial U.S. Approval 1982'
+Testosterone,FDA,Approved,Perandren NDA 0-0499 (~1939); exact year unconfirmed
+Pyridoxine,FDA,Approved,Approved <=1956 (Bendectin NDA 10-598); first single-agent year unconfirmed
+Nicotine,FDA,1984,Drugs@FDA Nicorette gum Jan 1984
+Sulfamethoxazole,FDA,1961,Gantanol NDA 012715 (introduced 1961; Drugs@FDA action date 1965)
+Fluprednisolone,FDA,Approved,Orange Book Alphadrol NDA 012259 (~1960-61)
+Aceclofenac,FDA,NA,No US NDA/ANDA
+Amodiaquine,FDA,Approved,Orange Book Camoquin NDA 006441 (~1950; discontinued)
+Levomepromazine,FDA,Approved,Levoprome NDA 15-865 (pre-1982; discontinued)
+Moxalactam,FDA,1981,Moxam NDA 050550 launched 1981 (discontinued)
+Melatonin,FDA,Stage 4,Not FDA approved (dietary supplement)
+Levofenfluramine,FDA,NA,No single-enantiomer NDA
+Gamma-Aminobutyric Acid,FDA,Stage 2,Not FDA approved (supplement)
+Huperzine A,FDA,Stage 4,Not FDA approved (supplement)
+Idebenone,FDA,Stage 3,Not FDA approved
+Giredestrant,FDA,2026,FDA approval 16 Nov 2026 (Wilserdly + everolimus)
+Buprenorphine,EMA,2006,EPAR Suboxone 2006 (first centralised); nationally authorised since ~1978
+Levodopa,EMA,2003,EPAR Stalevo 2003 (first centralised); nationally authorised since 1970s
+Conivaptan,EMA,NA,No EU authorisation found
+Levamlodipine,EMA,NA,No EU authorisation found
+Probenecid,EU_National,Approved,Nationally authorised; never centralised (1950s; current FR/ES listings only start 2019)
+Fluciclovine F18,EMA,2017,EPAR Axumin 2017
+Piflufolastat F18,EMA,2023,EPAR Pylclari 2023
+Miconazole,PMDA,Approved,Florid (marketed Feb 1980; ~1979 approval)
+Pranlukast,PMDA,1995,Onon approved 1995 (KEGG/JAPIC)
+Ropinirole,PMDA,2006,ReQuip approved 20 Oct 2006
+Olmesartan,PMDA,2004,Olmetec approved Jan 2004
+Glycopyrronium,PMDA,2012,Seebri Breezhaler approved Sep 2012
+Dexlansoprazole,PMDA,Stage 3,Not approved in Japan
+Camizestrant,PMDA,2026,PMDA approval Jun 2026 (Etcamah)
+Imatinib,PMDA,2001,Glivec approved Nov 2001
+Ciclesonide,PMDA,2007,Alvesco approved 2007
+Everolimus,PMDA,2007,Certican approved Jan 2007
+Dutasteride,PMDA,2009,Avodart approved Jul 2009
+Ipragliflozin,PMDA,2014,Suglat approved Jan 2014
+Sodium Gluconate,SMILES,O=C([O-])[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,PubChem gluconate (ChEMBL-based SMILES was glucuronate)
+Voxilaprevir,SMILES,CC[C@@H]1[C@@H]2CN(C(=O)[C@H](C(C)(C)C)NC(=O)O[C@@H]3C[C@H]3CCCCC(F)(F)c3nc4ccc(OC)cc4nc3O2)[C@@H]1C(=O)N[C@]1(C(=O)NS(=O)(=O)C2(C)CC2)C[C@H]1C(F)F,PubChem C40H52F4N6O9S (ChEMBL-based SMILES had wrong formula)
+Ulipristal,SMILES,CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C,PubChem ulipristal acetate (approved substance)
+Ulipristal,Name,Ulipristal acetate,approved substance name
+Somapacitan,DROP,,protein (GH analogue) - out of scope
+Durlobactam,NMPA,2024,Zai Lab PR May 2024 (sulbactam-durlobactam)
+Velpatasvir,NMPA,2018,Epclusa approved May 2018 (Gilead PR)
+Venetoclax,NMPA,2020,Approved Dec 2020 (AML)
+Isavuconazole,NMPA,2021,"Pfizer China label, approved 2021-12-14"
+Isavuconazonium,NMPA,2021,"Pfizer China label, approved 2021-12-14"
+Selexipag,NMPA,Approved,Approved after Aug 2018; year unverified
+Dantrolene,NMPA,2020,First China approval (Livzon injection) Oct 2020
+Artemether,NMPA,Approved,"Chinese-origin drug, approved ~1987; exact year unverified"
+Epalrestat,NMPA,Approved,Domestic generics marketed; year unverified
+Cefotaxime,NMPA,Approved,Approved 1980s-90s; exact year unverified
+Fosrolapitant,NMPA,Stage 3,"NDA under review (Hengrui, 2026); not approved"
+Icotinib,NMPA,2011,"Approved Jun 2011 (Betta, Conmana)"
+Anlotinib,NMPA,2018,Approved May 2018 (CTTQ)
+Lobaplatin,SMILES,C[C@@H](C(=O)[O-])[O-].C1C[C@H]([C@@H]1CN)CN.[Pt+2],PubChem lobaplatin (agent SMILES had lost the Pt)
+Nedaplatin,SMILES,C(C(=O)[O-])[O-].N.N.[Pt+2],PubChem nedaplatin (agent SMILES was the glycolate ligand only)
+Cisplatin,SMILES,N.N.Cl[Pt]Cl,PubChem-style cisplatin without square-planar stereo tag (RDKit 2023 cannot parse @SP)
+Ceftaroline Fosamil,ANVISA,2014,Zinforo registered 20 Jan 2014 (saudebusiness.com; reg. 1.1618.0247.001-0)
+Ceftaroline,ANVISA,2014,Zinforo (ceftaroline fosamil) registered 2014
+Metamizole,ANVISA,Approved,sold in Brazil since 1922 (Novalgina); first registration year unknown
+Oxamniquine,ANVISA,Approved,"Pfizer Mansil, ~mid-1970s; exact year unconfirmed"
+Meglumine antimoniate,FDA,NA,not FDA-approved (CDC supplies it under IND); DrugCentral date not used
+Cisplatin,EU_National,Approved,"marketed (Randa/Platinol generics); ChEMBL has no small-molecule structure so registers could not be matched; background knowledge, year not checked"
+Cisplatin,NMPA,Approved,"marketed (Randa/Platinol generics); ChEMBL has no small-molecule structure so registers could not be matched; background knowledge, year not checked"
+Cisplatin,PMDA,Approved,"marketed (Randa/Platinol generics); ChEMBL has no small-molecule structure so registers could not be matched; background knowledge, year not checked"
+Meglumine antimoniate,SMILES,CNC[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O.O[Sb](=O)=O,"PubChem CID 64953 (agent SMILES was meglumine only, antimony lost)"

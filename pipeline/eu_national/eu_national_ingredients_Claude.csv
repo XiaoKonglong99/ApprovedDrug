@@ -1,0 +1,3850 @@
+ingredient,n,cid,src
+hidroclorotiazida,766,CHEMBL435,ES
+amlodipino,491,CHEMBL1491,ES
+olmesartán,480,CHEMBL1516,ES
+atorvastatina,468,CHEMBL1487,ES
+paracetamol,417,CHEMBL112,ES
+ezetimiba,366,CHEMBL1138,ES
+valsartán,363,CHEMBL1069,ES
+rosuvastatina,329,CHEMBL1496,ES
+quetiapina,282,CHEMBL716,ES
+hydrochlorothiazide,252,CHEMBL435,FR
+ibuprofeno,251,CHEMBL521,ES
+etinilestradiol,224,CHEMBL691,ES
+paracétamol,221,CHEMBL112,FR
+metformina,217,CHEMBL1431,ES
+sitagliptina,202,CHEMBL1422,ES
+pregabalina,202,CHEMBL1059,ES
+multicomponente,202,,ES
+rivaroxabán,195,CHEMBL198362,ES
+aripiprazol,184,CHEMBL1112,ES
+tramadol,172,CHEMBL1237044,ES
+olanzapina,164,CHEMBL715,ES
+amoxicilina,158,CHEMBL1082,ES
+simvastatina,154,CHEMBL1064,ES
+candesartán,153,CHEMBL1016,ES
+colecalciferol,148,CHEMBL1042,ES
+atorvastatine,145,CHEMBL1487,FR
+escitalopram,141,CHEMBL1508,ES
+périndopril,140,CHEMBL1581,FR
+lacosamida,138,CHEMBL58323,ES
+esomeprazol,137,CHEMBL1201320,ES
+amlodipine,135,CHEMBL1491,FR
+lenalidomida,135,CHEMBL848,ES
+venlafaxina,135,CHEMBL637,ES
+levetiracetam,135,CHEMBL1286,ES
+pantoprazol,134,CHEMBL1502,ES
+losartán,134,CHEMBL191,ES
+tadalafilo,131,CHEMBL779,ES
+fentanilo,125,CHEMBL596,ES
+tamsulosina,124,CHEMBL836,ES
+éthinylestradiol,124,CHEMBL691,FR
+ramipril,121,CHEMBL1168,ES
+donepezilo,121,CHEMBL502,ES
+chlorure de sodium,116,CHEMBL1200574,FR
+omeprazol,112,CHEMBL1503,ES
+etoricoxib,110,CHEMBL416146,ES
+irbesartán,109,CHEMBL1513,ES
+fluticasona,109,CHEMBL1201396,ES
+sildenafilo,109,CHEMBL192,ES
+valsartan,109,CHEMBL1069,FR
+enalapril,108,CHEMBL578,ES
+risperidona,107,CHEMBL85,ES
+lansoprazol,106,CHEMBL480,ES
+telmisartán,103,CHEMBL1017,ES
+duloxetina,103,CHEMBL1175,ES
+ibuprofène,102,CHEMBL521,FR
+montelukast,101,CHEMBL787,ES
+solifenacina,101,CHEMBL1734,ES
+bisoprolol,101,CHEMBL645,ES
+ézétimibe,101,CHEMBL1138,FR
+dexketoprofeno,100,CHEMBL75435,ES
+apixabán,100,CHEMBL231779,ES
+rivastigmina,93,CHEMBL636,ES
+topiramato,92,CHEMBL220492,ES
+candésartan cilexétil,92,CHEMBL1014,FR
+metotrexato,91,CHEMBL34259,ES
+mirtazapina,89,CHEMBL654,ES
+chlorhydrate de tramadol,89,CHEMBL1237044,FR
+glucosa,88,,ES
+memantina,87,CHEMBL807,ES
+alprazolam,85,CHEMBL661,ES
+clorhexidina,85,CHEMBL790,ES
+glucose anhydre,84,CHEMBL1222250,FR
+fentanyl,84,CHEMBL596,FR
+ácido clavulánico,83,CHEMBL777,ES
+drospirenona,82,CHEMBL1509,ES
+gabapentina,81,CHEMBL940,ES
+ácido acetilsalicílico,80,CHEMBL25,ES
+fluconazol,77,CHEMBL106,ES
+vildagliptina,76,CHEMBL142703,ES
+pravastatina,75,CHEMBL1144,ES
+dabigatrán,75,CHEMBL48361,ES
+fumarate de bisoprolol,75,CHEMBL645,FR
+prégabaline,75,CHEMBL1059,FR
+cholécalciférol,74,CHEMBL1042,FR
+tapentadol,73,CHEMBL1201776,ES
+simvastatine,73,CHEMBL1064,FR
+brivaracetam,73,CHEMBL607400,ES
+timolol,72,CHEMBL499,ES
+azitromicina,71,CHEMBL529,ES
+ebastina,71,CHEMBL305660,ES
+calcio carbonato,71,CHEMBL1200539,ES
+levonorgestrel,70,CHEMBL1389,ES
+dutasterida,70,CHEMBL1200969,ES
+paliperidona,69,CHEMBL1621,ES
+gabapentine,69,CHEMBL940,FR
+clorfenamina,69,CHEMBL505,ES
+amoxicilline,69,CHEMBL1082,FR
+fenilefrina,68,CHEMBL1215,ES
+ciprofloxacino,67,CHEMBL8,ES
+bicarbonate de sodium,67,CHEMBL1161632,FR
+oxycodone,67,CHEMBL656,FR
+bilastina,67,CHEMBL1742423,ES
+rosuvastatine,67,CHEMBL1496,FR
+metilfenidato,66,CHEMBL796,ES
+sodio cloruro,66,,ES
+diclofenaco,66,CHEMBL139,ES
+salmeterol,66,CHEMBL1263,ES
+sertralina,66,CHEMBL809,ES
+chlorure de potassium,66,CHEMBL1200731,FR
+levodopa,65,CHEMBL1009,ES
+lercanidipino,65,CHEMBL250270,ES
+oxicodona,65,CHEMBL656,ES
+diclofénac sodique,64,CHEMBL139,FR
+citalopram,64,CHEMBL549,ES
+levotiroxina,64,CHEMBL1624,ES
+rispéridone,63,CHEMBL85,FR
+carbidopa,63,CHEMBL1201236,ES
+lamotrigina,63,CHEMBL741,ES
+dextrometorfano,62,CHEMBL52440,ES
+aciclovir,62,CHEMBL184,ES
+pitavastatina,62,CHEMBL1201753,ES
+méthotrexate,62,CHEMBL34259,FR
+perindopril,61,CHEMBL1581,ES
+ramipril,60,CHEMBL1168,FR
+irbésartan,60,CHEMBL1513,FR
+ticagrelor,60,CHEMBL398435,ES
+lidocaína,59,CHEMBL79,ES
+acetilcisteína,59,CHEMBL600,ES
+propionate de fluticasone,58,CHEMBL1201396,FR
+atomoxetina,58,CHEMBL641,ES
+indapamida,57,CHEMBL406,ES
+escitalopram,57,CHEMBL1508,FR
+cinacalcet,57,CHEMBL1201284,ES
+tadalafil,56,CHEMBL779,FR
+nicotine,56,CHEMBL3,FR
+pramipexol,56,CHEMBL301265,ES
+fluconazole,56,CHEMBL106,FR
+acide clavulanique,55,CHEMBL777,FR
+rabeprazol,54,CHEMBL1219,ES
+lévodopa,54,CHEMBL1009,FR
+naloxona,54,CHEMBL80,ES
+chlorure de calcium dihydraté,54,,FR
+ivabradina,54,CHEMBL471737,ES
+ácido alendrónico,54,CHEMBL870,ES
+olanzapine,53,CHEMBL715,FR
+fénofibrate,53,CHEMBL672,FR
+pantoprazole,53,CHEMBL1502,FR
+lévétiracétam,52,CHEMBL1286,FR
+indapamide,52,CHEMBL406,FR
+chlorure de magnésium hexahydraté,51,,FR
+sunitinib,51,CHEMBL535,ES
+entacapona,51,CHEMBL953,ES
+budesonida,51,CHEMBL1370,ES
+finasterida,51,CHEMBL710,ES
+betametasona,50,CHEMBL632,ES
+dexametasona,50,CHEMBL384467,ES
+amoxicilline anhydre,50,CHEMBL1082,FR
+eplerenona,50,CHEMBL1095097,ES
+pemetrexed,49,CHEMBL225072,ES
+ropinirol,49,CHEMBL589,ES
+telmisartan,49,CHEMBL1017,FR
+zonisamida,49,CHEMBL750,ES
+budésonide,48,CHEMBL1370,FR
+énoxaparine sodique ,48,,FR
+oméprazole,48,CHEMBL1503,FR
+perampanel,48,CHEMBL1214124,ES
+glimépiride,48,CHEMBL1481,FR
+paroxetina,48,CHEMBL490,ES
+celecoxib,48,CHEMBL118,ES
+ésoméprazole,48,CHEMBL1201320,FR
+ácido risedrónico,47,CHEMBL923,ES
+aciclovir,47,CHEMBL184,FR
+everolimus,47,CHEMBL1908360,ES
+latanoprost,47,CHEMBL1051,ES
+lévothyroxine sodique anhydre,46,CHEMBL1624,FR
+calcium élément,46,,FR
+lansoprazole,46,CHEMBL480,FR
+galantamina,46,CHEMBL659,ES
+lévonorgestrel,45,CHEMBL1389,FR
+levofloxacino,45,CHEMBL33,ES
+claritromicina,45,CHEMBL1741,ES
+aripiprazole,45,CHEMBL1112,FR
+glycine,45,CHEMBL773,FR
+dapagliflozina,45,CHEMBL429910,ES
+timolol,45,CHEMBL499,FR
+diazepam,44,CHEMBL12,ES
+histidine,44,CHEMBL17962,FR
+ondansetrón,44,CHEMBL46,ES
+cefuroxima,44,CHEMBL1436,ES
+estradiol,43,CHEMBL135,ES
+febuxostat,43,CHEMBL1164729,ES
+sildénafil,43,CHEMBL192,FR
+mesalazina,43,CHEMBL704,ES
+buprénorphine,43,CHEMBL511142,FR
+lysine,43,CHEMBL8085,FR
+nitrate d'éconazole,42,CHEMBL808,FR
+vareniclina,42,CHEMBL1076903,ES
+leucine,42,CHEMBL291962,FR
+alanine,42,CHEMBL279597,FR
+epinefrina,42,CHEMBL679,ES
+phénylalanine,42,CHEMBL301523,FR
+nicotina,42,CHEMBL3,ES
+thréonine,42,CHEMBL291747,FR
+cetirizina,42,CHEMBL1000,ES
+valine,42,CHEMBL43068,FR
+losartan potassique,42,CHEMBL191,FR
+linagliptina,42,CHEMBL237500,ES
+quétiapine,42,CHEMBL716,FR
+lénalidomide,42,CHEMBL848,FR
+oxigeno gaseoso,42,,ES
+vortioxetina,41,CHEMBL2104993,ES
+formoterol,41,CHEMBL1256786,ES
+isoleucine,41,CHEMBL1233584,FR
+arginine,41,CHEMBL1485,FR
+méthionine,41,CHEMBL42336,FR
+proline,41,CHEMBL54922,FR
+sérine,41,CHEMBL11298,FR
+pravastatine sodique,41,CHEMBL1144,FR
+ranitidina,41,CHEMBL1790041,ES
+silodosina,41,CHEMBL24778,ES
+eltrombopag,41,CHEMBL461101,ES
+adrénaline,40,CHEMBL679,FR
+acide ascorbique,40,CHEMBL196,FR
+cafeína,40,CHEMBL113,ES
+métronidazole,40,CHEMBL137,FR
+selexipag,40,CHEMBL238804,ES
+letrozol,40,CHEMBL1444,ES
+venlafaxine,40,CHEMBL637,FR
+enoxaparina sodio,40,,ES
+vardenafilo,40,CHEMBL1520,ES
+eslicarbazepina,40,CHEMBL315985,ES
+clarithromycine,40,CHEMBL1741,FR
+dasatinib,39,CHEMBL1421,FR
+dimetilfumarato,39,CHEMBL2107333,ES
+hidrocortisona,39,CHEMBL389621,ES
+lisinopril,39,CHEMBL1237,ES
+carbidopa anhydre,39,CHEMBL1201236,FR
+sacubitrilo,39,CHEMBL3137301,ES
+diltiazem,39,CHEMBL23,ES
+entacapone,38,CHEMBL953,FR
+rivaroxaban,38,CHEMBL198362,FR
+doxazosina,38,CHEMBL707,ES
+sitagliptine,38,CHEMBL1422,FR
+potasio cloruro,37,,ES
+benzocaína,37,CHEMBL278172,ES
+ciprofloxacine,37,CHEMBL8,FR
+deferasirox,37,CHEMBL550348,ES
+spironolactone,37,CHEMBL1393,FR
+tacrolimus,37,CHEMBL269732,ES
+carvedilol,37,CHEMBL723,ES
+bétaméthasone,37,CHEMBL632,FR
+hémifumarate de bisoprolol,37,CHEMBL645,FR
+torasemida,37,CHEMBL1148,ES
+ranolazina,36,CHEMBL1404,ES
+nebivolol,36,CHEMBL434394,ES
+buprenorfina,36,CHEMBL511142,ES
+tryptophane l,36,CHEMBL54976,FR
+meropenem,36,CHEMBL127,ES
+beclometasona,36,CHEMBL1200500,ES
+betahistina,36,CHEMBL24441,ES
+estradiol,35,CHEMBL135,FR
+lacosamide,35,CHEMBL58323,FR
+fingolimod,35,CHEMBL314854,ES
+gestodeno,35,CHEMBL1213583,ES
+zolmitriptán,35,CHEMBL1185,ES
+desloratadina,35,CHEMBL1172,ES
+edoxabán,35,CHEMBL1269025,ES
+fumarate de formotérol dihydraté,35,CHEMBL1256786,FR
+tyrosine,35,CHEMBL925,FR
+abiraterona,35,CHEMBL254328,ES
+pomalidomida,34,CHEMBL43452,ES
+daptomicina,34,CHEMBL387675,ES
+aprépitant,34,CHEMBL1471,FR
+metformine base,34,CHEMBL1431,FR
+rasagilina,34,CHEMBL887,ES
+rizatriptán,34,CHEMBL905,ES
+clopidogrel,34,CHEMBL1771,ES
+fenofibrato,33,CHEMBL672,ES
+acide acétylsalicylique,33,CHEMBL25,FR
+fluoxetina,33,CHEMBL41,ES
+codeína,33,CHEMBL485,ES
+citicolina,33,CHEMBL1231700,ES
+metamizol,33,CHEMBL461522,ES
+lidocaïne,33,CHEMBL79,FR
+allopurinol,33,CHEMBL1467,FR
+oxygène,33,CHEMBL1234886,FR
+furosémide,32,CHEMBL35,FR
+glycérol,32,CHEMBL692,FR
+pseudoefedrina,32,CHEMBL1590,ES
+amisulpride,32,CHEMBL243712,FR
+caspofungina,32,CHEMBL1630575,ES
+furosemida,32,CHEMBL35,ES
+ciclopirox,32,CHEMBL1413,ES
+mometasona,32,CHEMBL1201404,ES
+ropinirole,32,CHEMBL589,FR
+sugammadex,31,,ES
+imatinib,31,CHEMBL941,ES
+bicalutamida,31,CHEMBL409,ES
+iode,31,,FR
+alopurinol,31,CHEMBL1467,ES
+aténolol,31,CHEMBL24,FR
+pirfenidona,31,CHEMBL1256391,ES
+maléate d'énalapril,30,CHEMBL578,FR
+kétoprofène,30,CHEMBL571,FR
+manidipino,30,CHEMBL1085699,ES
+lamotrigine,30,CHEMBL741,FR
+maléate de trimébutine,30,CHEMBL190044,FR
+lormetazepam,30,CHEMBL22097,ES
+urapidil,30,CHEMBL279229,FR
+dienogest,30,CHEMBL1201864,ES
+repaglinida,30,CHEMBL1272,ES
+évérolimus,30,CHEMBL1908360,FR
+glimepirida,30,CHEMBL1481,ES
+acide glutamique,30,CHEMBL575060,FR
+nitroglicerina,30,CHEMBL730,ES
+glicerol,30,CHEMBL692,ES
+electrolitos,29,,ES
+arnica montana pour préparations homéopathiques,29,,FR
+deflazacort,29,CHEMBL1201891,ES
+aprémilast,29,CHEMBL514800,FR
+gliclazida,29,CHEMBL427216,ES
+moxifloxacino,29,CHEMBL32,ES
+amisulprida,29,CHEMBL243712,ES
+metilprednisolona,29,CHEMBL650,ES
+ziprasidona,29,CHEMBL708,ES
+anastrozol,29,CHEMBL1399,ES
+alprazolam,28,CHEMBL661,FR
+salmétérol,28,CHEMBL1263,FR
+fluvastatina,28,CHEMBL2220442,ES
+somatropina,28,,ES
+linezolid,28,CHEMBL126,ES
+tenofovir,28,CHEMBL483,ES
+apremilast,28,CHEMBL514800,ES
+ivabradine,28,CHEMBL471737,FR
+palipéridone,28,CHEMBL1621,FR
+nintedanib,28,CHEMBL502835,ES
+acide aspartique,28,CHEMBL274323,FR
+huile de soja raffinée,28,,FR
+entecavir,28,CHEMBL713,ES
+montélukast,28,CHEMBL787,FR
+acide alendronique,28,CHEMBL870,FR
+gliclazide,28,CHEMBL427216,FR
+sodio bicarbonato,28,,ES
+solifénacine,28,CHEMBL1734,FR
+ténofovir disoproxil,27,CHEMBL1538,FR
+rupatadina,27,CHEMBL91397,ES
+dorzolamida,27,CHEMBL218490,ES
+gemcitabina,27,CHEMBL888,ES
+répaglinide,27,CHEMBL1272,FR
+ceftriaxone base,27,CHEMBL161,FR
+lercanidipine,27,CHEMBL250270,FR
+fer,27,,FR
+finastéride,27,CHEMBL710,FR
+darunavir,27,CHEMBL1323,ES
+loperamida,27,CHEMBL841,ES
+digluconate de chlorhexidine,27,,FR
+desogestrel,27,CHEMBL1533,ES
+fosfomicina,26,CHEMBL1757,ES
+ondansétron,26,CHEMBL46,FR
+bortezomib,26,CHEMBL325041,ES
+spiramycine,26,,FR
+macrogol 3350,26,,ES
+ropivacaína,26,CHEMBL1077896,ES
+acétate de flécaïnide,26,CHEMBL652,FR
+glucose,26,CHEMBL1222250,FR
+ceftriaxona,26,CHEMBL161,ES
+lorazepam,26,CHEMBL580,ES
+atenolol,26,CHEMBL24,ES
+neomicina,26,,ES
+voriconazol,26,CHEMBL638,ES
+azelastina,25,CHEMBL639,ES
+isotretinoína,25,CHEMBL547,ES
+carvédilol,25,CHEMBL723,FR
+bosentán,25,CHEMBL957,ES
+clotrimazol,25,CHEMBL104,ES
+chlorhydrate de lidocaïne anhydre,25,CHEMBL79,FR
+bencidamina,25,CHEMBL12610,ES
+carbocistéine,25,CHEMBL396416,FR
+éplérénone,25,CHEMBL1095097,FR
+drospirénone,25,CHEMBL1509,FR
+oxomémazine,25,CHEMBL2104734,FR
+latanoprost,25,CHEMBL1051,FR
+clindamicina,25,CHEMBL1753,ES
+tolvaptan,24,CHEMBL344159,FR
+acétylcystéine,24,CHEMBL600,FR
+célécoxib,24,CHEMBL118,FR
+morfina,24,CHEMBL70,ES
+midazolam,24,CHEMBL655,ES
+gentamicina,24,,ES
+désogestrel,24,CHEMBL1533,FR
+ruxolitinib,24,CHEMBL1789941,ES
+flurbiprofeno,24,CHEMBL563,ES
+exemestano,24,CHEMBL1200374,ES
+tazobactam,24,CHEMBL404,ES
+desmopressine,24,,FR
+bimatoprost,24,CHEMBL1200963,ES
+loratadina,24,CHEMBL998,ES
+lamivudina,24,CHEMBL141,ES
+dichlorhydrate de bétahistine,24,CHEMBL24441,FR
+chlorhydrate de diltiazem,24,CHEMBL23,FR
+ambroxol,24,CHEMBL153479,ES
+ambrisentán,24,CHEMBL1111,ES
+piperacilina,24,CHEMBL702,ES
+clozapina,24,CHEMBL42,ES
+almotriptán,24,CHEMBL1505,ES
+gestodène,24,CHEMBL1213583,FR
+chlorhydrate de lercanidipine,24,CHEMBL250270,FR
+chlorhydrate de miansérine,23,CHEMBL6437,FR
+paraffine liquide,23,,FR
+céfuroxime,23,CHEMBL1436,FR
+captopril,23,CHEMBL1560,ES
+emtricitabina,23,CHEMBL885,ES
+chlorhydrate de lidocaïne,23,CHEMBL79,FR
+belladona pour préparations homéopathiques,23,,FR
+zolpidem,23,CHEMBL911,ES
+peróxido de benzoilo,23,CHEMBL1200370,ES
+sunitinib,23,CHEMBL535,FR
+progesterona,23,CHEMBL103,ES
+dutastéride,23,CHEMBL1200969,FR
+cinacalcet,23,CHEMBL1201284,FR
+rivastigmine,23,CHEMBL636,FR
+povidona iodada,23,,ES
+carbocisteína,22,CHEMBL396416,ES
+desloratadine,22,CHEMBL1172,FR
+terbinafine,22,CHEMBL822,FR
+cianocobalamina,22,,ES
+amilmetacresol,22,CHEMBL1512677,ES
+alcohol diclorobencílico,22,,ES
+dichlorhydrate de cétirizine,22,CHEMBL1000,FR
+fluocinolona,22,CHEMBL1201390,ES
+fesoterodina,22,CHEMBL1201764,ES
+micafungina,22,CHEMBL457547,ES
+paricalcitol,22,CHEMBL1200622,ES
+piridoxina,22,CHEMBL1364,ES
+lisdexanfetamina,22,CHEMBL1201222,ES
+fébuxostat,22,CHEMBL1164729,FR
+alginate de sodium,22,,FR
+prednisolone,22,CHEMBL131,FR
+metformine,22,CHEMBL1431,FR
+prednisona,22,CHEMBL635,ES
+zolmitriptan,22,CHEMBL1185,FR
+doxilamina,21,CHEMBL1004,ES
+lovastatina,21,CHEMBL503,ES
+minoxidil,21,CHEMBL802,ES
+prasugrel,21,CHEMBL1201772,ES
+diosmine,21,CHEMBL231884,FR
+nux vomica pour préparations homéopathiques,21,,FR
+duloxétine,21,CHEMBL1175,FR
+levocetirizina,21,CHEMBL1201191,ES
+valaciclovir,21,CHEMBL1349,ES
+topiramate,21,CHEMBL220492,FR
+tazobactam,21,CHEMBL404,FR
+dipropionate de béclométasone,21,CHEMBL1586,FR
+teriflunomida,21,CHEMBL973,ES
+taurine,21,CHEMBL239243,FR
+melatonina,20,CHEMBL45,ES
+inmunoglobulina g humana,20,,ES
+salbutamol,20,CHEMBL714,ES
+baclofène,20,CHEMBL701,FR
+imatinib,20,CHEMBL941,FR
+darunavir,20,CHEMBL1323,FR
+tolvaptán,20,CHEMBL344159,ES
+oximetazolina,20,CHEMBL762,ES
+ropinirole base,20,CHEMBL589,FR
+kétoconazole,20,CHEMBL157101,FR
+ceftazidima,20,CHEMBL44354,ES
+micofenolato mofetilo,20,,ES
+alcohol isopropílico,20,CHEMBL582,ES
+levobupivacaína,20,CHEMBL1201193,ES
+olmésartan médoxomil,20,CHEMBL1200692,FR
+ofloxacine,20,CHEMBL4,FR
+fluoxétine base,20,CHEMBL41,FR
+desmopresina,20,,ES
+metronidazol,20,CHEMBL137,ES
+travoprost,19,CHEMBL1200799,FR
+lévofloxacine,19,CHEMBL33,FR
+propofol,19,CHEMBL526,ES
+lamivudine,19,CHEMBL141,FR
+dimenhidrinato,19,CHEMBL1200406,ES
+bromure d'ipratropium anhydre,19,,FR
+octreotida,19,,ES
+minoxidil,19,CHEMBL802,FR
+leflunomida,19,CHEMBL960,ES
+chlorhydrate de pyridoxine,19,CHEMBL1364,FR
+ácido ibandrónico,19,CHEMBL997,ES
+mésalazine,19,CHEMBL704,FR
+ácido fólico,19,CHEMBL1622,ES
+dasatinib,19,CHEMBL1421,ES
+bimatoprost,19,CHEMBL1200963,FR
+ácido salicílico,19,CHEMBL424,ES
+remifentanilo,19,CHEMBL1005,ES
+erlotinib,19,CHEMBL553,FR
+tamsulosine,19,CHEMBL836,FR
+entécavir,19,CHEMBL713,FR
+galantamine,19,CHEMBL659,FR
+povidone iodée,19,,FR
+losartan,18,CHEMBL191,FR
+acide salicylique,18,CHEMBL424,FR
+rotigotina,18,CHEMBL1303,ES
+tolterodina,18,CHEMBL1382,ES
+brimonidina,18,CHEMBL844,ES
+hedera helix,18,,ES
+lactulose,18,CHEMBL296306,FR
+clozapine,18,CHEMBL42,FR
+erlotinib,18,CHEMBL553,ES
+ceftazidime anhydre,18,CHEMBL44354,FR
+fosfomycine,18,CHEMBL1757,FR
+chlorhydrate de méthylphénidate,18,CHEMBL796,FR
+cefpodoxime,18,CHEMBL1672,FR
+octréotide,18,,FR
+acide folinique,18,CHEMBL1679,FR
+amoxicilline base,18,CHEMBL1082,FR
+eltrombopag,18,CHEMBL461101,FR
+lisinopril anhydre,18,CHEMBL1237,FR
+glucosamina,18,CHEMBL493287,ES
+colistimetato de sodio,18,,ES
+daptomycine,18,CHEMBL387675,FR
+acébutolol base,17,CHEMBL642,FR
+saccharomyces boulardii,17,,ES
+ácido cítrico,17,CHEMBL1261,ES
+progestérone,17,CHEMBL103,FR
+capecitabina,17,CHEMBL1773,ES
+trinitrine,17,CHEMBL730,FR
+ácido ascórbico,17,CHEMBL196,ES
+loratadine,17,CHEMBL998,FR
+isotrétinoïne,17,CHEMBL547,FR
+travoprost,17,CHEMBL1200799,ES
+emtricitabine,17,CHEMBL885,FR
+guaifenesina,17,CHEMBL980,ES
+chlorhydrate de méthadone,17,CHEMBL651,FR
+prednisone,17,CHEMBL635,FR
+bupropión,17,CHEMBL894,ES
+somatropine ,17,,FR
+terazosina,17,CHEMBL611,ES
+létrozole,17,CHEMBL1444,FR
+valeriana officinalis,17,,ES
+naloxone,17,CHEMBL80,FR
+enzalutamida,17,CHEMBL1082407,ES
+sumatriptán,17,CHEMBL128,ES
+amorolfine base,17,CHEMBL489411,FR
+lopéramide base,17,CHEMBL841,FR
+terbinafina,17,CHEMBL822,ES
+abacavir,17,CHEMBL1380,ES
+eritromicina,17,CHEMBL532,ES
+anastrozole,17,CHEMBL1399,FR
+pomalidomide,16,CHEMBL43452,FR
+quinapril,16,CHEMBL1592,ES
+bupivacaína,16,CHEMBL1098,ES
+manidipine (dichlorhydrate de),16,CHEMBL1085699,FR
+magnésium,16,CHEMBL1201230,FR
+meloxicam,16,CHEMBL599,ES
+treprostinilo,16,CHEMBL1237119,ES
+nébivolol base,16,CHEMBL434394,FR
+sodium (chlorure de),16,,FR
+élétriptan,16,CHEMBL1510,FR
+pipéracilline,16,CHEMBL702,FR
+ébastine,16,CHEMBL305660,FR
+fumarate de diméthyle,16,CHEMBL2107333,FR
+vildagliptine,16,CHEMBL142703,FR
+salbutamol,16,CHEMBL714,FR
+desvenlafaxina,16,CHEMBL1118,ES
+déférasirox,16,CHEMBL550348,FR
+rabéprazole base,16,CHEMBL1219,FR
+tréprostinil,16,CHEMBL1237119,FR
+apomorfina,16,CHEMBL53,ES
+acétate de sodium trihydraté,16,,FR
+dexmedetomidina,16,CHEMBL778,ES
+cefepima,16,CHEMBL186,ES
+ciclopirox olamine,16,CHEMBL1413,FR
+ampicilina,16,CHEMBL174,ES
+acarbose,16,,FR
+vaseline,16,,FR
+macrogol 4000,16,,FR
+baclofeno,16,CHEMBL701,ES
+hydroxyde de magnésium,16,CHEMBL1200718,FR
+acide risédronique,16,CHEMBL923,FR
+axitinib,16,CHEMBL1289926,FR
+azithromycine,16,CHEMBL529,FR
+citisiniclina,16,CHEMBL497939,ES
+oxcarbazepina,15,CHEMBL1068,ES
+mirtazapine,15,CHEMBL654,FR
+sulfate de morphine,15,CHEMBL70,FR
+norgestimate,15,CHEMBL1200934,FR
+méthylprednisolone,15,CHEMBL650,FR
+teicoplanina,15,,ES
+fulvestrant,15,CHEMBL1358,ES
+chlorhydrate de tamsulosine,15,CHEMBL836,FR
+diosmina,15,CHEMBL231884,ES
+céfépime,15,CHEMBL186,FR
+voriconazole,15,CHEMBL638,FR
+énalapril,15,CHEMBL578,FR
+caféine,15,CHEMBL113,FR
+aceclofenaco,15,CHEMBL93645,ES
+toxina botulínica a,15,,ES
+piroxicam,15,CHEMBL527,FR
+cromoglicate de sodium,15,CHEMBL428880,FR
+ketoconazol,15,CHEMBL157101,ES
+clormadinona,15,CHEMBL110691,ES
+amitriptilina,15,CHEMBL629,ES
+bryonia pour préparations homéopathiques,15,,FR
+tobramicina,15,CHEMBL1747,ES
+naproxeno,15,CHEMBL154,ES
+condroitín sulfato,15,,ES
+sertraline base,15,CHEMBL809,FR
+vinorelbina,15,CHEMBL553025,ES
+toxine botulinique type a ,15,,FR
+chlorhydrate de lopéramide,15,CHEMBL841,FR
+nébivolol,15,CHEMBL434394,FR
+macitentán,15,CHEMBL2103873,ES
+étoricoxib,14,CHEMBL416146,FR
+ácido fusídico,14,CHEMBL374975,ES
+fosinopril sodique,14,CHEMBL3039598,FR
+clopidogrel,14,CHEMBL1771,FR
+vinorelbine,14,CHEMBL553025,FR
+ácido zoledrónico,14,CHEMBL924,ES
+méropénem anhydre,14,CHEMBL127,FR
+nilotinib,14,CHEMBL255863,ES
+zopiclone,14,CHEMBL135400,FR
+fluorure de sodium,14,CHEMBL1528,FR
+sevelámero,14,,ES
+vardénafil,14,CHEMBL1520,FR
+bendamustina,14,CHEMBL487253,ES
+simeticona,14,,ES
+arsenicum album pour préparations homéopathiques,14,,FR
+picosulfato sodio,14,CHEMBL1741134,ES
+dexaméthasone,14,CHEMBL384467,FR
+morphine,14,CHEMBL70,FR
+triglycérides à chaîne moyenne,14,,FR
+macrogol 3350,14,,FR
+amylmétacrésol,14,CHEMBL1512677,FR
+bromuro ipratropio,14,,ES
+codéine,14,CHEMBL485,FR
+solución con albúmina,14,,ES
+valaciclovir,14,CHEMBL1349,FR
+zonisamide,14,CHEMBL750,FR
+pirfénidone,14,CHEMBL1256391,FR
+chlorure de benzalkonium,14,CHEMBL1187417,FR
+immunoglobuline humaine normale (plasmatique),14,,FR
+etonogestrel,14,CHEMBL1531,ES
+chlorhydrate d'articaïne,14,CHEMBL1093,FR
+phosphate de codéine hémihydraté,14,CHEMBL485,FR
+paroxétine base,14,CHEMBL490,FR
+furoate de mométasone,14,CHEMBL1201404,FR
+efedrina,14,CHEMBL211456,ES
+chlorhydrate de sotalol,14,CHEMBL471,FR
+doxiciclina,14,CHEMBL1433,ES
+testosterona,14,CHEMBL386630,ES
+chlorhydrate de ropivacaïne,14,CHEMBL1077896,FR
+fésotérodine,14,CHEMBL1201764,FR
+silodosine,14,CHEMBL24778,FR
+lurasidona,14,CHEMBL1237021,ES
+liraglutida,14,,ES
+china rubra pour préparations homéopathiques,14,,FR
+borax,14,CHEMBL3833411,FR
+exémestane,14,CHEMBL1200374,FR
+pramipexole,14,CHEMBL301265,FR
+nicorandil,14,CHEMBL284906,FR
+captopril,14,CHEMBL1560,FR
+aconitum napellus pour préparations homéopathiques,14,,FR
+capécitabine,14,CHEMBL1773,FR
+cefotaxima,14,CHEMBL1730,ES
+cefixima,14,CHEMBL1541,ES
+céfixime anhydre,13,CHEMBL1541,FR
+dompéridone,13,CHEMBL219916,FR
+chlorhydrate de céliprolol,13,CHEMBL27810,FR
+protoxyde d'azote,13,CHEMBL1234579,FR
+leuprorelina,13,,ES
+glibenclamide,13,CHEMBL472,FR
+polimixina b,13,,ES
+azacitidina,13,CHEMBL1489,ES
+ipéca pour préparations homéopathiques,13,,FR
+dexpanthénol,13,CHEMBL1200979,FR
+ivermectine,13,,FR
+potassium (chlorure de),13,CHEMBL1201290,FR
+lanreotida,13,,ES
+ceftriaxone,13,CHEMBL161,FR
+dorzolamide,13,CHEMBL218490,FR
+propiverina,13,CHEMBL1078261,ES
+famotidina,13,CHEMBL902,ES
+itraconazol,13,CHEMBL64391,ES
+famciclovir,13,CHEMBL880,ES
+chlorhydrate de metformine,13,CHEMBL1431,FR
+valproate de sodium,13,CHEMBL109,FR
+charbon activé,13,,FR
+abacavir,13,CHEMBL1380,FR
+cloxacilline,13,CHEMBL891,FR
+chlorobutanol hémihydraté,13,CHEMBL1439973,FR
+cisatracurio besilato,13,,ES
+orlistat,13,CHEMBL175247,ES
+midazolam,13,CHEMBL655,FR
+cilostazol,13,CHEMBL799,ES
+mepivacaína,13,CHEMBL1087,ES
+métopimazine,13,CHEMBL398615,FR
+bromacepam,13,,ES
+timolol base,13,CHEMBL499,FR
+bicalutamide,13,CHEMBL409,FR
+ciclofosfamida,13,CHEMBL88,ES
+calcipotriol,13,CHEMBL1200666,ES
+bilastine,13,CHEMBL1742423,FR
+cefazolina,13,CHEMBL1435,ES
+atovaquone,13,CHEMBL1450,FR
+chlorhydrate d'alfuzosine,12,CHEMBL709,FR
+racécadotril,12,CHEMBL2103772,FR
+hydrogénosuccinate de doxylamine,12,,FR
+imidapril,12,CHEMBL317094,ES
+chlorhydrate d'ambroxol,12,CHEMBL153479,FR
+dropéridol,12,CHEMBL1108,FR
+oxaliplatino,12,,ES
+acarbosa,12,,ES
+ácido valproico,12,CHEMBL109,ES
+sertraline,12,CHEMBL809,FR
+tamoxifène base,12,CHEMBL83,FR
+norepinefrina,12,CHEMBL1437,ES
+oxazépam,12,CHEMBL568,FR
+cystéine,12,CHEMBL863,FR
+hidroxicloroquina,12,CHEMBL1535,ES
+mémantine,12,CHEMBL807,FR
+caspofungine,12,CHEMBL1630575,FR
+dabigatran étexilate,12,CHEMBL539697,FR
+calcifediol,12,CHEMBL1040,ES
+acide borique,12,CHEMBL42403,FR
+calendula officinalis pour préparations homéopathiques,12,,FR
+triamcinolona,12,CHEMBL1451,ES
+propofol,12,CHEMBL526,FR
+méloxicam,12,CHEMBL599,FR
+rilménidine,12,CHEMBL289480,FR
+vancomicina,12,CHEMBL262777,ES
+ketotifeno,12,CHEMBL534,ES
+clavulanique (acide),12,,FR
+posaconazol,12,CHEMBL1397,ES
+levosimendan,12,CHEMBL2051955,ES
+brimonidine,12,CHEMBL844,FR
+articaína,12,CHEMBL1093,ES
+oxyde de zinc,12,,FR
+magnesio óxido,12,,ES
+menotropina,12,,ES
+nintédanib,12,CHEMBL502835,FR
+empagliflozina,12,CHEMBL2107830,ES
+gluconate de calcium,12,CHEMBL1200496,FR
+bosutinib,12,CHEMBL288441,ES
+proteína plasma humano,12,,ES
+pazopanib,12,CHEMBL477772,FR
+lévomenthol,12,CHEMBL470670,FR
+trandolapril,11,CHEMBL1519,FR
+tartrate de zolpidem,11,CHEMBL911,FR
+huile d'olive raffinée,11,,FR
+tobramycine,11,CHEMBL1747,FR
+rasagiline,11,CHEMBL887,FR
+phosphate de dexaméthasone,11,CHEMBL384467,FR
+prilocaïne,11,CHEMBL1194,FR
+valganciclovir,11,CHEMBL1201314,FR
+iodure de potassium,11,CHEMBL1141,FR
+nilotinib,11,CHEMBL255863,FR
+rizatriptan,11,CHEMBL905,FR
+méthylphénidate,11,CHEMBL796,FR
+diénogest,11,CHEMBL1201864,FR
+linézolide,11,CHEMBL126,FR
+téicoplanine,11,,FR
+leuproréline,11,,FR
+sulfate de sodium anhydre,11,,FR
+solution de digluconate de chlorhexidine,11,,FR
+lévothyroxine,11,CHEMBL1624,FR
+sugammadex,11,,FR
+risédronate monosodique anhydre,11,,FR
+desfesoterodina,11,CHEMBL3348932,ES
+carmelosa,11,,ES
+chlorhydrate de proguanil,11,CHEMBL1377,FR
+alfuzosina,11,CHEMBL709,ES
+bisacodilo,11,CHEMBL942,ES
+bosutinib,11,CHEMBL288441,FR
+bortézomib,11,CHEMBL325041,FR
+vacuna anti gripal,11,,ES
+capsaicina,11,CHEMBL294199,ES
+espironolactona,11,CHEMBL1393,ES
+oxido nitrico,11,,ES
+carmustina,11,CHEMBL513,ES
+adapalène,11,CHEMBL1265,FR
+atosibán,11,,ES
+tetrizolina,11,CHEMBL1266,ES
+naproxeno sodico,11,CHEMBL154,ES
+bemiparina sodio,11,,ES
+atazanavir,11,CHEMBL1163,FR
+citalopram base,11,CHEMBL549,FR
+chamomilla vulgaris pour préparations homéopathiques,11,,FR
+tiamina,11,CHEMBL1547,ES
+ferrimanitol ovoalbúmina,11,,ES
+cytarabine,11,CHEMBL803,FR
+acide ursodésoxycholique,11,,FR
+adapaleno,11,CHEMBL1265,ES
+ginkgo biloba,11,,ES
+éfavirenz,11,CHEMBL223228,FR
+hidromorfona,11,CHEMBL398707,ES
+valganciclovir,11,CHEMBL1201314,ES
+icatibanto,11,,ES
+cuivre,11,,FR
+chlorhydrate de vérapamil,11,CHEMBL6966,FR
+moxonidine,10,CHEMBL19236,FR
+chlorhydrate de néfopam,10,CHEMBL465026,FR
+granisetrón,10,CHEMBL289469,ES
+sulfate de néomycine,10,CHEMBL370143,FR
+montélukast acide,10,CHEMBL787,FR
+propranolol,10,CHEMBL27,ES
+colchicina,10,CHEMBL107,ES
+chlorhydrate de tétracaïne,10,CHEMBL698,FR
+paclitaxel,10,CHEMBL428647,ES
+penicilina g,10,,ES
+manganèse,10,,FR
+clonazepam,10,CHEMBL452,ES
+cloperastina,10,CHEMBL415087,ES
+raloxifeno,10,CHEMBL81,ES
+chlorhydrate d'hydroxyzine,10,CHEMBL896,FR
+fingolimod,10,CHEMBL314854,FR
+oxcarbazépine,10,CHEMBL1068,FR
+indometacina,10,CHEMBL6,ES
+irinotecán,10,CHEMBL481,ES
+piracétam,10,CHEMBL36715,FR
+ivacaftor,10,CHEMBL2010601,ES
+phénobarbital,10,CHEMBL40,FR
+ivermectina,10,,ES
+bromazépam,10,CHEMBL277062,FR
+rabéprazole,10,CHEMBL1219,FR
+brinzolamide,10,CHEMBL220491,FR
+oxaliplatine,10,,FR
+roxithromycine,10,CHEMBL1214185,FR
+chlorhydrate d'amiodarone,10,CHEMBL633,FR
+bisacodyl,10,CHEMBL942,FR
+rhus toxicodendron pour préparations homéopathiques,10,,FR
+metoclopramida,10,CHEMBL86,ES
+mitomicina,10,CHEMBL105,ES
+safinamida,10,CHEMBL396778,ES
+chlorhydrate d'idarubicine,10,CHEMBL1117,FR
+donépézil base,10,CHEMBL502,FR
+monóxido de carbono,10,CHEMBL1231840,ES
+sulfur pour préparations homéopathiques,10,,FR
+calcium (chlorure de) dihydraté,10,CHEMBL1200496,FR
+sumatriptan,10,CHEMBL128,FR
+acétate de cyprotérone,10,CHEMBL142130,FR
+trimetoprima,10,CHEMBL22,ES
+cyanocobalamine,10,,FR
+acétate de zinc dihydraté,10,,FR
+agomelatina,10,CHEMBL10878,ES
+agua estéril para preparaciones inyectables,10,,ES
+diazépam,10,CHEMBL12,FR
+barnidipino,10,CHEMBL2103761,ES
+tiotropio,10,CHEMBL1900528,ES
+alcohol etílico,10,CHEMBL545,ES
+acide folique,10,CHEMBL1622,FR
+acide valproïque,10,CHEMBL109,FR
+alprostadil,10,CHEMBL495,ES
+atazanavir,10,CHEMBL1163,ES
+trazodona,10,CHEMBL621,ES
+aprepitant,10,CHEMBL1471,ES
+anidulafungina,10,CHEMBL264241,ES
+acide zolédronique anhydre,10,CHEMBL924,FR
+tériflunomide,10,CHEMBL973,FR
+ticagrélor,10,CHEMBL398435,FR
+cisatracurium,10,CHEMBL1201248,FR
+triflusal,10,CHEMBL1332032,ES
+solución de ringer lactato,10,,ES
+cabazitaxel,10,CHEMBL1201748,ES
+sodio citrato,10,,ES
+thiocolchicoside,10,CHEMBL213907,FR
+tacrolimus,10,CHEMBL269732,FR
+ciclosporina,10,,ES
+albumine humaine ,10,,FR
+"alcool dichloro-2,4 benzylique",10,CHEMBL3184437,FR
+ácido tranexámico,10,CHEMBL877,ES
+cassia angustifolia,10,,ES
+butilescopolamina bromuro,10,,ES
+gluconate de chlorhexidine,10,CHEMBL790,FR
+ácido ursodeoxicólico,10,CHEMBL1551,ES
+gemcitabine,9,CHEMBL888,FR
+imipénem anhydre,9,CHEMBL148,FR
+hydrocortisone,9,CHEMBL389621,FR
+helio,9,CHEMBL1796997,ES
+hesperidina,9,CHEMBL449317,ES
+brivaracétam,9,CHEMBL607400,FR
+caféine anhydre,9,,FR
+ácido gadotérico,9,,ES
+ácido folínico,9,,ES
+vacuna anti hepatitis a,9,,ES
+acide gadotérique,9,,FR
+hipromelosa,9,,ES
+nadroparine calcique ,9,,FR
+acétate d'abiratérone,9,CHEMBL254328,FR
+oseltamivir,9,CHEMBL1229,ES
+lévothyroxine sodique,9,CHEMBL1624,FR
+plantago ovata,9,,ES
+piroxicam,9,CHEMBL527,ES
+pioglitazona,9,CHEMBL595,ES
+sorafenib,9,CHEMBL1336,ES
+fulvestrant,9,CHEMBL1358,FR
+maléate de phéniramine,9,CHEMBL1193,FR
+mannitol,9,CHEMBL689,FR
+tamoxifeno,9,CHEMBL83,ES
+molsidomine,9,CHEMBL1329455,FR
+ofloxacino,9,CHEMBL4,ES
+melfalán,9,CHEMBL852,ES
+norfloxacino,9,CHEMBL9,ES
+thymus vulgaris,9,,ES
+noretisterona,9,CHEMBL1162,ES
+tinzaparina,9,,ES
+atosiban,9,,FR
+mononitrato de isosorbida,9,CHEMBL1311,ES
+almotriptan,9,CHEMBL1505,FR
+naratriptan,9,CHEMBL1278,FR
+facteur viii de coagulation humain ,9,,FR
+nicotinamide,9,CHEMBL1140,FR
+zinc,9,,FR
+(s)-lactate de sodium,9,CHEMBL1357,FR
+eau pour préparations injectables,9,,FR
+valérate d'estradiol,9,CHEMBL1511,FR
+fibrinógeno humano,9,,ES
+factor viii purificado,9,,ES
+brinzolamida,9,CHEMBL220491,ES
+chlorhydrate de bendamustine,9,CHEMBL487253,FR
+carbonate de sévélamer,9,,FR
+amorolfina,9,CHEMBL489411,ES
+efavirenz,9,CHEMBL223228,ES
+clortalidona,9,CHEMBL1055,ES
+carbomero,9,,ES
+sulfate de polymyxine b,9,,FR
+almagato,9,CHEMBL1200706,ES
+bario sulfato,9,,ES
+dimetindeno,9,CHEMBL22108,ES
+chlorure de cétylpyridinium,9,CHEMBL305906,FR
+siméticone,9,,FR
+cinitaprida,9,CHEMBL2104523,ES
+daltéparine sodique ,9,,FR
+eribulina,9,CHEMBL1683590,ES
+dalteparina sodio,9,,ES
+chlorhydrate de morphine,9,CHEMBL70,FR
+gefitinib,9,CHEMBL939,ES
+docetaxel,9,CHEMBL92,ES
+cétrimide,9,,FR
+proteasa,8,,ES
+racecadotrilo,8,CHEMBL2103772,ES
+rocuronio,8,CHEMBL1201244,ES
+ciproterona,8,CHEMBL139835,ES
+ambrisentan,8,CHEMBL1111,FR
+léflunomide,8,CHEMBL960,FR
+gemfibrozilo,8,CHEMBL457,ES
+chlorhydrate de thiamine,8,CHEMBL1547,FR
+prilocaína,8,CHEMBL1194,ES
+chlorhydrate de vancomycine,8,CHEMBL262777,FR
+potasio ioduro,8,,ES
+sulfate d'atropine,8,CHEMBL517712,FR
+dipropionate de béclométhasone,8,CHEMBL1586,FR
+clobetasol,8,CHEMBL1201362,ES
+pazopanib,8,CHEMBL477772,ES
+alfacalcidol,8,CHEMBL1601669,FR
+clorazepato dipotasio,8,,ES
+calcipotriol,8,CHEMBL1200666,FR
+micafungine,8,CHEMBL457547,FR
+dalbavancina,8,,ES
+monoxyde d'azote,8,CHEMBL1200689,FR
+moxifloxacine,8,CHEMBL32,FR
+lorazépam,8,CHEMBL580,FR
+terlipresina,8,,ES
+sodio alginato,8,,ES
+cyamémazine,8,CHEMBL2104153,FR
+tétanos,8,,ES
+vacuna anti difteria,8,,ES
+amilasa,8,,ES
+amikacina,8,CHEMBL177,ES
+valeriana officinalis pour préparations homéopathiques,8,,FR
+acide tranexamique,8,CHEMBL877,FR
+xilometazolina,8,CHEMBL312448,ES
+cilastatina,8,CHEMBL766,ES
+cyclophosphamide anhydre,8,CHEMBL88,FR
+zuclopentixol,8,CHEMBL53904,ES
+étoposide,8,CHEMBL44657,FR
+érythromycine,8,CHEMBL532,FR
+géfitinib,8,CHEMBL939,FR
+ácidos omega-3 ésteres etílicos,8,,ES
+anagrelida,8,CHEMBL760,ES
+tretinoína,8,CHEMBL38,ES
+coccus cacti pour préparations homéopathiques,8,,FR
+trétinoïne,8,CHEMBL38,FR
+trabectedina,8,CHEMBL450449,ES
+atropina sulfato,8,,ES
+tofacitinib,8,CHEMBL221959,ES
+tiotepa,8,CHEMBL671,ES
+acétate de potassium,8,CHEMBL1201290,FR
+trabectédine,8,CHEMBL450449,FR
+tigeciclina,8,CHEMBL376140,ES
+bifonazol,8,CHEMBL277535,ES
+cinéole,8,CHEMBL485259,FR
+chlorhydrate de lysozyme,8,,FR
+lanthane,8,,FR
+tartrate de métoprolol,8,CHEMBL13,FR
+chlorure de manganèse tétrahydraté,8,,FR
+salmétérol base,8,CHEMBL1263,FR
+ketoprofeno,8,CHEMBL571,ES
+difenhidramina,8,CHEMBL657,ES
+magnesio hidróxido,8,,ES
+doxycycline base,8,CHEMBL1433,FR
+facteur ix de coagulation humain ,8,,FR
+imipenem,8,CHEMBL148,ES
+laurilsulfato sodio,8,,ES
+bensérazide base,8,CHEMBL1096979,FR
+ioversol,8,CHEMBL1200614,ES
+riluzole,8,CHEMBL744,FR
+metocarbamol,8,CHEMBL1201117,ES
+estriol,8,CHEMBL193482,FR
+metadona,8,CHEMBL651,ES
+macrogol,8,,ES
+epoprostenol,8,CHEMBL1139,ES
+drosera pour préparations homéopathiques,8,,FR
+bisoprolol (fumarate acide de),8,CHEMBL645,FR
+lipasa,8,,ES
+phosphate dipotassique,8,,FR
+carboplatine,8,,FR
+extrait sec de feuille de lierre grimpant,8,,FR
+bosentan,8,CHEMBL957,FR
+ketorolaco,8,CHEMBL469,ES
+paclitaxel,8,CHEMBL428647,FR
+lenvatinib,8,CHEMBL1289601,ES
+eprosartán,8,CHEMBL813,ES
+mirabegrón,8,CHEMBL2095212,ES
+chlorhydrate d'éphédrine,8,CHEMBL211456,FR
+azélastine,8,CHEMBL639,FR
+mélatonine,8,CHEMBL45,FR
+dihidrógenofosfato sodio,8,,ES
+mémantine base,8,CHEMBL807,FR
+gadobutrol,8,,ES
+prasugrel,8,CHEMBL1201772,FR
+ferrum phosphoricum pour préparations homéopathiques,8,,FR
+nevirapina,8,CHEMBL57,ES
+carbamazépine,8,CHEMBL108,FR
+nadroparina,8,,ES
+mupirocina,8,CHEMBL719,ES
+bromure de rocuronium,8,CHEMBL1201244,FR
+carbonate de calcium,8,CHEMBL1200539,FR
+modafinilo,8,CHEMBL1373,ES
+eletriptán,8,CHEMBL1510,ES
+adenosina,7,CHEMBL477,ES
+térazosine base,7,CHEMBL611,FR
+posaconazole,7,CHEMBL1397,FR
+lactulosa,7,CHEMBL296306,ES
+povidone,7,,FR
+kalium phosphoricum pour préparations homéopathiques,7,,FR
+hidroquinona,7,CHEMBL537,ES
+phloroglucinol anhydre,7,CHEMBL473159,FR
+phloroglucinol dihydraté,7,CHEMBL473159,FR
+phloroglucinol hydraté,7,CHEMBL473159,FR
+zidovudine,7,CHEMBL129,FR
+glycérophosphate de sodium hydraté,7,,FR
+irinotécan,7,CHEMBL481,FR
+verapamilo,7,CHEMBL6966,ES
+protéine c humaine ,7,,FR
+fludesoxiglucosa (18f),7,CHEMBL2030434,ES
+uroquinasa,7,,ES
+hexétidine,7,CHEMBL144673,FR
+pulsatilla pour préparations homéopathiques,7,,FR
+phényléphrine,7,CHEMBL1215,FR
+pivalate de tixocortol,7,CHEMBL2107112,FR
+zopiclona,7,CHEMBL135400,ES
+isoniazida,7,CHEMBL64,ES
+pipéracilline base,7,CHEMBL702,FR
+héparine calcique,7,,FR
+virus poliomyélitique souche mef-1 de type 2 inactivé ,7,,FR
+flumazenil,7,CHEMBL407,ES
+virus poliomyelitique souche mahoney de type 1 inactivé ,7,,FR
+virus poliomyélitique souche saukett de type 3 inactivé ,7,,FR
+factor con willebrand,7,,ES
+fampridina,7,CHEMBL284348,ES
+benzalconio cloruro,7,,ES
+nifédipine,7,CHEMBL193,FR
+misoprostol,7,CHEMBL606,ES
+lévosimendan,7,CHEMBL2051955,FR
+prednicarbato,7,CHEMBL1200386,ES
+naproxène sodique,7,CHEMBL154,FR
+pentoxifilina,7,CHEMBL628,ES
+sufentanil,7,CHEMBL658,FR
+passiflora incarnata,7,,ES
+palonosetrón,7,CHEMBL1189679,ES
+cloxacilina,7,CHEMBL891,ES
+nafazolina,7,CHEMBL761,ES
+oxido nitroso,7,,ES
+otilonio bromuro,7,,ES
+nicardipino,7,CHEMBL1484,ES
+nimodipino,7,CHEMBL1428,ES
+silicea pour préparations homéopathiques,7,,FR
+decitabina,7,CHEMBL1201129,ES
+protóxido nitroso,7,,ES
+lévobupivacaïne,7,CHEMBL1201193,FR
+metoprolol,7,CHEMBL13,ES
+mupirocine,7,CHEMBL719,FR
+factor viii,7,,ES
+factor ix purificado,7,,ES
+lanréotide base,7,,FR
+bromhexina,7,CHEMBL253376,ES
+testostérone,7,CHEMBL386630,FR
+carbamazepina,7,CHEMBL108,ES
+sulfametoxazol,7,CHEMBL443,ES
+etoposido,7,CHEMBL44657,ES
+retinol,7,CHEMBL986,ES
+somatostatina,7,,ES
+lornoxicam,7,CHEMBL1569487,ES
+sodio ioduro (131i),7,,ES
+sertaconazol,7,CHEMBL1201196,ES
+manitol,7,CHEMBL689,ES
+sulpiride,7,CHEMBL26,FR
+rifampicina,7,CHEMBL374478,ES
+oxígeno,7,,ES
+óxido nitroso,7,CHEMBL1234579,ES
+biclotymol,7,CHEMBL2107655,FR
+fampridine,7,CHEMBL284348,FR
+fludésoxyglucose [18f],7,,FR
+ergocalciférol,7,CHEMBL1536,FR
+acébutolol,7,CHEMBL642,FR
+chelidonium majus pour préparations homéopathiques,7,,FR
+chlorhexidine (digluconate de),7,CHEMBL790,FR
+acétate de chlormadinone,7,CHEMBL110691,FR
+chlorhydrate de bénazépril,7,CHEMBL838,FR
+dichlorhydrate de lévocétirizine,7,CHEMBL1201191,FR
+chlorhydrate de cartéolol,7,CHEMBL839,FR
+chlorhydrate de clomipramine,7,CHEMBL415,FR
+chlorhydrate de donépézil,7,CHEMBL502,FR
+chlorhydrate de midodrine,7,CHEMBL1201212,FR
+fluor élément,7,,FR
+acétylleucine,7,CHEMBL1875805,FR
+estradiol hémihydraté,7,CHEMBL135,FR
+dacarbazine,7,CHEMBL476,FR
+gelsemium pour préparations homéopathiques,7,,FR
+céfazoline,7,CHEMBL1435,FR
+alcool benzylique,7,CHEMBL720,FR
+ciclopirox,7,CHEMBL1413,FR
+altizide,7,CHEMBL599870,FR
+alprostadil,7,CHEMBL495,FR
+clindamycine base,7,CHEMBL1753,FR
+cobalt,7,,FR
+carbidopa,7,CHEMBL1201236,FR
+acétate de nomégestrol,7,CHEMBL2105722,FR
+fluvastatine,7,CHEMBL2220442,FR
+azithromycine anhydre,7,CHEMBL529,FR
+atropine (sulfate d'),7,CHEMBL517712,FR
+avena sativa pour préparations homéopathiques,7,,FR
+cabazitaxel,7,CHEMBL1201748,FR
+ganciclovir,6,CHEMBL182,ES
+chlorure de calcium anhydre,6,,FR
+cilazapril,6,CHEMBL515606,ES
+ciproheptadina,6,CHEMBL516,ES
+citarabina,6,CHEMBL803,ES
+anagrélide,6,CHEMBL760,FR
+anatoxine diphtérique ,6,,FR
+amitriptyline,6,CHEMBL629,FR
+bromure de pinavérium,6,CHEMBL1909324,FR
+flurbiprofène,6,CHEMBL563,FR
+magnesia phosphorica pour préparations homéopathiques,6,,FR
+anatoxine tétanique ,6,,FR
+norfloxacine,6,CHEMBL9,FR
+clofarabina,6,CHEMBL1750,ES
+chlorhydrate de propranolol,6,CHEMBL27,FR
+coaltar (brea de hulla),6,,ES
+névirapine anhydre,6,CHEMBL57,FR
+indométacine,6,CHEMBL6,FR
+chlorure de zinc,6,CHEMBL1200679,FR
+facteur ii de coagulation humain ,6,,FR
+megestrol,6,CHEMBL1201139,ES
+atovacuona,6,CHEMBL1450,ES
+mentha piperita,6,,ES
+clindamycine,6,CHEMBL1753,FR
+citalopram,6,CHEMBL549,FR
+mentol,6,CHEMBL470670,ES
+bisoprolol (fumarate de),6,CHEMBL645,FR
+cisplatine,6,,FR
+cabergolina,6,CHEMBL1201087,ES
+cilastatine,6,CHEMBL766,FR
+calcio cloruro,6,,ES
+magnesio sulfato,6,,ES
+bromhydrate de dextrométhorphane,6,CHEMBL52440,FR
+chrome (chlorure de) hexahydraté,6,,FR
+ambra grisea pour préparations homéopathiques,6,,FR
+fluvastatine base,6,CHEMBL2220442,FR
+carboplatino,6,,ES
+plerixafor,6,CHEMBL18442,ES
+fluoxétine,6,CHEMBL41,FR
+facteur vii de coagulation humain ,6,,FR
+fenticonazol,6,CHEMBL1651990,ES
+epirubicina,6,CHEMBL417,ES
+epoetina alfa,6,,ES
+ertapenem,6,CHEMBL1359,ES
+chlorhexidine (gluconate de),6,CHEMBL790,FR
+mycophénolate mofétil,6,CHEMBL1456,FR
+heparina,6,,ES
+l-tryptophane,6,CHEMBL54976,FR
+monoxyde de carbone,6,CHEMBL1231840,FR
+chlorhydrate d'oxybutynine,6,CHEMBL1231,FR
+haloperidol,6,CHEMBL54,ES
+mercurius solubilis pour préparations homéopathiques,6,,FR
+lactate de magnésium dihydraté,6,CHEMBL1201230,FR
+fitomenadiona,6,CHEMBL1550,ES
+modafinil,6,CHEMBL1373,FR
+mesna,6,CHEMBL1098319,FR
+fosinopril,6,CHEMBL3039598,ES
+hidrógenofosfato disodio,6,,ES
+chlorhydrate de bupivacaïne anhydre,6,CHEMBL1098,FR
+piracetam,6,CHEMBL36715,ES
+chlorhydrate de fexofénadine,6,CHEMBL914,FR
+fusidate de sodium,6,CHEMBL374975,FR
+chlorhydrate de mépivacaïne,6,CHEMBL1087,FR
+facteur x de coagulation humain ,6,,FR
+ketazolam,6,CHEMBL2104356,ES
+dexibuprofeno,6,CHEMBL175,ES
+didrogesterona,6,CHEMBL1200853,ES
+kalium bichromicum pour préparations homéopathiques,6,,FR
+iomeprol,6,CHEMBL2107214,ES
+echinacea purpurea,6,,ES
+iodo,6,,ES
+pentosano polisulfato de sodio,6,,ES
+doxorubicina,6,CHEMBL53463,ES
+fluorouracile,6,CHEMBL185,FR
+colistiméthate sodique,6,,FR
+chlorhydrate de bétaxolol,6,CHEMBL423,FR
+azathioprine,6,CHEMBL1542,FR
+sapropterina,6,CHEMBL1201774,ES
+doxazosine,6,CHEMBL707,FR
+hexamidine (diiséthionate d'),6,CHEMBL25105,FR
+adénosine,6,CHEMBL477,FR
+tocoferol,6,,ES
+tramadol,6,CHEMBL1237044,FR
+triméthoprime,6,CHEMBL22,FR
+tibolona,6,CHEMBL2103774,ES
+triptoréline,6,,FR
+troxérutine,6,CHEMBL3182320,FR
+témozolomide,6,CHEMBL810,FR
+huile de poisson riche en acides oméga-3 ,6,,FR
+tetracaína,6,CHEMBL698,ES
+dexkétoprofène,6,CHEMBL75435,FR
+tétradécyl sulfate de sodium,6,CHEMBL1201345,FR
+urokinase (mammifere/humain/urine),6,,FR
+dexamfétamine,6,CHEMBL612,FR
+pitavastatine,6,CHEMBL1201753,FR
+teofilina,6,,ES
+estradiol anhydre,6,CHEMBL135,FR
+tenofovir alafenamida,6,CHEMBL2107825,ES
+acétate de médroxyprogestérone,6,CHEMBL717,FR
+acétate de magnésium tétrahydraté,6,CHEMBL1201230,FR
+tos ferina,6,,ES
+sorafénib,6,CHEMBL1336,FR
+donépézil,6,CHEMBL502,FR
+rupatadine,6,CHEMBL91397,FR
+ácido micofenólico,6,CHEMBL866,ES
+rétinol,6,CHEMBL986,FR
+sabadilla pour préparations homéopathiques,6,,FR
+acide fusidique,6,CHEMBL374975,FR
+quinapril base,6,CHEMBL1592,FR
+dipropionate de béclométasone anhydre,6,CHEMBL1586,FR
+tinzaparine sodique ,6,,FR
+protéine s ,6,,FR
+sulfate de magnésium heptahydraté,6,,FR
+urofolitropina,6,,ES
+ulipristal,6,CHEMBL2103846,ES
+diosmectite,6,,FR
+prazépam,6,CHEMBL969,FR
+acétate d'alpha-tocophérol,6,,FR
+varénicline,6,CHEMBL1076903,FR
+ciclosporine,6,,FR
+passiflora incarnata pour préparations homéopathiques,6,,FR
+sulpirida,6,CHEMBL26,ES
+hydroxyde de sodium,6,CHEMBL2105794,FR
+colécalciférol,6,CHEMBL1042,FR
+étonogestrel,6,CHEMBL1531,FR
+euphrasia officinalis pour préparations homéopathiques,6,,FR
+alfa-amylase ,6,,FR
+agomélatine,6,CHEMBL10878,FR
+propionate de clobétasol,5,CHEMBL1201362,FR
+althaea officinalis,5,,ES
+spongia tosta pour préparations homéopathiques,5,,FR
+stramonium pour préparations homéopathiques,5,,FR
+sulfaméthoxazole,5,CHEMBL443,FR
+bencilpenicilina benzatina,5,,ES
+sélénite de sodium,5,,FR
+busulfano,5,CHEMBL820,ES
+sulfate de cuivre pentahydraté,5,,FR
+echinacea angustifolia pour préparations homéopathiques,5,,FR
+camphre racémique,5,,FR
+"concentrat de vitamine a synthétique, forme huileuse",5,,FR
+crataegus oxyacantha pour préparations homéopathiques,5,,FR
+dioxyde de titane,5,,FR
+fosaprepitant,5,CHEMBL1199324,ES
+hidroxizina,5,CHEMBL896,ES
+milrinone,5,CHEMBL189,FR
+dioxyde de sélénium,5,,FR
+carbomère 974p,5,,FR
+carbomère 980,5,,FR
+sulfate de terbutaline,5,CHEMBL1760,FR
+flecainida,5,CHEMBL652,ES
+vérapamil (chlorhydrate de),5,CHEMBL6966,FR
+benazepril,5,CHEMBL838,ES
+pémétrexed,5,CHEMBL225072,FR
+diméticone,5,,FR
+rifampicine,5,CHEMBL374478,FR
+bisoprolol,5,CHEMBL645,FR
+dorzolamide base,5,CHEMBL218490,FR
+antitrombina iii,5,,ES
+paroxétine,5,CHEMBL490,FR
+colocynthis pour préparations homéopathiques,5,,FR
+clotrimazole,5,CHEMBL104,FR
+amidotrizoato sodio,5,,ES
+dulcamara pour préparations homéopathiques,5,,FR
+saccharomyces cerevisiae,5,,FR
+lantano carbonato,5,,ES
+lactobacillus acidophilus,5,,ES
+raloxifène base,5,CHEMBL81,FR
+docétaxel,5,CHEMBL92,FR
+magnésium (chlorure de) hexahydraté,5,,FR
+dydrogestérone,5,CHEMBL1200853,FR
+sodium (bicarbonate de),5,,FR
+sodium (valproate de),5,,FR
+cabergoline,5,CHEMBL1201087,FR
+maléate de fluvoxamine,5,CHEMBL814,FR
+amfotericina b,5,CHEMBL267345,ES
+idarubicina,5,CHEMBL1117,ES
+somatostatine,5,,FR
+fexofenadina,5,CHEMBL914,ES
+diltiazem (chlorhydrate de),5,CHEMBL23,FR
+fenoximetilpenicilina,5,CHEMBL615,ES
+centella asiática,5,,ES
+chlorhydrate de doxorubicine,5,CHEMBL53463,FR
+aceite de soja purificado,5,,ES
+diacéréine,5,CHEMBL41286,FR
+phosphate monopotassique,5,,FR
+chlorure de fluorocholine [18f],5,,FR
+dexclorfeniramina,5,CHEMBL1201353,ES
+dexmédétomidine,5,CHEMBL778,FR
+naproxène,5,CHEMBL154,FR
+nétilmicine,5,CHEMBL1572,FR
+plérixafor,5,CHEMBL18442,FR
+chlorhydrate de métoclopramide anhydre,5,CHEMBL86,FR
+domperidona,5,CHEMBL219916,ES
+natrum sulfuricum pour préparations homéopathiques,5,,FR
+dacarbazina,5,CHEMBL476,ES
+nystatine,5,,FR
+phosphate monosodique dihydraté,5,,FR
+phosphoricum acidum pour préparations homéopathiques,5,,FR
+énoxolone,5,CHEMBL230006,FR
+chlorhydrate de pseudoéphédrine,5,CHEMBL1590,FR
+chlorhydrate de ropivacaïne anhydre,5,CHEMBL1077896,FR
+cleboprida,5,CHEMBL325109,ES
+cladribina,5,CHEMBL1619,ES
+carteolol,5,CHEMBL839,ES
+carnitina,5,CHEMBL172513,ES
+fenitoína,5,CHEMBL16,ES
+peroxyde de benzoyle anhydre,5,,FR
+céfotaxime,5,CHEMBL1730,FR
+thiotépa,5,CHEMBL671,FR
+doxycycline anhydre,5,CHEMBL1433,FR
+théophylline,5,,FR
+alfa-1-antitripsina,5,,ES
+etofenamato,5,CHEMBL1451633,ES
+estriol,5,CHEMBL193482,ES
+tiapride base,5,CHEMBL84158,FR
+chlorhydrate d'azélastine,5,CHEMBL639,FR
+fibrinogène humain ,5,,FR
+tiotropium,5,CHEMBL1900528,FR
+triglycérides d'acides oméga-3 ,5,,FR
+alcanfor,5,CHEMBL15768,ES
+chlorhydrate d'oxycodone,5,CHEMBL656,FR
+enoxolona,5,CHEMBL230006,ES
+chlorhydrate d'épirubicine,5,CHEMBL417,FR
+extrait allergénique de dermatophagoides pteronyssinus,5,,FR
+extrait allergénique de dermatophagoides farinae,5,,FR
+méthoxsalène,5,CHEMBL416,FR
+extrait allergénique de pollen de fléole des prés,5,,FR
+pholcodine,5,CHEMBL2105224,FR
+droperidol,5,CHEMBL1108,ES
+cocculus indicus pour préparations homéopathiques,5,,FR
+glucosamine,5,CHEMBL493287,FR
+chlorhexidine,5,CHEMBL790,FR
+oxibato sodio,5,,ES
+icatibant,5,,FR
+olopatadina,5,CHEMBL1189432,ES
+lactate de sodium anhydre,5,,FR
+sevoflurano,5,CHEMBL1200694,ES
+hyoscyamus niger pour préparations homéopathiques,5,,FR
+alcool isopropylique,5,CHEMBL582,FR
+tafamidis,5,CHEMBL2103837,ES
+tafluprost,5,CHEMBL1963683,ES
+agnus castus pour préparations homéopathiques,5,,FR
+atropinum sulfuricum pour préparations homéopathiques,5,,FR
+hydrocortisone (butyrate d'),5,CHEMBL389621,FR
+netilmicina,5,CHEMBL1572,ES
+huile d'olive raffinée pour préparations injectables,5,,FR
+acéclofénac,5,CHEMBL93645,FR
+triglicéridos de cadena media,5,,ES
+baume du pérou,5,,FR
+hamamelis virginiana pour préparations homéopathiques,5,,FR
+ignatia amara pour préparations homéopathiques,5,,FR
+argentum metallicum pour préparations homéopathiques,5,,FR
+metoxaleno,5,,ES
+oxitetraciclina,5,CHEMBL1517,ES
+itraconazole,5,CHEMBL64391,FR
+isoniazide,5,CHEMBL64,FR
+povidona,5,,ES
+gaïacol,5,CHEMBL13766,FR
+prednisolona,5,CHEMBL131,ES
+propafenona,5,CHEMBL631,ES
+propifenazona,5,CHEMBL28318,ES
+amphotéricine b,5,CHEMBL267345,FR
+pelargonium sidoides,5,,ES
+rhamnus frangula,5,,ES
+gadolinium,5,,FR
+parafina blanda (vaselina filante),5,,ES
+rifaximina,5,CHEMBL1617,ES
+l-cystine,5,CHEMBL590540,FR
+riluzol,5,CHEMBL744,ES
+roflumilast,5,CHEMBL193240,ES
+gentamicine,5,,FR
+halopéridol,5,CHEMBL54,FR
+"ispaghul (graine d'), tégument de la",5,,FR
+lithium,5,CHEMBL1201333,FR
+acide lactique,5,CHEMBL1200559,FR
+medroxiprogesterona,5,CHEMBL717,ES
+acide ursodéoxycholique,5,CHEMBL1551,FR
+mesna,5,CHEMBL1098319,ES
+zidovudina,5,CHEMBL129,ES
+meglumina,5,CHEMBL1200570,ES
+triptorelina,5,,ES
+glycérophosphate de sodium anhydre,5,,FR
+biotina,4,CHEMBL857,ES
+buserelina,4,,ES
+quinine,4,CHEMBL170,FR
+sodium (dihydrogénophosphate de) dihydraté,4,,FR
+loxapine base,4,CHEMBL831,FR
+ornithine,4,CHEMBL446143,FR
+oxycodone (chlorhydrate d'),4,CHEMBL656,FR
+dobutamine base,4,CHEMBL926,FR
+calcitriol,4,CHEMBL846,ES
+rheum officinale,4,,ES
+secale cornutum pour préparations homéopathiques,4,,FR
+carbetocina,4,,ES
+alpha-1 antitrypsine humaine ,4,,FR
+salicilato de metilo,4,CHEMBL108545,ES
+oxyde d'aluminium,4,,FR
+carbón activado,4,,ES
+senósidos a-b,4,,ES
+pyrantel base,4,CHEMBL1626223,FR
+sorbitol,4,CHEMBL1682,FR
+pancréatine ,4,,FR
+clorazépate dipotassique,4,CHEMBL1213252,FR
+quinagolide,4,CHEMBL2218861,FR
+iloprost,4,CHEMBL494,FR
+axitinib,4,CHEMBL1289926,ES
+clobazam,4,CHEMBL70418,FR
+azatioprina,4,CHEMBL1542,ES
+solidago virga aurea pour préparations homéopathiques,4,,FR
+warfarina,4,CHEMBL1464,ES
+oxytocine,4,,FR
+extrait mou de gelsémium,4,,FR
+extrait mou de grindélia,4,,FR
+rabéprazole sodique,4,CHEMBL1219,FR
+trimetazidina,4,CHEMBL203266,ES
+raltegravir,4,CHEMBL254316,ES
+amiodarona,4,CHEMBL633,ES
+cloranfenicol,4,CHEMBL130,ES
+chlorhydrate de sitagliptine monohydraté,4,CHEMBL1422,FR
+extrait sec raffiné et quantifié de feuille de ginkgo,4,,FR
+clorpromazina,4,CHEMBL71,ES
+nitisinone,4,CHEMBL1337,FR
+polio,4,,ES
+glucose monohydraté,4,CHEMBL1222250,FR
+cobre tetrakis,4,,ES
+chlorhydrate de pramocaïne,4,CHEMBL1198,FR
+plantago lanceolata,4,,ES
+cromoglicato sodio,4,CHEMBL428880,ES
+ganciclovir,4,CHEMBL182,FR
+abeille (venin d'),4,,FR
+facteur willebrand de coagulation humain,4,,FR
+chlorhydrate de phényléphrine,4,CHEMBL1215,FR
+nitrate de sertaconazole,4,CHEMBL1201196,FR
+clomipramina,4,CHEMBL415,ES
+chlorhydrate de trihexyphénidyle,4,CHEMBL1490,FR
+acide citrique anhydre,4,,FR
+cefalexina,4,CHEMBL1727,ES
+cefditoreno,4,CHEMBL1743,ES
+chlorure de suxaméthonium,4,CHEMBL703,FR
+ammonium (molybdate d') tétrahydraté,4,,FR
+sambucus nigra pour préparations homéopathiques,4,,FR
+acide l folinique,4,,FR
+chlorure de calcium,4,CHEMBL1200668,FR
+clobazam,4,CHEMBL70418,ES
+proguanilo,4,,ES
+gelsemium sempervirens pour préparations homéopathiques,4,,FR
+chlorpromazine,4,CHEMBL71,FR
+cisplatino,4,,ES
+ácido ascórbico/ascorbato,4,,ES
+rotigotine,4,CHEMBL1303,FR
+colchicum autumnale pour préparations homéopathiques,4,,FR
+héparine sodique,4,,FR
+amilorida,4,CHEMBL945,ES
+dichlorhydrate de trimétazidine,4,CHEMBL203266,FR
+tropicamide,4,CHEMBL1200604,FR
+tryptophane,4,CHEMBL54976,FR
+tetradecilsulfato sodio,4,,ES
+tetrabenazina,4,CHEMBL117785,ES
+podophyllum peltatum pour préparations homéopathiques,4,,FR
+huile essentielle d'eucalyptus,4,,FR
+acétonide de triamcinolone,4,CHEMBL1504,FR
+teriparatida,4,,ES
+urofollitropine ,4,,FR
+acétylsalicylique (acide),4,,FR
+estradiol (valérate d'),4,CHEMBL135,FR
+hydrastis canadensis pour préparations homéopathiques,4,,FR
+glonoinum pour préparations homéopathiques,4,,FR
+sulfate de magnésium anhydre,4,CHEMBL1201230,FR
+vacuna anti hepatitis b,4,,ES
+trolamine,4,CHEMBL446061,FR
+tirofiban,4,CHEMBL916,FR
+succimer,4,CHEMBL1201073,FR
+propériciazine,4,CHEMBL251940,FR
+sélénium,4,CHEMBL6068503,FR
+trimebutina,4,CHEMBL190044,ES
+tabacum pour préparations homéopathiques,4,,FR
+tacrolimus monohydraté,4,CHEMBL269732,FR
+ertapénem,4,CHEMBL1359,FR
+dimenhydrinate,4,CHEMBL1200406,FR
+tropicamida,4,CHEMBL1200604,ES
+digoxine,4,CHEMBL1751,FR
+terlipressine,4,,FR
+terpine,4,CHEMBL1651998,FR
+prométhazine,4,CHEMBL643,FR
+pramipexole base,4,CHEMBL301265,FR
+thiopental sodique,4,CHEMBL441,FR
+troxerutina,4,CHEMBL3182320,ES
+eskétamine,4,CHEMBL395091,FR
+eucalyptus globulus pour préparations homéopathiques,4,,FR
+vitamine d3,4,CHEMBL1042,FR
+granisétron base,4,CHEMBL289469,FR
+zofénopril,4,CHEMBL331378,FR
+solución de ringer,4,,ES
+cuprum aceticum pour préparations homéopathiques,4,,FR
+albúmina macroagregados para tecnecio (99mtc),4,,ES
+petroleum pour préparations homéopathiques,4,,FR
+sucralfate,4,,FR
+peroxyde de benzoyle,4,CHEMBL1200370,FR
+alitretinoína,4,CHEMBL705,ES
+succinate de métoprolol,4,CHEMBL13,FR
+alitrétinoïne,4,CHEMBL705,FR
+succinate de doxylamine,4,CHEMBL1004,FR
+hélium,4,CHEMBL1796997,FR
+allium cepa pour préparations homéopathiques,4,,FR
+sertindol,4,CHEMBL12713,ES
+serenoa repens,4,,ES
+dinoprostone,4,CHEMBL548,FR
+acitretina,4,CHEMBL1131,ES
+sufentanilo,4,CHEMBL658,ES
+acenocumarol,4,CHEMBL397420,ES
+phytoménadione,4,CHEMBL1550,FR
+céfoxitine,4,CHEMBL996,FR
+céfotaxime base,4,CHEMBL1730,FR
+vacuna anti meningococo c,4,,ES
+disopyramide,4,CHEMBL517,FR
+phénol,4,CHEMBL14060,FR
+eupatorium perfoliatum pour préparations homéopathiques,4,,FR
+phytolacca decandra pour préparations homéopathiques,4,,FR
+hydroxyde d'aluminium,4,CHEMBL1200706,FR
+époétine alfa ,4,,FR
+hydromorphone,4,CHEMBL398707,FR
+sulodexida,4,,ES
+éthanol à 96 pour cent,4,,FR
+niaouli (huile essentielle de),4,,FR
+phosphate de fludarabine,4,CHEMBL1568,FR
+sulfadiazina argéntica,4,,ES
+calcio acetato,4,CHEMBL1200800,ES
+fusidique (acide),4,,FR
+olodaterol,4,CHEMBL605846,ES
+articaïne base,4,CHEMBL1093,FR
+maléate de chlorphénamine,4,,FR
+caspofungine base,4,CHEMBL1630575,FR
+inhibidor c1 esterasa,4,,ES
+felodipino,4,CHEMBL1480,ES
+inmunoglobulina anti hepatitis b humana,4,,ES
+iopamidol,4,CHEMBL1200932,ES
+bésilate d'atracurium,4,CHEMBL1360,FR
+oxibutinina,4,CHEMBL1231,ES
+argentum nitricum pour préparations homéopathiques,4,,FR
+estiripentol,4,CHEMBL1983350,ES
+magnésium (carbonate de) lourd,4,,FR
+chlorhydrate d'apomorphine,4,CHEMBL53,FR
+labetalol,4,CHEMBL429,ES
+chlorhydrate d'esmolol,4,CHEMBL768,FR
+fexofenadine,4,CHEMBL914,FR
+lauromacrogol 400,4,,ES
+ménotropine ,4,,FR
+lobelia inflata pour préparations homéopathiques,4,,FR
+apis mellifica pour préparations homéopathiques,4,,FR
+l-arginine,4,CHEMBL1485,FR
+benzoyle (peroxyde de) anhydre,4,,FR
+l-alanine,4,CHEMBL279597,FR
+fenobarbital,4,CHEMBL40,ES
+molibdato (99mo) de sodio,4,,ES
+méthocarbamol,4,CHEMBL1201117,FR
+carmustine,4,CHEMBL513,FR
+nifedipino,4,CHEMBL193,ES
+mezereum pour préparations homéopathiques,4,,FR
+mercurius corrosivus pour préparations homéopathiques,4,,FR
+glatiramero acetato,4,,ES
+aurum metallicum pour préparations homéopathiques,4,,FR
+nistatina,4,,ES
+nitisinona,4,CHEMBL1337,ES
+fucus vesiculosus,4,,ES
+melphalan,4,CHEMBL852,FR
+calcarea carbonica ostrearum pour préparations homéopathiques,4,,FR
+félodipine,4,CHEMBL1480,FR
+milnacipran,4,CHEMBL259209,FR
+azacitidine,4,CHEMBL1489,FR
+hierro carboximaltosa,4,,ES
+fluvoxamina,4,CHEMBL814,ES
+aspartique (acide),4,,FR
+flutrimazol,4,CHEMBL2107430,ES
+fluorouracilo,4,CHEMBL185,ES
+lactobacillus casei,4,,FR
+ascorbique (acide),4,,FR
+fludarabina,4,CHEMBL1568,ES
+levure,4,,FR
+iloprost,4,CHEMBL494,ES
+parafina liquida,4,,ES
+benzalkonium (chlorure de),4,CHEMBL1187417,FR
+lévocétirizine,4,CHEMBL1201191,FR
+picosulfato de sodio,4,CHEMBL1741134,ES
+lycopodium clavatum pour préparations homéopathiques,4,,FR
+pertecnetato (99mtc) de sodio,4,,ES
+kalium carbonicum pour préparations homéopathiques,4,,FR
+ketotifène,4,CHEMBL534,FR
+meclozina,4,CHEMBL1623,ES
+bifonazole,4,CHEMBL277535,FR
+mepiramina,4,CHEMBL511,ES
+dronedarona,4,CHEMBL184412,ES
+macrogol 4000,4,,ES
+maraviroc,4,CHEMBL256907,ES
+ketotifène base,4,CHEMBL534,FR
+dermatophagoides pteronyssinus,4,,ES
+digoxina,4,CHEMBL1751,ES
+petidina,4,CHEMBL607,ES
+ispaghul (tégument de la graine d') (poudre de),4,,FR
+josamycine base,4,CHEMBL224436,FR
+levosulpirida,4,CHEMBL267044,ES
+levomepromazina,4,CHEMBL1764,ES
+fenticonazole base,4,CHEMBL1651990,FR
+biotine,4,CHEMBL857,FR
+kétamine,4,CHEMBL742,FR
+mercaptopurina,4,CHEMBL1425,ES
+antimonium tartaricum pour préparations homéopathiques,4,,FR
+dermatophagoides farinae,4,,ES
+lévomépromazine,4,CHEMBL1764,FR
+tiaprida,3,CHEMBL84158,ES
+hierro proteinsuccinilato,3,,ES
+hierro fumarato,3,,ES
+tiagabina,3,CHEMBL1027,ES
+ácido azelaico,3,CHEMBL1238,ES
+sotalol (chlorhydrate de),3,CHEMBL471,FR
+triméthylphloroglucinol,3,,FR
+acétate de sodium anhydre,3,,FR
+trimébutine,3,CHEMBL190044,FR
+acide acétique glacial,3,,FR
+saccharomyces boulardii cncm i-745,3,,FR
+trihexyphénidyle (chlorhydrate de),3,CHEMBL1490,FR
+tioconazol,3,CHEMBL1200438,ES
+tranexamique (acide),3,,FR
+acétate de noréthistérone,3,CHEMBL1162,FR
+tirofiban,3,CHEMBL916,ES
+hierro sulfato,3,,ES
+trimipramine base,3,CHEMBL644,FR
+moxonidina,3,CHEMBL19236,ES
+rémifentanyl,3,CHEMBL1005,FR
+adrenalinum pour préparations homéopathiques,3,,FR
+"virus de la grippe fragmenté, inactivé, souche b/phuket/3073/2013 - souche analogue (b/phuket/3073/2013, type sauvage) ",3,,FR
+virus de l'hépatite a souche gbm inactivé adsorbé ,3,,FR
+dactyle aggloméré (extrait allergénique de pollen de),3,,FR
+vincetoxicum hirundinaria pour préparations homéopathiques (racine fraîche de),3,,FR
+rivastigmine base,3,CHEMBL636,FR
+vinca minor pour préparations homéopathiques,3,,FR
+dalbavancine,3,,FR
+gramicidina,3,,ES
+harpagophytum procumbens,3,,ES
+dantrolène sodique,3,CHEMBL1201288,FR
+magnesio trisilicato,3,,ES
+acamprosate calcique,3,CHEMBL1201293,FR
+ropivacaïne base,3,CHEMBL1077896,FR
+hidroxocobalamina,3,,ES
+vancomycine base,3,CHEMBL262777,FR
+hidralazina,3,CHEMBL276832,ES
+terbutalina,3,CHEMBL1760,ES
+calcifédiol anhydre,3,CHEMBL1040,FR
+tétrakis cuivre (tétrafluoroborate de),3,,FR
+calcarea fluorica pour préparations homéopathiques,3,,FR
+hidrosmina,3,,ES
+hidroxicarbamida,3,CHEMBL467,ES
+rumex crispus pour préparations homéopathiques,3,,FR
+magnesio,3,CHEMBL1201230,ES
+ácido pamidrónico,3,CHEMBL834,ES
+ruta graveolens pour préparations homéopathiques,3,,FR
+magnesio carbonato,3,,ES
+magaldrato,3,CHEMBL3833408,ES
+tramazolina,3,CHEMBL32573,ES
+lacidipino,3,CHEMBL460291,ES
+benzathine benzylpénicilline,3,CHEMBL29,FR
+sulfate de vincristine,3,CHEMBL90555,FR
+urapidil,3,CHEMBL279229,ES
+vitis vinifera,3,,ES
+urea,3,CHEMBL985,ES
+urea(13c),3,CHEMBL985,ES
+benzoate de sodium,3,CHEMBL1356,FR
+benzocaïne,3,CHEMBL278172,FR
+busulfan,3,CHEMBL820,FR
+sulfate de dexamfétamine,3,CHEMBL612,FR
+bumétanide,3,CHEMBL1072,FR
+bromure de pyridostigmine,3,CHEMBL1115,FR
+sulfate de baryum,3,CHEMBL2105897,FR
+vacuna anti rabia,3,,ES
+vacuna anti rubeola,3,,ES
+acide lévofolinique,3,,FR
+metano,3,,ES
+bromocriptine base,3,CHEMBL493,FR
+levocabastina,3,CHEMBL1615438,ES
+acide tiaprofénique,3,CHEMBL365795,FR
+levodropropizina,3,CHEMBL1288810,ES
+sticta pulmonaria pour préparations homéopathiques,3,,FR
+vigabatrina,3,CHEMBL89598,ES
+staphysagria pour préparations homéopathiques,3,,FR
+acide n-acétyl aspartyl glutamique (sel de sodium),3,,FR
+sulfate ferreux heptahydraté,3,,FR
+solution de (s)-lactate de sodium,3,,FR
+trandolapril,3,CHEMBL1519,ES
+levofolinato calcio,3,,ES
+tibolone,3,CHEMBL2103774,FR
+acétate d'ulipristal,3,CHEMBL2103846,FR
+tianeptine sodique,3,CHEMBL1289110,FR
+tiagabine anhydre,3,CHEMBL1027,FR
+idoxuridina,3,CHEMBL788,ES
+zinc óxido,3,,ES
+thymol,3,CHEMBL29411,FR
+soufre précipité,3,,FR
+cactus grandiflorus pour préparations homéopathiques,3,,FR
+mitoxantrona,3,CHEMBL58,ES
+sanguinaria canadensis pour préparations homéopathiques,3,,FR
+thiamazole,3,CHEMBL1515,FR
+belladonna pour préparations homéopathiques,3,,FR
+imipramina,3,CHEMBL11,ES
+sepia officinalis pour préparations homéopathiques,3,,FR
+tartrate de noradrénaline,3,CHEMBL1437,FR
+mifepristona,3,CHEMBL1276308,ES
+iohexol,3,CHEMBL1200455,ES
+miconazol,3,CHEMBL91,ES
+boldine,3,,FR
+iopromida,3,CHEMBL1725,ES
+isoprenalina,3,CHEMBL434,ES
+dinitrate d'isosorbide,3,CHEMBL6622,FR
+lincomicina,3,CHEMBL1447,ES
+"virus de la grippe inactivé, fragmenté, souche a/darwin/1454/2025 (h3n2) - souche analogue (a/michigan/105/2025, san-049a) ",3,,FR
+"virus de la grippe fragmenté, inactivé, souche b/tokyo/eis13-175/2025 - souche analogue (b/tokyo/eis13-175/2025, type sauvage) ",3,,FR
+danazol,3,CHEMBL1479,ES
+"virus de la grippe inactivé, fragmenté, souche a/missouri/11/2025 (h1n1)pdm09 - souche analogue (a/switzerland/6849/2025, ivr-278) ",3,,FR
+cicuta virosa pour préparations homéopathiques,3,,FR
+aluminium (oxyde d') hydraté,3,,FR
+cabozantinib,3,CHEMBL2105717,ES
+cilastatine anhydre,3,CHEMBL766,FR
+panax ginseng,3,,ES
+chlorhydrate d'isoprénaline,3,,FR
+calcio lactogluconato,3,,ES
+chlorhydrate d'éthambutol,3,CHEMBL44884,FR
+cefoxitina,3,CHEMBL996,ES
+rhamnus purshianus,3,,ES
+echinacea angustifolia,3,,ES
+ambroxol base,3,CHEMBL153479,FR
+parotiditis,3,,ES
+amikacine,3,CHEMBL177,FR
+cefadroxilo,3,CHEMBL1644,ES
+ergotamina,3,CHEMBL442,ES
+cinchonidine,3,CHEMBL533841,FR
+cinchonine,3,CHEMBL588619,FR
+bromfeniramina,3,CHEMBL811,ES
+bromfenaco,3,CHEMBL1077,ES
+ciprofibrate,3,CHEMBL557555,FR
+rosmarinus officinalis,3,,ES
+ruscogenina,3,,ES
+biperideno,3,CHEMBL1101,ES
+citrate de sodium,3,,FR
+bezafibrato,3,CHEMBL264374,ES
+palbociclib,3,CHEMBL189963,ES
+argatroban monohydraté,3,CHEMBL1166,FR
+salicilato de dietilamina,3,,ES
+bcg cultivo vivo desecado preparado irrigación vesical,3,,ES
+oxitocina,3,,ES
+esmolol,3,CHEMBL768,ES
+amikacine base,3,CHEMBL177,FR
+chlorhydrate de chlortétracycline,3,CHEMBL404520,FR
+aesculus hippocastanum pour préparations homéopathiques,3,,FR
+polypodium leucotomos,3,,ES
+diacereína,3,CHEMBL41286,ES
+clordiazepóxido,3,CHEMBL451,ES
+dexpantenol,3,CHEMBL1200979,ES
+antigène coquelucheux : hémagglutinine filamenteuse ,3,,FR
+clortetraciclina,3,CHEMBL404520,ES
+dexanfetamina,3,CHEMBL612,ES
+piketoprofeno,3,CHEMBL2106966,ES
+cetilpiridinio,3,,ES
+chlorhydrate de mébévérine,3,CHEMBL282121,FR
+pilocarpina,3,CHEMBL550,ES
+chlorhydrate de procaïne,3,CHEMBL569,FR
+desflurano,3,CHEMBL1200733,ES
+pinazepam,3,CHEMBL1213352,ES
+pirazinamida,3,CHEMBL614,ES
+chlorhydrate de thiamine anhydre,3,CHEMBL1547,FR
+peróxido de hidrógeno,3,CHEMBL71595,ES
+antigène coquelucheux : anatoxine ,3,,FR
+clocinizina,3,CHEMBL3989706,ES
+dihidroergocristina,3,CHEMBL601773,ES
+clioquinol,3,CHEMBL497,ES
+dihidroestreptomicina,3,CHEMBL1950576,ES
+prazosina,3,CHEMBL2,ES
+permetrina,3,CHEMBL1525,ES
+periciazina,3,CHEMBL251940,ES
+antimonium crudum pour préparations homéopathiques,3,,FR
+cinarizina,3,CHEMBL43064,ES
+procaína,3,CHEMBL569,ES
+chlorhydrate de cinchocaïne,3,CHEMBL1086,FR
+chlorhydrate de ciclétanine,3,CHEMBL191886,FR
+prometazina,3,CHEMBL643,ES
+chlorure de cuivre dihydraté,3,,FR
+espiramicina,3,,ES
+bacitracina,3,,ES
+exametazima,3,CHEMBL2218892,ES
+nitrendipino,3,CHEMBL475534,ES
+érythromycine base,3,CHEMBL532,FR
+céfaclor,3,CHEMBL680,FR
+étamsylate,3,CHEMBL1232131,FR
+éthanol à 70 pour cent,3,,FR
+foscarnet,3,CHEMBL666,ES
+étiléfrine (chlorhydrate d'),3,CHEMBL86882,FR
+aceite de ricino,3,,ES
+atracurio besilato,3,,ES
+albumine humaine plasmatique ,3,,FR
+aceite de soja refinado,3,,ES
+acetileno,3,,ES
+cuprum metallicum pour préparations homéopathiques,3,,FR
+carbo vegetabilis pour préparations homéopathiques,3,,FR
+fluorometolona,3,CHEMBL1200600,ES
+éribuline,3,CHEMBL1683590,FR
+chlorhydrate de naloxone anhydre,3,CHEMBL80,FR
+épirubicine (chlorhydrate d'),3,CHEMBL417,FR
+albendazole,3,CHEMBL1483,FR
+éosine disodique,3,CHEMBL408917,FR
+framicetina,3,CHEMBL184618,ES
+suxametonio,3,CHEMBL703,ES
+céfalexine monohydratée,3,CHEMBL1727,FR
+énalapril (maléate d'),3,CHEMBL578,FR
+céfazoline base,3,CHEMBL1435,FR
+calcium (carbonate de),3,CHEMBL1200496,FR
+éconazole base,3,CHEMBL808,FR
+glycine max,3,,ES
+zuclopenthixol,3,CHEMBL53904,FR
+goserelina,3,,ES
+atropine,3,CHEMBL517712,FR
+vitamine c,3,,FR
+sodio sulfato,3,,ES
+fluocinonida,3,CHEMBL1501,ES
+albúmina nanocoloides para tecnecio (99mtc),3,,ES
+ferroglicina sulfato,3,,ES
+oxibuprocaína,3,CHEMBL1200,ES
+clofarabine,3,CHEMBL1750,FR
+clomipramine (chlorhydrate de),3,CHEMBL415,FR
+clonazépam,3,CHEMBL452,FR
+arsénico trióxido,3,,ES
+arsenicum iodatum pour préparations homéopathiques,3,,FR
+arginina aspartato,3,,ES
+factor von willebrand,3,,ES
+salicilato de trolamina,3,,ES
+sarampión,3,,ES
+cobalt (chlorure de) hexahydraté,3,,FR
+fenilpropanolamina,3,CHEMBL61006,ES
+codéine (phosphate de) hémihydraté,3,CHEMBL485,FR
+arum triphyllum pour préparations homéopathiques,3,,FR
+asa foetida pour préparations homéopathiques,3,,FR
+fludrocortisona,3,CHEMBL1201010,ES
+filgrastim,3,,ES
+carduus marianus pour préparations homéopathiques,3,,FR
+ascorbate de sodium,3,CHEMBL591665,FR
+ambrisentan,3,CHEMBL1111,ES
+aluminio hidróxido,3,,ES
+aluminio glicinato,3,,ES
+silybum marianum,3,,ES
+nortriptilina,3,CHEMBL445,ES
+conium maculatum pour préparations homéopathiques,3,,FR
+alfentanil,3,CHEMBL634,FR
+alfacalcidol,3,CHEMBL1601669,ES
+sobrerol,3,CHEMBL2228862,ES
+norgestimato,3,CHEMBL1200934,ES
+sodio carbonato,3,,ES
+mebeverina,3,CHEMBL282121,ES
+rémifentanil base,3,CHEMBL1005,FR
+paeonia officinalis pour préparations homéopathiques,3,,FR
+l-valine,3,CHEMBL43068,FR
+hormone lutéinisante humaine ,3,,FR
+l-histidine,3,CHEMBL17962,FR
+molybdate de sodium dihydraté,3,,FR
+fraction flavonoïque purifiée micronisée,3,,FR
+nicardipine (chlorhydrate de),3,CHEMBL1484,FR
+insuline humaine recombinante isophane biphasique ,3,,FR
+gomme guar,3,,FR
+désonide,3,CHEMBL1201109,FR
+hormone folliculo stimulante ,3,,FR
+névirapine,3,CHEMBL57,FR
+pamidronate de sodium,3,CHEMBL834,FR
+lactitol monohydraté,3,CHEMBL1661,FR
+lidocaïne (chlorhydrate de),3,CHEMBL79,FR
+pancréas (poudre de) (porcine),3,,FR
+néomycine (sulfate de),3,CHEMBL370143,FR
+mitomycine,3,CHEMBL105,FR
+méquitazine,3,CHEMBL73451,FR
+flumazénil,3,CHEMBL407,FR
+ornidazole,3,CHEMBL1449676,FR
+potassium,3,CHEMBL1201290,FR
+insuline humaine recombinante isophane ,3,,FR
+"hydrogène (peroxyde d'), solution de, à 3 pour cent",3,,FR
+gelsémium pour préparations homéopathiques,3,,FR
+guaïfénésine,3,CHEMBL980,FR
+phénytoïne sodique,3,CHEMBL16,FR
+l-méthionine,3,CHEMBL42336,FR
+misoprostol,3,CHEMBL606,FR
+l-leucine,3,CHEMBL291962,FR
+lévocabastine base,3,CHEMBL1615438,FR
+l-phénylalanine,3,CHEMBL301523,FR
+l-proline,3,CHEMBL54922,FR
+l-sérine,3,CHEMBL11298,FR
+l-isoleucine,3,CHEMBL1233584,FR
+frovatriptan,3,CHEMBL1279,FR
+l-thréonine,3,CHEMBL291747,FR
+filgrastim ,3,,FR
+l-tyrosine,3,CHEMBL925,FR
+fludrocortisone,3,CHEMBL1201388,FR
+phénazone,3,CHEMBL277474,FR
+extrait allergénique de pollen de pâturin des prés,3,,FR
+lauromacrogol 400,3,,FR
+mitoxantrone,3,CHEMBL58,FR
+quinidine,3,CHEMBL1294,FR
+propranolol (chlorhydrate de),3,CHEMBL27,FR
+nitrate d'omoconazole,3,CHEMBL2046550,FR
+hespéridine,3,CHEMBL449317,FR
+glutamique (acide),3,CHEMBL575060,FR
+foscarnet sodique hexahydraté,3,,FR
+isoflurane,3,CHEMBL1256,FR
+noradrénaline,3,CHEMBL1437,FR
+ganirélix,3,,FR
+fluorure (18f) de sodium,3,,FR
+poudre d'opium,3,,FR
+gluconate de cuivre,3,,FR
+nitrate de naphazoline,3,CHEMBL761,FR
+nitricum acidum pour préparations homéopathiques,3,,FR
+nimodipine,3,CHEMBL1428,FR
+glatiramère,3,,FR
+eszopiclone,3,CHEMBL1522,FR
+extrait allergénique de pollen d'ivraie vivace,3,,FR
+hypericum perforatum pour préparations homéopathiques,3,,FR
+hydroxyde de potassium,3,CHEMBL2103983,FR
+loxapine,3,CHEMBL831,FR
+penicilline v,3,CHEMBL615,FR
+fluorescéine sodique,3,CHEMBL1057,FR
+huile essentielle de niaouli,3,,FR
+pentoxifylline,3,CHEMBL628,FR
+extrait allergénique de pollen de flouve odorante,3,,FR
+périndopril tert-butylamine,3,CHEMBL1581,FR
+raltégravir,3,CHEMBL254316,FR
+ginkgo (extrait de),3,,FR
+lénograstim ,2,,FR
+cyprotérone (acétate de),2,CHEMBL142130,FR
+indium [111 in] (chlorure d'),2,,FR
+éthylmorphine,2,CHEMBL1712170,FR
+cyamémazine base,2,CHEMBL2104153,FR
+reboxetina,2,CHEMBL14370,ES
+phosphate disodique dihydraté,2,,FR
+magnesio glutamato hidrobromuro,2,,ES
+amidotrizoate de méglumine,2,,FR
+étomidate,2,CHEMBL681,FR
+lysozyme (chlorhydrate de),2,,FR
+amidotrizoate de sodium,2,CHEMBL1201220,FR
+cystine,2,CHEMBL590540,FR
+magnesio lactato,2,,ES
+poliestireno sulfonato calcio,2,,ES
+quinagolida,2,CHEMBL2218861,ES
+medazepam,2,CHEMBL28333,ES
+iodure (123i) de sodium,2,CHEMBL1644695,FR
+mebendazol,2,CHEMBL685,ES
+producto con factor xiii,2,,ES
+producto con darifenacina,2,,ES
+iodure (131i) de sodium,2,CHEMBL1644695,FR
+mebrofenina,2,CHEMBL1605443,ES
+felbamate,2,CHEMBL1094,FR
+dopamina,2,CHEMBL59,ES
+aceite de oliva refinado,2,,ES
+métilsulfate de méfénidramium,2,CHEMBL1190119,FR
+lormétazépam,2,CHEMBL22097,FR
+amyléine (chlorhydrate d'),2,,FR
+dobutamina,2,CHEMBL926,ES
+corallium rubrum pour préparations homéopathiques,2,,FR
+ipratropium (bromure d') anhydre,2,CHEMBL1621597,FR
+alteplasa,2,,ES
+promestrieno,2,CHEMBL2105394,ES
+méthyldopa anhydre,2,,FR
+maprotilina,2,CHEMBL21731,ES
+amoxapine,2,CHEMBL1113,FR
+aceite de pescado con ácidos grasos omega-3,2,,ES
+méthadone (chlorhydrate de),2,CHEMBL651,FR
+psma-1007 (18f),2,,ES
+méthane,2,,FR
+prucaloprida,2,CHEMBL117287,ES
+chlorhydrate de buspirone,2,CHEMBL49,FR
+acetazolamida,2,CHEMBL20,ES
+éthanolamine (ténoate d'),2,CHEMBL104943,FR
+curcuma pour préparations homéopathiques,2,,FR
+amiodarone (chlorhydrate d'),2,CHEMBL633,FR
+phosphate d'aluminium,2,CHEMBL3833315,FR
+protamina,2,,ES
+examétazime,2,CHEMBL2218892,FR
+insuline humaine recombinante soluble ,2,,FR
+cuivre (sulfate de) pentahydraté,2,,FR
+chlorhydrate d'oxymétazoline,2,CHEMBL762,FR
+eugénol,2,CHEMBL42710,FR
+phosphate monocalcique monohydraté,2,,FR
+bile de boeuf (extrait de) (fluide),2,,FR
+virus de l'encéphalite à tique souche neudoerfl inactivé ,2,,FR
+salvia officinalis,2,,ES
+alpha bisabolol naturel,2,,FR
+virus de l'hépatite a souche hm175 inactivé adsorbé ,2,,FR
+"virus de la fièvre jaune, souche 17d-204 (vivant, atténué) ",2,,FR
+"virus de la grippe fragmenté, inactivé, souche b/austria/1359417/2021 - souche analogue (b/michigan/01/2021, type sauvage) ",2,,FR
+pipampérone base,2,CHEMBL440294,FR
+pindolol,2,CHEMBL500,FR
+"virus de la grippe inactivé, fragmenté, a/croatia/10136rv/2023 (h3n2)-souche analogue (a/croatia/10136rv/2023, x-425a) ",2,,FR
+lisozima,2,,ES
+pin (huile essentielle de),2,,FR
+"virus de la grippe inactivé, fragmenté, souche a/victoria/4897/2022 (h1n1)pdm09 - souche analogue (a/victoria/4897/2022, ivr-238) ",2,,FR
+ifosfamide,2,CHEMBL1024,FR
+litio,2,,ES
+imipramine (chlorhydrate d'),2,CHEMBL11,FR
+"virus de la varicelle souche oka (vivant, atténué) ",2,,FR
+chlorhydrate d'amyléine,2,,FR
+viola odorata pour préparations homéopathiques,2,,FR
+ichtyolammonium,2,,FR
+estreptodornasa,2,,ES
+piribédil,2,CHEMBL1371770,FR
+silibinina,2,CHEMBL9509,ES
+chlorhydrate d'amiloride anhydre,2,CHEMBL945,FR
+desflurane,2,CHEMBL1200733,FR
+etambutol,2,CHEMBL44884,ES
+dapoxétine,2,CHEMBL2110900,FR
+valérate de diflucortolone,2,CHEMBL509924,FR
+ginkgo (feuille de) (extrait sec de),2,,FR
+venin de guêpe poliste,2,,FR
+bléomycine,2,,FR
+estreptoquinasa,2,,ES
+veratrum album pour préparations homéopathiques,2,,FR
+verbascum thapsus pour préparations homéopathiques,2,,FR
+aloe pour préparations homéopathiques,2,,FR
+viburnum opulus pour préparations homéopathiques,2,,FR
+selenio,2,CHEMBL6068503,ES
+vigabatrine,2,CHEMBL89598,FR
+chlorhydrate d'apomorphine hémihydraté,2,CHEMBL53,FR
+esencia trementina,2,,ES
+pimozide,2,CHEMBL1423,FR
+ribavirina,2,CHEMBL1643,ES
+phényléphrine (chlorhydrate de),2,CHEMBL1215,FR
+bismuth,2,,FR
+melissa officinalis,2,,ES
+chlorhydrate d'heptaminol,2,CHEMBL2111076,FR
+méropénem,2,CHEMBL127,FR
+feuille de séné,2,,FR
+chlorhydrate d'isothipendyl,2,CHEMBL2111066,FR
+époprosténol,2,CHEMBL1139,FR
+picloxydine base,2,CHEMBL2104722,FR
+chlorhydrate d'oxybuprocaïne,2,CHEMBL1200,FR
+rhamnus purshiana,2,,ES
+érysimum (sommité fleurie d') (extrait fluide de),2,,FR
+indigotine,2,CHEMBL599552,FR
+phosphate sodique de riboflavine,2,,FR
+phosphate sodique de dexaméthasone,2,,FR
+retinol palmitato,2,CHEMBL986,ES
+ritonavir,2,CHEMBL163,ES
+ergocalciferol,2,CHEMBL1536,ES
+esencia de lavanda,2,,ES
+eschscholtzia californica,2,,ES
+alpha-tocophérol (acétate d'),2,,FR
+vératrole,2,,FR
+warfarine sodique,2,CHEMBL1464,FR
+ruscus aculeatus,2,,ES
+bisoprolol (hémifumarate de),2,CHEMBL645,FR
+escina,2,,ES
+roxitromicina,2,CHEMBL1214185,ES
+immunoglobuline humaine anti-d ,2,,FR
+picosulfate de sodium,2,CHEMBL1741134,FR
+altéplase ,2,,FR
+zincum valerianicum pour préparations homéopathiques,2,,FR
+immunoglobuline humaine de l'hépatite b ,2,,FR
+lévocabastine,2,CHEMBL1615438,FR
+cétirizine (dichlorhydrate de),2,CHEMBL1000,FR
+céthexonium (bromure de),2,CHEMBL2110776,FR
+fexofénadine base,2,CHEMBL914,FR
+anamirta cocculus pour préparations homéopathiques,2,,FR
+polen de gramíneas,2,,ES
+berberis vulgaris pour préparations homéopathiques,2,,FR
+facteur de coagulation ayant une activité court-circuitant l'inhibiteur du facteur viii ,2,,FR
+extrait sec de pollen brut séché de maïs,2,,FR
+chondroïtine (sulfate de) a sodique,2,,FR
+olsalazine base,2,CHEMBL425,FR
+articaïne (chlorhydrate d'),2,CHEMBL1093,FR
+crataegus oxyacantha,2,,ES
+olodatérol,2,CHEMBL605846,FR
+extrait sec de pollen brut séché de seigle,2,,FR
+cefaclor,2,CHEMBL680,ES
+olibanum pour préparations homéopathiques,2,,FR
+lachesis mutus pour préparations homéopathiques,2,,FR
+mirtecaína,2,CHEMBL1630579,ES
+ascorbate de calcium,2,CHEMBL196,FR
+chlorure de trospium,2,CHEMBL1888176,FR
+"lactate de sodium, solution de",2,,FR
+noscapina,2,CHEMBL364713,ES
+chlorure de rubidium (82rb),2,,FR
+colestiramina,2,,ES
+arginine (aspartate d'),2,CHEMBL1485,FR
+milrinona,2,CHEMBL189,ES
+extrait sec de pollen brut séché de fléole des prés,2,,FR
+calcio dobesilato,2,,ES
+parafina líquida,2,,ES
+cinchocaïne (chlorhydrate de),2,CHEMBL1086,FR
+gadotéridol,2,,FR
+bálsamo de perú,2,,ES
+cimétidine,2,CHEMBL30,FR
+apraclonidine,2,CHEMBL647,FR
+aprotinine ,2,,FR
+l-lysine,2,CHEMBL8085,FR
+miglustat,2,CHEMBL1029,ES
+argent,2,,FR
+calcitonina salmón sintética,2,,ES
+cynara scolymus,2,,ES
+camellia sinensis,2,,ES
+canagliflozina,2,CHEMBL2048484,ES
+ciclésonide,2,CHEMBL2040682,FR
+oxidronato sodio,2,CHEMBL1615775,ES
+chlorure de gallium (68ga),2,,FR
+lactobacillus delbrueckii,2,,FR
+diprofilina,2,CHEMBL1752,ES
+certoparina sodio,2,,ES
+chlorphénamine (maléate de),2,,FR
+cistina,2,CHEMBL590540,ES
+ledum palustre pour préparations homéopathiques,2,,FR
+molsidomina,2,CHEMBL1329455,ES
+citidina,2,CHEMBL95606,ES
+citrato de sodio,2,,ES
+aubépine (extrait d')(sec),2,,FR
+naratriptan,2,CHEMBL1278,ES
+cloroprocaina,2,CHEMBL1179047,ES
+chlorhydrate de ropivacaïne monohydraté,2,CHEMBL1077896,FR
+naltrexona,2,CHEMBL19019,ES
+aurum muriaticum pour préparations homéopathiques,2,,FR
+nitrendipine,2,CHEMBL475534,FR
+nitrate de pilocarpine,2,CHEMBL550,FR
+clorambucilo,2,CHEMBL515,ES
+chlorhydrate de terbinafine,2,CHEMBL822,FR
+chlorhydrate de ticlopidine,2,CHEMBL833,FR
+nux moschata pour préparations homéopathiques,2,,FR
+chlorquinaldol,2,CHEMBL224325,FR
+chlorhydrate de quinisocaïne,2,CHEMBL127643,FR
+lactobacillus fermentum,2,,FR
+cetilpiridinio cloruro,2,,ES
+colagenasa de clostridium hystolyticum,2,,ES
+chlorhydrate de propafénone,2,CHEMBL631,FR
+cetrorelix,2,,ES
+nitrofurantoína,2,CHEMBL572,ES
+ciclesonida,2,CHEMBL2040682,ES
+nitrofural,2,CHEMBL869,ES
+chlorure de chrome hexahydraté,2,,FR
+nux-vomica pour préparations homéopathiques,2,,FR
+landiolol,2,CHEMBL1742466,FR
+furoate de fluticasone,2,CHEMBL1676,FR
+cobanamida,2,,ES
+nilutamide,2,CHEMBL1274,FR
+moclobemida,2,CHEMBL86304,ES
+cimicifuga racemosa,2,,ES
+nifurtimox,2,CHEMBL290960,ES
+cinchonidine base,2,CHEMBL533841,FR
+anétholtrithione,2,CHEMBL178862,FR
+niaouli (essence de),2,,FR
+kétamine base,2,CHEMBL742,FR
+aprotinina,2,,ES
+arctostaphylos uva-ursi,2,,ES
+arginina,2,CHEMBL1485,ES
+pirofosfato de sodio,2,,ES
+nabumétone,2,CHEMBL1070,FR
+palonosétron,2,CHEMBL1189679,FR
+meta-iobenguano (131i),2,,ES
+piridostigmina,2,CHEMBL1115,ES
+palmier de floride (serenoa repens (w.bartram) small.) (extrait du fruit de),2,,FR
+clofazimine,2,CHEMBL1292,FR
+clodronate de sodium anhydre,2,CHEMBL12318,FR
+pirantel,2,CHEMBL1626223,ES
+clobétasol (propionate de),2,CHEMBL1201362,FR
+isradipine,2,CHEMBL1648,FR
+chlorhydrate de labétalol,2,CHEMBL429,FR
+"antigènes de surface du virus de la grippe, inactivé, souche a/darwin/1454/2025 (h3n2) - souche analogue (a/michigan/105/2025, san-049a) ",2,,FR
+famciclovir,2,CHEMBL880,FR
+clotiazépam,2,CHEMBL1697737,FR
+apraclonidina,2,CHEMBL647,ES
+antazolina,2,CHEMBL1305,ES
+dimeticona,2,,ES
+antigène  de surface de l'hépatite b recombinant  ,2,,FR
+potasio hidrogenocarbonato,2,,ES
+isoconazole (nitrate d'),2,CHEMBL1571863,FR
+dinoprostona,2,CHEMBL548,ES
+potasio citrato,2,,ES
+collinsonia canadensis pour préparations homéopathiques,2,,FR
+lopéramide,2,CHEMBL841,FR
+colchicine,2,CHEMBL107,FR
+dihidrocodeina,2,CHEMBL1595,ES
+chlorhydrate de dopamine,2,CHEMBL59,FR
+benzylpénicilline sodique,2,CHEMBL29,FR
+mequinol,2,CHEMBL544,ES
+métoprolol (tartrate de),2,CHEMBL13,FR
+ampicilina benzatina,2,,ES
+podofilotoxina,2,,ES
+famotidine,2,CHEMBL902,FR
+pimozida,2,CHEMBL1423,ES
+oxytétracycline,2,CHEMBL1517,FR
+oxyde de magnésium léger,2,,FR
+mianserina,2,CHEMBL6437,ES
+pentetato de calcio,2,,ES
+citrate de bétaïne anhydre,2,CHEMBL95889,FR
+bivalirudina,2,,ES
+bleomicina,2,,ES
+natrum phosphoricum pour préparations homéopathiques,2,,FR
+penicilamina,2,CHEMBL1430,ES
+oxidronate de sodium,2,CHEMBL1615775,FR
+chlorhydrate de nalbuphine,2,CHEMBL895,FR
+citrate de gallium [67ga],2,,FR
+brivudina,2,CHEMBL31634,ES
+natrum salicylicum pour préparations homéopathiques,2,,FR
+chlorhydrate de naltrexone,2,CHEMBL19019,FR
+dapoxetina,2,CHEMBL2110900,ES
+bromocriptina,2,CHEMBL493,ES
+cinchonine base,2,CHEMBL588619,FR
+chlorhydrate de nicardipine,2,CHEMBL1484,FR
+oxoglurate d'ornithine,2,,FR
+citrate de pentoxyvérine,2,CHEMBL73234,FR
+"antigènes de surface du virus de la grippe, inactivé, souche a/missouri/11/2025 (h1n1)pdm09-souche analogue (a/missouri/11/2025, ivr-279) ",2,,FR
+chlorhydrate de manidipine,2,CHEMBL1085699,FR
+metildopa,2,CHEMBL459,ES
+phleum pratense,2,,ES
+oxyde d'aluminium hydraté,2,,FR
+citrulline (malate de),2,CHEMBL444814,FR
+extrait sec aqueux sur maltodextrine d'érysimum officinale,2,,FR
+bencilpenicilina procaína,2,,ES
+metilergometrina,2,CHEMBL1201356,ES
+"antigènes de surface du virus de la grippe, inactivé, souche b/tokyo/eis13-175/2025-souche analogue (b/tokyo/eis13-175/2025, type sauvage) ",2,,FR
+kaolin lourd,2,,FR
+benserazida,2,CHEMBL1096979,ES
+kalium iodatum pour préparations homéopathiques,2,,FR
+benzoate de méglumine,2,CHEMBL1200570,FR
+betiatida,2,,ES
+natrum muriaticum pour préparations homéopathiques,2,,FR
+delapril,2,CHEMBL589583,ES
+oxybate de sodium,2,CHEMBL1342,FR
+alimémazine,2,CHEMBL829,FR
+pipotiazine (palmitate de),2,CHEMBL2106439,FR
+mifépristone,2,CHEMBL1276308,FR
+acétazolamide,2,CHEMBL20,FR
+gadoteridol,2,,ES
+hepar sulfuris calcareum pour préparations homéopathiques,2,,FR
+gadodiamida,2,,ES
+cantharis pour préparations homéopathiques,2,,FR
+gabob,2,,ES
+acétate de fludrocortisone,2,CHEMBL1201388,FR
+senega pour préparations homéopathiques,2,,FR
+topotecán,2,CHEMBL84,ES
+selenium metallicum pour préparations homéopathiques,2,,FR
+inmunoglobulina antirrábica humana,2,,ES
+gaba,2,,ES
+sulfate de zinc,2,CHEMBL1200929,FR
+mentha piperita pour préparations homéopathiques,2,,FR
+sulfate de zinc anhydre,2,,FR
+fusidato sodio,2,CHEMBL374975,ES
+tranilcipromina,2,CHEMBL3989843,ES
+helonias dioica pour préparations homéopathiques,2,,FR
+zinc acexamato,2,CHEMBL2105922,ES
+zinc acetato,2,CHEMBL1200928,ES
+trifluridina,2,CHEMBL1129,ES
+inmunoglobulina antitimocítica de conejo,2,,ES
+sulfadiazine argentique,2,,FR
+ganirelix,2,,ES
+sevorane,2,CHEMBL1200694,FR
+inmunoglobulina antitetánica humana,2,,ES
+etomidato,2,CHEMBL681,ES
+canrénoate de potassium,2,CHEMBL1616951,FR
+galio citrato (67ga),2,,ES
+défériprone,2,CHEMBL70927,FR
+acénocoumarol,2,CHEMBL397420,FR
+acéponate d'hydrocortisone,2,CHEMBL2106309,FR
+protéines plasmatiques humaines ,2,,FR
+helleborus niger pour préparations homéopathiques,2,,FR
+melilotus officinalis pour préparations homéopathiques,2,,FR
+sulfogaïacol,2,CHEMBL2110990,FR
+sulfur iodatum pour préparations homéopathiques,2,,FR
+lactobacillus plantarum,2,,ES
+magnésium (acétate de) tétrahydraté,2,CHEMBL1201230,FR
+millefolium pour préparations homéopathiques,2,,FR
+butylbromure de scopolamine,2,,FR
+lactitol,2,CHEMBL1661,ES
+salol,2,CHEMBL1339216,FR
+acide folique anhydre,2,CHEMBL1622,FR
+ácido acetohidroxámico,2,CHEMBL734,ES
+tiopental sodio,2,,ES
+veneno de abeja,2,,ES
+tamoxifène,2,CHEMBL83,FR
+minocycline base,2,CHEMBL1434,FR
+taraxacum dens leonis pour préparations homéopathiques,2,,FR
+tartrate acide de potassium,2,CHEMBL2105248,FR
+bézafibrate,2,CHEMBL264374,FR
+tioguanina,2,CHEMBL727,ES
+magnésium (thiosulfate de),2,CHEMBL1201230,FR
+promestriène,2,CHEMBL2105394,FR
+zofenopril,2,CHEMBL331378,ES
+scopolamine,2,CHEMBL569713,FR
+béclométasone (dipropionate de),2,CHEMBL1586,FR
+sulindac,2,CHEMBL15770,FR
+todo-rac-alfa-tocoferol,2,,ES
+miglustat,2,CHEMBL1029,FR
+sumbulus moschatus pour préparations homéopathiques,2,,FR
+tizanidina,2,CHEMBL1079,ES
+inmunoglobulina anti-d (rh),2,,ES
+tirotricina,2,,ES
+saxagliptine,2,CHEMBL385517,FR
+milieu de culture,2,,FR
+tipiracilo,2,CHEMBL235668,ES
+pristinamycine,2,,FR
+calcarea phosphorica pour préparations homéopathiques,2,,FR
+béclométasone dipropionate,2,CHEMBL1200500,FR
+dipyridamole,2,CHEMBL932,FR
+heparinoide,2,,ES
+sodium (hydrogénophosphate de) dodécahydraté,2,,FR
+grindélia (extrait mou de),2,,FR
+sodium (laurilsulfoacétate de),2,,FR
+acide malique,2,CHEMBL1455497,FR
+sodium (lactate de) anhydre,2,,FR
+sodium (iodure [123 i] de) (solution de),2,,FR
+disulfirame,2,CHEMBL964,FR
+acitrétine,2,CHEMBL1131,FR
+magnésium (lactate de) dihydraté,2,CHEMBL1201230,FR
+calcitriol,2,CHEMBL846,FR
+hamamelis virginiana,2,,ES
+stanneux (fluorure),2,,FR
+stannum metallicum pour préparations homéopathiques,2,,FR
+pyridoxine,2,CHEMBL1364,FR
+pyrazinamide,2,CHEMBL614,FR
+magnésium (hydroxyde de),2,CHEMBL1201230,FR
+vacuna anti neumococo,2,,ES
+pulsatilla vulgaris pour préparations homéopathiques,2,,FR
+gozetotida,2,CHEMBL3578202,ES
+iodixanol,2,,ES
+acide pantothénique,2,,FR
+quinidine base,2,CHEMBL1294,FR
+veneno de avispa,2,,ES
+sodium (pertechnétate [99m tc] de),2,,FR
+acide phosphorique concentré,2,,FR
+acide mycophénolique,2,CHEMBL866,FR
+iobenguano [123i],2,,ES
+vacuna anti varicela,2,,ES
+vacuna anti tifoidea,2,,ES
+iobitridol,2,CHEMBL2107212,ES
+glutamato de magnesio,2,,ES
+somatotropine ,2,,FR
+goséréline base,2,,FR
+interferon alfa-2a,2,,ES
+glicopirronio,2,,ES
+hamamélis de virginie (extrait d') (fluide),2,,FR
+tripelenamina,2,CHEMBL1241,ES
+bétahistine,2,CHEMBL24441,FR
+trombina humana,2,,ES
+trisodio,2,,ES
+gélatine fluide modifiée ,2,,FR
+insulina isófana bifásica,2,,ES
+triprolidina,2,CHEMBL855,ES
+germanio (68ge) cloruro,2,,ES
+gluconate de manganèse,2,,FR
+glycérophosphate de sodium pentahydraté,2,,FR
+insulina isófana (nph),2,,ES
+dl-alpha tocophérol,2,,FR
+bétacarotène,2,CHEMBL1293,FR
+acide l-glutamique,2,CHEMBL575060,FR
+trihexifenidilo,2,CHEMBL1490,ES
+trospio cloruro,2,,ES
+vitex agnus castus,2,,ES
+isoflurano,2,CHEMBL1256,ES
+gomme de sterculia,2,,FR
+glicina,2,CHEMBL773,ES
+quinine (benzoate de),2,CHEMBL170,FR
+calcitonine de saumon,2,,FR
+glibenclamida,2,CHEMBL472,ES
+uridina,2,CHEMBL100259,ES
+guaïazulène,2,CHEMBL1408759,FR
+vinpocetina,2,CHEMBL71752,ES
+sodium (alginate de),2,,FR
+vitamina c,2,,ES
+guêpe (venin de),2,,FR
+guêpe vespula (venin de),2,,FR
+actaea racemosa pour préparations homéopathiques,2,,FR
+miconazole,2,CHEMBL91,FR
+quinine base,2,CHEMBL170,FR
+gluconate de zinc,2,CHEMBL3833377,FR
+ácido acético,2,CHEMBL539,ES
+tiamazol,2,CHEMBL1515,ES
+hierro gluconato,2,,ES
+doxépine,2,CHEMBL1628227,FR
+morniflumate,2,CHEMBL2105059,FR
+flucloxacilline,2,CHEMBL222645,FR
+ácido hialurónico,2,,ES
+sulfametizol,2,CHEMBL1191,ES
+polyoside haemophilus influenzae type b conjugué à l'anatoxine tétanique,2,,FR
+ácido láctico,2,CHEMBL1200559,ES
+bromure de céthexonium,2,,FR
+maléate de dexchlorphéniramine,2,CHEMBL1201353,FR
+hydroxycarbamide,2,CHEMBL467,FR
+trométamol,2,CHEMBL1200391,FR
+tropatépine (chlorhydrate de),2,CHEMBL2107294,FR
+fenazopiridina,2,CHEMBL1242,ES
+riboflavine,2,CHEMBL1534,FR
+polysorbate 20,2,,FR
+rhubarbe (racine de) (extrait sec de),2,,FR
+monofluorophosphate de sodium,2,,FR
+dihydrogénophosphate de sodium anhydre,2,,FR
+dodéclonium (bromure de),2,CHEMBL2110825,FR
+macrogol 9 (éther laurique de),2,,FR
+diazoxide,2,CHEMBL181,FR
+triamcinolone (acétonide de),2,CHEMBL1451,FR
+acide azélaïque,2,CHEMBL1238,FR
+imiquimod,2,CHEMBL1282,ES
+suplemento parenteral de oligoelementos,2,,ES
+flucytosine,2,CHEMBL1463,FR
+glipizide,2,CHEMBL1073,FR
+lenograstim,2,,ES
+ácido gadobénico,2,,ES
+polystyrène sulfonate de sodium,2,,FR
+sulfoguayacolato potasio,2,,ES
+carraghénates,2,,FR
+flubendazole,2,CHEMBL1454946,FR
+polymyxine b (sulfate de),2,,FR
+glucuronamide,2,CHEMBL1729883,FR
+bosentan base,2,CHEMBL957,FR
+tétracycline,2,CHEMBL1440,FR
+myrtécaïne,2,CHEMBL1630579,FR
+humulus lupulus,2,,ES
+hypericum perforatum,2,,ES
+[18f]psma-1007,2,,FR
+aldesleukine ,2,,FR
+rifamycine sodique,2,CHEMBL437765,FR
+sotalol,2,CHEMBL471,ES
+manganum peroxydatum pour préparations homéopathiques,2,,FR
+dexaméthasone (phosphate sodique de),2,CHEMBL384467,FR
+plantago major pour préparations homéopathiques,2,,FR
+hydroxyéthylamidon 130 000,2,,FR
+ursodésoxycholique (acide),2,,FR
+formotérol (fumarate de) dihydraté,2,CHEMBL1256786,FR
+tétracosactide,2,,FR
+tétrabénazine,2,CHEMBL117785,FR
+doxorubicine (chlorhydrate de),2,CHEMBL53463,FR
+tériparatide,2,,FR
+sodio fluoruro,2,,ES
+sodio fosfato,2,,ES
+sodio ioduro (123i),2,,ES
+chlore actif,2,,FR
+abiratérone,2,CHEMBL254328,FR
+témocilline,2,CHEMBL1276310,FR
+ácido tióctico,2,,ES
+alcool dichlorobenzylique,2,CHEMBL3184437,FR
+dosulépine (chlorhydrate de),2,CHEMBL1492500,FR
+robinia pseudo-acacia pour préparations homéopathiques,2,,FR
+ácido tartárico,2,,ES
+hierro sacarosa,2,,ES
+glucose-1 phosphate disodique tétrahydraté,2,,FR
+acide carglumique,2,CHEMBL1201780,FR
+varicela,2,,ES
+diclofénac de diéthylamine,2,,FR
+acide chlorhydrique,2,,FR
+glucagon humain biogénétique,2,,FR
+indio cloruro (111in),2,,ES
+tenoxicam,2,CHEMBL302795,ES
+salicylique (acide),2,,FR
+tensioactivo pulmonar porcino,2,,ES
+fluorodopa (18f),2,CHEMBL3547132,ES
+fluorometilcolina (18f),2,,ES
+acétylène,2,,FR
+thuya occidentalis pour préparations homéopathiques,2,,FR
+raloxifène,2,CHEMBL81,FR
+dichlorhydrate d'histamine,2,CHEMBL90,FR
+salicylate de sodium,2,,FR
+thrombine humaine ,2,,FR
+fluoresceína,2,CHEMBL1057,ES
+huile essentielle de pin,2,,FR
+thiosulfate de sodium,2,CHEMBL1208642,FR
+esculoside sesquihydraté,2,,FR
+acide citrique,2,CHEMBL1261,FR
+salicylate de méthyle,2,CHEMBL108545,FR
+tetraciclina,2,CHEMBL1440,ES
+diflucortolone (valérate de),2,CHEMBL509924,FR
+ácido carglúmico,2,CHEMBL1201780,ES
+thiamine,2,CHEMBL1547,FR
+glucoheptonate de calcium,2,CHEMBL1237066,FR
+carbocysteine,2,CHEMBL396416,FR
+thallium [201 tl] (chlorure de),2,,FR
+adrénaline (chlorhydrate d'),2,CHEMBL679,FR
+terebenthina pour préparations homéopathiques,2,,FR
+bêta-estradiol,2,,FR
+dichlorobenzylique (alcool),2,CHEMBL3184437,FR
+fluorodopa [18f],2,,FR
+carbimazole,2,CHEMBL508102,FR
+talio cloruro (201tl),2,,ES
+carbétocine,2,,FR
+poractant alfa ,2,,FR
+tixocortol (pivalate de),2,CHEMBL2107112,FR
+résorcinol,2,CHEMBL24147,FR
+ratanhia pour préparations homéopathiques,2,,FR
+maraviroc,2,CHEMBL256907,FR
+tioconazole,2,CHEMBL1200438,FR
+drosera rotundifolia pour préparations homéopathiques,2,,FR
+tazaroteno,2,CHEMBL1657,ES
+temocilina,2,CHEMBL1276310,ES
+flutamida,2,CHEMBL806,ES
+huile essentielle d'aiguilles de sapin de sibérie dit pin de sibérie,2,,FR
+tetrofosmina,2,CHEMBL1615784,ES
+prazosine base,2,CHEMBL2,FR
+fluoresceina,2,CHEMBL1057,ES
+ticarcilline base,2,CHEMBL1449,FR
+mizolastine,2,CHEMBL94454,FR
+mivacurium,2,CHEMBL1182833,FR
+ácido dimercaptosuccinico (dmsa),2,,ES
+flunarizina,2,CHEMBL30008,ES
+tigécycline,2,CHEMBL376140,FR
+timolol (maléate de),2,CHEMBL499,FR
+acétonide de fluocinolone,2,CHEMBL989,FR
+ifosfamida,1,CHEMBL1024,ES
+bendrofluméthiazide,1,CHEMBL1684,FR
+liothyronine,1,CHEMBL1544,FR
+indio oxina (111in),1,,ES
+magnésium (trisilicate de),1,CHEMBL1201230,FR
+indio pentetato (111in),1,,ES
+lidocaïne (chlorhydrate de) monohydraté,1,CHEMBL79,FR
+baryta carbonica pour préparations homéopathiques,1,,FR
+leucocianidol,1,CHEMBL123809,FR
+minociclina,1,CHEMBL1434,ES
+bellis perennis pour préparations homéopathiques,1,,FR
+bactérie bcg lyophilisé,1,,FR
+indacaterol,1,CHEMBL1095777,ES
+badiaga pour préparations homéopathiques,1,,FR
+mizolastina,1,CHEMBL94454,ES
+malique (acide),1,,FR
+frovatriptan base,1,CHEMBL1279,FR
+insulina regular,1,,ES
+lierre grimpant (feuille de) (extrait sec de),1,,FR
+fluoroéthyl-l tyrosine (18f),1,CHEMBL477278,FR
+"bcg (bacilles de calmette-guérin), mycobactérium bovis, souche danoise 1331, vivante atténuée",1,,FR
+inmunoglobulina anti-citomegalovirus,1,,ES
+bacitracine,1,,FR
+"bcg (bacille de calmette-guérin) vivant, atténué - souche brésilienne moreau ",1,,FR
+"mandragora officinarum, décocté pour préparations homéopathiques",1,,FR
+aztréonam,1,CHEMBL158,FR
+midodrina,1,CHEMBL1201212,ES
+midecamicina,1,CHEMBL444963,ES
+interferon gamma-1b,1,,ES
+fructose,1,CHEMBL1232863,FR
+bétiatide,1,,FR
+boldo (peumus boldus) ,1,,FR
+benjoin du laos (teinture de),1,,FR
+lutecio (177lu) cloruro,1,,ES
+lepidium latifolium,1,,ES
+bromure de potassium,1,CHEMBL1644030,FR
+flupentixol base,1,CHEMBL42055,FR
+bromure de sodium,1,CHEMBL1644694,FR
+bismuth (sous-nitrate de) lourd pour préparations homéopathiques,1,,FR
+bromélaïnes,1,,FR
+bronopol,1,CHEMBL1408862,FR
+lapatinib,1,CHEMBL554,ES
+lumefantrina,1,CHEMBL38827,ES
+magnesia bromata pour préparations homéopathiques,1,,FR
+bryonia alba pour préparations homéopathiques,1,,FR
+"bryonia, radix pour préparations homéopathiques",1,,FR
+foscarbidopa,1,CHEMBL4802240,FR
+bilinum pour préparations homéopathiques,1,,FR
+magnésium (sulfate de) heptahydraté,1,,FR
+foslévodopa,1,CHEMBL4594379,FR
+fotémustine,1,CHEMBL549386,FR
+landiolol,1,CHEMBL1742466,ES
+magnesio cloruro,1,,ES
+magnesia carbonica pour préparations homéopathiques,1,,FR
+magnesia muriatica pour préparations homéopathiques,1,,FR
+magnesio pidolato,1,,ES
+lymécycline,1,CHEMBL2103929,FR
+lupulinum pour préparations homéopathiques,1,,FR
+bicisate (dichlorhydrate de),1,,FR
+bicarbonate de potassium,1,CHEMBL1161632,FR
+butacaïne,1,CHEMBL129529,FR
+lactobacillus rhamnosus,1,,ES
+macroagrégats d'albumine humaine plasmatique,1,,FR
+bivalirudine,1,,FR
+bromure de benzododécinium,1,,FR
+loprazolam,1,CHEMBL2107448,ES
+linum usitatissimum,1,,ES
+boldo pour préparations homéopathiques,1,,FR
+liotironina,1,CHEMBL1544,ES
+boldo (feuille de),1,,FR
+lévocarnitine,1,CHEMBL1149,FR
+lidocaina,1,CHEMBL79,ES
+bourdaine (écorce de),1,,FR
+formica rufa pour préparations homéopathiques,1,,FR
+bourdaine (écorce de) (extrait sec d'),1,,FR
+bourse à pasteur (extrait fluide de),1,,FR
+fucus,1,,FR
+lisina,1,CHEMBL8085,ES
+levometadona,1,CHEMBL159659,ES
+bleu patenté v sodique,1,,FR
+formaldéhyde,1,CHEMBL1255,FR
+fondaparinux sodique,1,,FR
+fomépizole,1,CHEMBL1308,FR
+fluvoxamine (maléate de),1,CHEMBL814,FR
+bromhydrate de fénotérol,1,CHEMBL32800,FR
+bromhydrate de scopolamine,1,CHEMBL569713,FR
+lévulose,1,CHEMBL1232863,FR
+flurbiprofène sodique dihydraté,1,CHEMBL563,FR
+levisticum officinale,1,,ES
+lomustina,1,CHEMBL514,ES
+bleu de prusse insoluble,1,,FR
+lopinavir,1,CHEMBL729,ES
+bromum pour préparations homéopathiques,1,,FR
+bexarotène,1,CHEMBL1023,FR
+lactobacillus gasseri,1,,ES
+luméfantrine,1,CHEMBL38827,FR
+metacolina,1,CHEMBL978,ES
+benzododécinium (bromure de) anhydre,1,CHEMBL1907001,FR
+isosorbida dinitrato,1,,ES
+loflazépate d'éthyle,1,CHEMBL1213460,FR
+metenolona,1,CHEMBL2106880,ES
+lisinopril dihydraté,1,CHEMBL1237,FR
+metilcelulosa,1,,ES
+metildigoxina,1,CHEMBL1697843,ES
+magnésium (gluconate de),1,CHEMBL1201230,FR
+bétahistine (mésilate de),1,CHEMBL24441,FR
+framycétine (sulfate de),1,CHEMBL184618,FR
+metiltioninio,1,,ES
+metionina,1,CHEMBL42336,ES
+metirapona,1,CHEMBL934,ES
+benzoate de choléstérol,1,CHEMBL112570,FR
+benzoate de benzyle,1,CHEMBL1239,FR
+bétaméthasone (dipropionate de),1,CHEMBL632,FR
+bétaxolol base,1,CHEMBL423,FR
+lisinopril,1,CHEMBL1237,FR
+liraglutide,1,,FR
+bétaïne (citrate de) monohydraté,1,CHEMBL95889,FR
+liothyronine sodique,1,CHEMBL1544,FR
+magnésium (oxyde de) lourd,1,,FR
+metoxiflurano,1,CHEMBL1341,ES
+magnésium (pidolate de),1,CHEMBL1201230,FR
+"benjoin du laos, dit du siam",1,,FR
+ioflupano (123i),1,CHEMBL3989517,ES
+iodometilnorcolesterol (131i),1,,ES
+benzoicum acidum pour préparations homéopathiques,1,,FR
+itoprida,1,CHEMBL2107457,ES
+matricaria recutita,1,,ES
+mesterolona,1,CHEMBL258918,ES
+lactobacillus bifhidus,1,,ES
+magnesia sulfurica pour préparations homéopathiques,1,,FR
+fragments f(ab')2 d'immunoglobuline équine anti-ricine ,1,,FR
+magnésium (aspartate de) dihydraté,1,CHEMBL1201230,FR
+butyrate d'hydrocortisone,1,CHEMBL389621,FR
+fragments f(ab')2 d'immunoglobuline équine antivenimeuse de vipère européenne : venin de vipera ammodytes ,1,,FR
+fragments f(ab')2 d'immunoglobuline équine antivenimeuse de vipère européenne : venin de vipera aspis ,1,,FR
+"betula alba, folium pour préparations homéopathiques",1,,FR
+betula alba (homéopathie),1,,FR
+butédronate tétrasodique,1,,FR
+melitraceno,1,CHEMBL110094,ES
+berberis aquifolium pour préparations homéopathiques,1,,FR
+béclométasone base,1,CHEMBL1586,FR
+benzylthiouracile,1,CHEMBL1491306,FR
+magnésium (carbonate de) léger,1,,FR
+fragments f(ab')2 d'immunoglobuline équine antivenimeuse de vipère européenne : venin de vipera berus ,1,,FR
+framycétine,1,CHEMBL184618,FR
+ketamina,1,CHEMBL742,ES
+merbromina,1,,ES
+loprazolam,1,CHEMBL2107448,FR
+benzydamine (chlorhydrate de),1,CHEMBL12610,FR
+mertiatida,1,,ES
+loméfloxacine base,1,CHEMBL561,FR
+josamicina,1,CHEMBL224436,ES
+lomustine,1,CHEMBL514,FR
+bénazépril (chlorhydrate de),1,CHEMBL838,FR
+magnésium (chlorure de) cristallisé,1,,FR
+frêne élevé (feuille de),1,,FR
+rifaximine,1,CHEMBL1617,FR
+avocat (huile d') (fraction insaponifiable d'),1,,FR
+acétate de méthylprednisolone,1,CHEMBL650,FR
+huile essentielle de romarin,1,,FR
+humulus lupulus pour préparations homéopathiques,1,,FR
+temsirolimus,1,CHEMBL1201182,ES
+adrénaline base,1,CHEMBL679,FR
+hydrocortisone (acétate d'),1,CHEMBL389621,FR
+tegafur,1,CHEMBL20883,ES
+teduglutida,1,,ES
+adénosine triphosphate disodique,1,CHEMBL14249,FR
+aescine,1,,FR
+tanato de gelatina,1,,ES
+hydrocortisone (phosphate sodique d'),1,CHEMBL389621,FR
+hydrocotyle (partie aérienne d') (extrait sec de),1,,FR
+talidomida,1,CHEMBL468,ES
+talco,1,CHEMBL3990276,ES
+hydrogène (peroxyde d') (solution concentrée de),1,,FR
+hydrogénophosphate de sodium anhydre,1,CHEMBL1060,FR
+airelle myrtille (extrait d') (sec),1,,FR
+tacalcitol,1,CHEMBL2105611,ES
+sylibum marianum,1,,ES
+huile essentielle de menthe poivrée,1,,FR
+huile essentielle de lavande,1,,FR
+huile essentielle de feuilles/bouton floral de giroflier,1,,FR
+histaminum pour préparations homéopathiques,1,,FR
+hexaminolévulinate,1,CHEMBL1201784,FR
+tiosulfato de sodio,1,,ES
+histaminum muriaticum pour préparations homéopathiques,1,,FR
+tiocolchicósido,1,CHEMBL213907,ES
+acétate de prednisolone,1,CHEMBL131,FR
+tinidazol,1,CHEMBL1220,ES
+acétate de sodium,1,CHEMBL1354,FR
+tilia sp,1,,ES
+ticlopidina,1,CHEMBL833,ES
+tetracaina,1,CHEMBL698,ES
+acétate de terlipressine,1,,FR
+gluconate de calcium pour solution injectable,1,,FR
+tianeptina,1,CHEMBL1289110,ES
+thymus vulgaris/zygis,1,,ES
+acétique (acide),1,,FR
+tfa hynic-[d-phe1,1,,ES
+gluconate de calcium monohydraté,1,CHEMBL1200496,FR
+tetracosactida,1,,ES
+hydrogénophosphate de sodium dodécahydraté,1,,FR
+albumine humaine (solution d') ,1,,FR
+sultiamo,1,CHEMBL328560,ES
+"hydroxyéthylamidon 130/0,4",1,,FR
+hydroxyprogestérone (caproate d'),1,CHEMBL1200848,FR
+hydroxyzine (chlorhydrate d'),1,CHEMBL896,FR
+sodio fitato,1,,ES
+alcool propylique,1,,FR
+alcools de graisse de laine,1,,FR
+hydroxyzine (dichlorhydrate de),1,CHEMBL896,FR
+alendronate acide anhydre,1,CHEMBL870,FR
+sodio acetato,1,,ES
+hymécromone,1,CHEMBL12208,FR
+alcool cinnamique,1,,FR
+alfuzosine (chlorhydrate d'),1,CHEMBL709,FR
+hypromellose,1,,FR
+hélicidine,1,,FR
+alizapride,1,CHEMBL290194,FR
+hémine,1,,FR
+almitrine (mésilate d'),1,CHEMBL1183717,FR
+serenoa serrulata,1,,ES
+sen,1,,ES
+solidago gigantea,1,,ES
+hydroxyde de méthylthioninium,1,,FR
+hydroquinidine (chlorhydrate d'),1,CHEMBL531472,FR
+albumine humaine iodée [125 i] ,1,,FR
+hydrotalcite,1,CHEMBL3833409,FR
+sulfoguayacolato,1,,ES
+sulfato sodio anhidro,1,,ES
+sulfato potasio,1,,ES
+sulfato magnesio heptahidrato,1,,ES
+sulfato de níquel,1,,ES
+sulfasalazina,1,CHEMBL421,ES
+sulfanilamida,1,CHEMBL21,ES
+sulfadiazina,1,CHEMBL439,ES
+somatorelina,1,,ES
+sulbutiamina,1,CHEMBL1874002,ES
+sulbactam,1,CHEMBL403,ES
+hydroxycitronellal,1,,FR
+glatiramère base,1,,FR
+subcitrato bismuto,1,,ES
+alchemilla vulgaris pour préparations homéopathiques,1,,FR
+alcool,1,CHEMBL545,FR
+alcool a 70 pour cent,1,,FR
+hexamidine (diisétionate d'),1,CHEMBL25105,FR
+hexamidine,1,CHEMBL25105,FR
+secnidazol,1,CHEMBL498847,ES
+hexacétonide de triamcinolone,1,CHEMBL1200878,FR
+acide gadobénique,1,,FR
+acide hydroxy-4 butyrique,1,,FR
+glycérophosphate de calcium,1,,FR
+acide l-aspartique,1,,FR
+glycérophosphate de magnésium,1,,FR
+zinc cloruro,1,,ES
+glycérophosphate de potassium,1,,FR
+zanamivir,1,CHEMBL222813,ES
+ytrio citrato (90y),1,,ES
+xipamida,1,CHEMBL517199,ES
+gluconate de sodium,1,,FR
+acide lactobionique,1,,FR
+gnaphalium polycephalum pour préparations homéopathiques,1,,FR
+vindesina,1,CHEMBL238071,ES
+vincristina,1,CHEMBL90555,ES
+vincamina,1,CHEMBL1165342,ES
+vinburnina,1,CHEMBL1892145,ES
+vinblastina,1,CHEMBL159,ES
+verde de indocianina,1,,ES
+acide fusidique anhydre,1,CHEMBL374975,FR
+glycérophosphate acide de magnésium,1,,FR
+acide cromoglycique,1,,FR
+aceticum acidum pour préparations homéopathiques,1,,FR
+6-iodométhylnorcholestérol [131 i],1,CHEMBL2106905,FR
+gluconate ferreux,1,,FR
+abies nigra pour préparations homéopathiques,1,,FR
+ácido tánico,1,,ES
+ácido tauroselcólico (75se),1,CHEMBL3707263,ES
+absinthium pour préparations homéopathiques,1,,FR
+ácido niflúmico,1,CHEMBL63323,ES
+ácido mefenámico,1,CHEMBL686,ES
+ácido glutámico,1,CHEMBL575060,ES
+glycopyrronium,1,CHEMBL1201335,FR
+glutathion,1,CHEMBL1543,FR
+acide alpha-cétoglutarique,1,,FR
+ácido flufenámico,1,CHEMBL23588,ES
+ácido etidrónico,1,CHEMBL871,ES
+ácido espaglúmico,1,CHEMBL2105616,ES
+ácido desoxicólico,1,CHEMBL406393,ES
+gluconate de zinc trihydraté,1,,FR
+ácido aspártico,1,CHEMBL274323,ES
+verbena officinalis,1,,ES
+acide méfénamique,1,CHEMBL686,FR
+gomme karaya,1,,FR
+treosulfano,1,CHEMBL455186,ES
+géraniol,1,,FR
+haemophilus type b (polyoside) conjugué à la protéine tétanique,1,,FR
+triglicéridos con ácidos grasos omega-3,1,,ES
+harpagophytum pour préparations homéopathiques,1,,FR
+trifaroteno,1,CHEMBL3707313,ES
+trientina,1,CHEMBL609,ES
+triazolam,1,CHEMBL646,ES
+triamtereno,1,CHEMBL585,ES
+acétate d'hydrocortisone,1,CHEMBL389621,FR
+trimipramina,1,CHEMBL644,ES
+hepar sulfur pour préparations homéopathiques,1,,FR
+acétate de chlorhexidine,1,CHEMBL790,FR
+heptaminol,1,CHEMBL2111076,FR
+acétate de dexaméthasone,1,CHEMBL384467,FR
+acétate de gonadoréline,1,,FR
+acétate de lysine,1,CHEMBL8085,FR
+hespéridine méthylchalcone,1,,FR
+tolnaftato,1,CHEMBL83668,ES
+géméprost,1,CHEMBL1908315,FR
+gélatine ,1,,FR
+acide niflumique,1,CHEMBL63323,FR
+vacuna anti h.influenzae b,1,,ES
+acide pentétique,1,CHEMBL780,FR
+acide tannique,1,,FR
+gonadoréline (acétate de),1,,FR
+gonadotrophine chorionique ,1,,FR
+vacuna anti polio,1,,ES
+gozétotide,1,CHEMBL3578202,FR
+graphite,1,,FR
+vacuna anti hepatitis a/b,1,,ES
+"acide éthylènediamine-n,n'-diacétique",1,,FR
+tuberculina ppd,1,,ES
+vacuna anti fiebre amarilla,1,,ES
+vacuna anti bcg,1,,ES
+vaccinium macrocarpon,1,,ES
+urtica orens,1,,ES
+urtica dioica,1,,ES
+"aconitum napellus, planta tota pour préparations homéopathiques",1,,FR
+grindélia (teinture de),1,,FR
+tyr3-octreotida],1,,ES
+selegilina,1,CHEMBL972,ES
+icodextrine,1,,FR
+"leptospira icterohaemorrhagiae, inactivé",1,,FR
+isopropylphénylparaphénylènediamine,1,,FR
+kalium sulfuricum pour préparations homéopathiques,1,,FR
+perfenazina,1,CHEMBL567,ES
+perborato sodio,1,,ES
+antimoine,1,,FR
+pentoxiverina,1,CHEMBL73234,ES
+kalmia latifolia pour préparations homéopathiques,1,,FR
+pentostatina,1,CHEMBL1580,ES
+pentosano polisulfato sodio,1,,ES
+pentetreotida,1,,ES
+pentamidina,1,CHEMBL55,ES
+antimonium metallicum pour préparations homéopathiques,1,,FR
+penciclovir,1,CHEMBL1540,ES
+kreosotum pour préparations homéopathiques,1,,FR
+krypton [81m kr],1,,FR
+peamus boldus,1,,ES
+antithrombine humaine ,1,,FR
+paullinia cupana,1,,ES
+antithrombine iii humaine ,1,,FR
+anémone pulsatille (extrait fluide d'),1,,FR
+antigènes pertussiques : fimbriae type 2 et 3 ,1,,FR
+gadoxétate disodique,1,,FR
+kalium bromatum pour préparations homéopathiques,1,,FR
+ispaghul (graine d'),1,,FR
+pivmecilinam,1,CHEMBL1650818,ES
+antigène de bordetella pertussis : pertactine,1,,FR
+antigène pertussique : anatoxine pertussique ,1,,FR
+piritiona zíncica,1,,ES
+pirisudanol,1,CHEMBL2104859,ES
+pirimetamina,1,CHEMBL36,ES
+antigène pertussique : hémagglutinine filamenteuse ,1,,FR
+antigène pertussique : pertactine  ,1,,FR
+"antigènes de surface de virus de la grippe, inactivé, souche b/phuket/3073/2013 - souche analogue (b/phuket/3073/2013, souche sauvage) ",1,,FR
+jus pressé déshydraté des parties aériennes fleuries fraîches d'echinacea purpurea,1,,FR
+galeopsis ochroleuca pour préparations homéopathiques,1,,FR
+pinaverio bromuro,1,,ES
+pimpinella anisum,1,,ES
+pimecrolimus,1,CHEMBL1200686,ES
+galactane (sulfate de),1,,FR
+josamycine,1,CHEMBL224436,FR
+juglans regia pour préparations homéopathiques,1,,FR
+peumus boldus,1,,ES
+paromomicina,1,CHEMBL370143,ES
+kétorolac trométamol,1,CHEMBL469,FR
+l-carnitine,1,,FR
+nefopam,1,CHEMBL465026,ES
+atracurium (bésilate d'),1,CHEMBL1360,FR
+atropa belladona pour préparations homéopathiques,1,,FR
+fumarate d'oxétorone,1,CHEMBL3989752,FR
+fucus vesiculosus pour préparations homéopathiques,1,,FR
+nicergolina,1,CHEMBL1372950,ES
+fucus (thalle de) (extrait sec de),1,,FR
+neostigmina,1,CHEMBL278020,ES
+aubépine (extrait d') (fluide),1,,FR
+nedocromilo,1,CHEMBL746,ES
+nitrito de sodio,1,,ES
+aubépine (sommité fleurie d') (extrait sec de),1,,FR
+leptandra virginica pour préparations homéopathiques,1,,FR
+aurum muriaticum natronatum pour préparations homéopathiques,1,,FR
+naftidrofuril,1,,ES
+nafarelina,1,,ES
+"avena sativa (partie aérienne fleurie d'), teinture de",1,,FR
+nadifloxacino,1,CHEMBL363449,ES
+nabumetona,1,CHEMBL1070,ES
+atracurium,1,CHEMBL1360,FR
+aspidium filix mas pour préparations homéopathiques,1,,FR
+apocynum cannabinum pour préparations homéopathiques,1,,FR
+orthosiphon stamineus,1,,ES
+l-cystéine,1,CHEMBL863,FR
+aprotinine synthétique,1,,FR
+p-toluendiamina,1,,ES
+ozenoxacino,1,CHEMBL3990047,ES
+argent colloïdal par voie chimique,1,,FR
+l-lysine (chlorhydrate de),1,CHEMBL2105886,FR
+oxiconazol,1,CHEMBL1262,ES
+argipressine,1,,FR
+artéméther,1,CHEMBL566534,FR
+nitroprusiato sódico,1,,ES
+arundo donax pour préparations homéopathiques,1,,FR
+labétalol (chlorhydrate de),1,CHEMBL429,FR
+fénoprofène,1,CHEMBL1297,FR
+ascorbate sodique,1,CHEMBL196,FR
+lacticum acidum pour préparations homéopathiques,1,,FR
+norgestrel,1,CHEMBL2107797,ES
+lactique (acide),1,,FR
+aspartate d'arginine,1,CHEMBL6068508,FR
+pizotifeno,1,CHEMBL294951,ES
+antigène de bordetella pertussis : hémagglutinine filamenteuse ,1,,FR
+sambucus nigra,1,,ES
+plata nitrato,1,,ES
+immunoglobuline humaine rabique ,1,,FR
+immunoglobuline humaine tétanique ,1,,FR
+alun de chrome,1,,FR
+rifamicina,1,CHEMBL437765,ES
+rifabutina,1,CHEMBL444633,ES
+rhodiola rosea,1,,ES
+immunoglobuline équine anti-lymphocyte t humain ,1,,FR
+gelsémium (extrait de) (mou),1,,FR
+alvérine (citrate d'),1,CHEMBL253371,FR
+resorcinol,1,CHEMBL24147,ES
+amanita muscaria pour préparations homéopathiques,1,,FR
+renio sulfuro (re2s7),1,,ES
+renio sulfuro (186re),1,,ES
+ambrosia artemisiaefolia pour préparations homéopathiques,1,,FR
+indium [111 in] (pentétate d'),1,,FR
+raltitrexed,1,CHEMBL225071,ES
+influenzinum pour préparations homéopathiques,1,,FR
+amifampridine,1,CHEMBL354077,FR
+inhibiteur de la c1 estérase humain ,1,,FR
+aluminium (phosphate d'),1,,FR
+ritodrina,1,CHEMBL83063,ES
+aluminium (oxyde d'),1,,FR
+sacarato de calcio,1,CHEMBL2104217,ES
+salicilato dietilamina,1,,ES
+imidazolidinylurée,1,CHEMBL65433,FR
+salicilamida,1,CHEMBL27577,ES
+gemfibrozil,1,CHEMBL457,FR
+"sal tetrasódica del ácido 3,3-difosfono-1,2-propanodicarboxílico",1,,ES
+alpha-amylcinnamaldéhyde,1,,FR
+alpha-terpinéol,1,,FR
+alpha-tocophérol,1,,FR
+rutósido,1,CHEMBL226335,ES
+aluminium (amino-acétate d'),1,,FR
+imiquimod,1,CHEMBL1282,FR
+immunoglobuline de lapin anti-lymphocyte t humain ,1,,FR
+rumex crispus,1,,ES
+immunoglobuline de lapin anti-thymocytes humains,1,,FR
+altrétamine,1,CHEMBL1455,FR
+alumen pour préparations homéopathiques,1,,FR
+rodoficea,1,,ES
+alumina pour préparations homéopathiques,1,,FR
+amiloride (chlorhydrate d'),1,CHEMBL945,FR
+amiloride (chlorhydrate d') anhydre,1,CHEMBL945,FR
+quelato de bismuto,1,,ES
+potasio clorato,1,,ES
+iodure de sodium,1,CHEMBL1644695,FR
+ioflupane (123i),1,CHEMBL1945778,FR
+iproniazide base,1,CHEMBL92401,FR
+gel de phosphate d'aluminium,1,,FR
+androstanolone,1,CHEMBL27769,FR
+iris versicolor pour préparations homéopathiques,1,,FR
+potasio sulfato,1,,ES
+potasio fosfato dibásico,1,,ES
+potasio acetato,1,,ES
+preparacion con hojas de rubus idaeus,1,,ES
+potasio,1,CHEMBL1201290,ES
+isoeugénol,1,,FR
+antigène coquelucheux : pertactine  ,1,,FR
+antigène de bordetella pertussis : anatoxine ,1,,FR
+polimaltosa hierro,1,,ES
+poliestireno sulfonato sodio,1,,ES
+ictamol,1,,ES
+isopropylique (alcool),1,,FR
+anacardium orientale pour préparations homéopathiques,1,,FR
+preparado de raíz de arctium lappa,1,,ES
+quazepam,1,CHEMBL1200472,ES
+"gelsemium sempervirens, décocté pour préparations homéopathiques",1,,FR
+pyrus malus,1,,ES
+aminolévulinate de méthyle,1,CHEMBL1096562,FR
+prunus africana,1,,ES
+aminophylline,1,,FR
+proteasas,1,,ES
+interféron gamma-1b,1,,FR
+iobenguane (123i),1,CHEMBL818,FR
+propanocaína,1,CHEMBL2105346,ES
+iode [123 i],1,,FR
+pridinol,1,CHEMBL404215,ES
+ampicilline base,1,CHEMBL174,FR
+prociclidina,1,CHEMBL86715,ES
+procarbazina,1,CHEMBL1321,ES
+procainamida,1,CHEMBL640,ES
+primula veris/elatior,1,,ES
+primula veris,1,,ES
+primidona,1,CHEMBL856,ES
+amsacrine,1,CHEMBL43,FR
+manganum sulfuricum pour préparations homéopathiques,1,,FR
+médrogestone,1,CHEMBL2106825,FR
+caladium seguinum pour préparations homéopathiques,1,,FR
+pizotifène base,1,CHEMBL294951,FR
+tétrofosmin,1,CHEMBL1615784,FR
+plantain lancéolé (feuille de) (extrait mou de),1,,FR
+tétrafluoroborate de tétrakis (1-isocyanide-2-méthoxy-2-méthylpropyl) cuivre (i),1,,FR
+plumbum metallicum pour préparations homéopathiques,1,,FR
+tétracaïne (chlorhydrate de),1,CHEMBL698,FR
+térébenthine (essence de),1,,FR
+dexaméthasone phosphate,1,CHEMBL1201302,FR
+podophyllotoxine,1,CHEMBL61,FR
+ténoxicam,1,CHEMBL302795,FR
+pollens pour préparations homéopathiques,1,,FR
+ténoate d'éthanolamine,1,,FR
+poly(alcool vinylique),1,CHEMBL2106939,FR
+dexrazoxane,1,CHEMBL1738,FR
+tégument de la graine d'ispaghul,1,,FR
+dextran 70,1,,FR
+turnera diffusa pour préparations homéopathiques,1,,FR
+tuberculine purifiée,1,,FR
+tuberculine ppd rt 23,1,,FR
+tuaminoheptane (sulfate de),1,CHEMBL123693,FR
+dextrométhorphane (bromhydrate de),1,CHEMBL52440,FR
+di(acéfylline) diphénhydramine,1,,FR
+ulmus campestris pour préparations homéopathiques,1,,FR
+urée,1,CHEMBL985,FR
+"polyoside (de o-acétylaté) de neisseria meningitidis, groupe c (souche c11) conjugué à l'anatoxine tétanique ",1,,FR
+urée [13c],1,CHEMBL2096648,FR
+virus de l'encéphalite à tiques souche k23 ,1,,FR
+pipotiazine,1,CHEMBL2106439,FR
+vinblastine anhydre,1,CHEMBL159,FR
+estramustine phosphate,1,CHEMBL1756,FR
+vigne rouge (feuille de) (extrait sec de),1,,FR
+viburnum prunifolium pour préparations homéopathiques,1,,FR
+vert d'indocyanine monopic,1,,FR
+danaparoïde sodique ,1,,FR
+danazol,1,CHEMBL1479,FR
+pirétanide,1,CHEMBL349803,FR
+pivalate de prednisolone,1,,FR
+vancomycine,1,CHEMBL262777,FR
+valériane (racine de) (extrait sec aqueux de),1,,FR
+dapsone,1,CHEMBL1043,FR
+valpromide,1,CHEMBL93836,FR
+daunorubicine,1,CHEMBL178,FR
+desmopressine (acétate de) trihydraté,1,,FR
+"valeriana officinalis, décocté pour préparations homéopathiques",1,,FR
+pivmécillinam (chlorhydrate de),1,CHEMBL1650818,FR
+dexaméthasone (métasulfobenzoate sodique de),1,CHEMBL384467,FR
+uva ursi pour préparations homéopathiques,1,,FR
+polyenzyme fongique,1,,FR
+trospium (chlorure de),1,CHEMBL1888176,FR
+pipobroman,1,CHEMBL1585,FR
+tramadol (chlorhydrate de),1,CHEMBL1237044,FR
+dichlorhydrate d'éthylènediamine,1,CHEMBL816,FR
+topotécane,1,CHEMBL84,FR
+populus candicans pour préparations homéopathiques,1,,FR
+dichlorhydrate de saproptérine,1,CHEMBL1201774,FR
+toltérodine,1,CHEMBL1382,FR
+titane (dioxyde de),1,,FR
+estazolam,1,CHEMBL285674,FR
+espèces pectorales (extrait fluide d'),1,,FR
+tinidazole,1,CHEMBL1220,FR
+dichromate de potassium,1,,FR
+"tilia tomentosa (bourgeon de), macérat glycériné pour préparations homéopathiques",1,,FR
+tidiacic arginine,1,CHEMBL2064047,FR
+diclofénac,1,CHEMBL139,FR
+potassium (glycérophosphate de),1,CHEMBL1201290,FR
+tiaprofénique (acide),1,,FR
+poudre de pancréas ,1,,FR
+poumon histamine pour préparations homéopathiques,1,,FR
+eslicarbazépine (acétate d'),1,CHEMBL315985,FR
+thyroxine sodique anhydre,1,,FR
+thymus vulgaris pour préparations homéopathiques,1,,FR
+pralidoxime,1,CHEMBL1420,FR
+esters éthyliques 90 d'acides oméga-3 ,1,,FR
+dibutyldithiocarbamate de zinc,1,,FR
+polyoside capsulaire vi de salmonella typhi (souche ty2),1,,FR
+polyvinylpolypyrrolidone,1,,FR
+trométamol (citrate de),1,CHEMBL1200391,FR
+polyoside de salmonella typhi souche ty2,1,,FR
+trisilicate de magnésium,1,CHEMBL2109882,FR
+triphosadénine,1,,FR
+trioxyde d'arsenic,1,,FR
+diastase de l'orge germée,1,,FR
+trinitrate de glycéryle,1,CHEMBL730,FR
+"polypodium vulgare, folium, pour préparations homéopathiques",1,,FR
+trimétazidine (dichlorhydrate de),1,CHEMBL203266,FR
+trimébutine (maléate de),1,CHEMBL190044,FR
+polysorbate 80,1,,FR
+polystyrène sulfonate de calcium,1,,FR
+trimethylacetate de fluocortolone,1,,FR
+trillium pendulum pour préparations homéopathiques,1,,FR
+diazolidinyl urée,1,,FR
+polyvidone iodée,1,,FR
+trifluridine,1,CHEMBL1129,FR
+trifarotène,1,CHEMBL3707313,FR
+trientine,1,CHEMBL609,FR
+triclabendazole,1,CHEMBL1086440,FR
+triamtérène,1,CHEMBL585,FR
+virus de l'hépatite a souche cr-326f inactivé adsorbé ,1,,FR
+pinavérium (bromure de),1,CHEMBL1909324,FR
+almidón maíz,1,,ES
+pholcodine monohydratée,1,,FR
+acetilsalicilato de lisina,1,,ES
+acetilcolina cloruro,1,,ES
+acetato de sodio,1,CHEMBL1354,ES
+acetato de magnesio,1,CHEMBL1200691,ES
+phosphate de codéine anhydre,1,CHEMBL485,FR
+aceite etiodado,1,,ES
+aceite esencial de menta piperita,1,,ES
+aceite esencial de alcaravea,1,,ES
+euphorbia resinifera pour préparations homéopathiques,1,,FR
+"eupatorium perfoliatum, herba pour préparations homéopathiques",1,,FR
+phosphate disodique,1,CHEMBL1060,FR
+aceite de oliva,1,,ES
+cyclamen d'europe pour préparations homéopathiques,1,,FR
+acamprosato,1,CHEMBL1201293,ES
+cyclohexylbenzothiazolesulfenamide,1,,FR
+cyclohexylphénylparaphénylènediamine,1,,FR
+cyclopentolate (chlorhydrate de),1,CHEMBL1201338,FR
+cyproheptadine,1,CHEMBL516,FR
+phosphate disodique anhydre,1,,FR
+étodolique acide,1,,FR
+étodolac,1,CHEMBL622,FR
+achillea millefolium,1,,ES
+phloroglucinol (triméthyl éther du),1,CHEMBL473159,FR
+étifoxine (chlorhydrate d'),1,CHEMBL2106227,FR
+aesculus hippocastanum,1,,ES
+pentétréotide,1,,FR
+perméthrine,1,CHEMBL1525,FR
+alimemazina,1,CHEMBL829,ES
+algeldrato,1,CHEMBL1200706,ES
+crisantaspase ,1,,FR
+alfentanilo,1,CHEMBL634,ES
+peroxyde d'hydrogène,1,CHEMBL71595,FR
+"peroxyde d'hydrogène, solution à 3 pour cent",1,,FR
+aldesleukina,1,,ES
+crocus sativus pour préparations homéopathiques,1,,FR
+crospovidone,1,,FR
+crotamiton,1,,FR
+peroxyde de zinc,1,,FR
+petit houx (extrait sec de),1,,FR
+petroleum rectificatum pour préparations homéopathiques,1,,FR
+albendazol,1,CHEMBL1483,ES
+alantoína,1,CHEMBL593429,ES
+alanina,1,CHEMBL279597,ES
+alanilglutamina,1,,ES
+croton tiglium pour préparations homéopathiques,1,,FR
+créosote officinale,1,,FR
+étilsulfate de mécétronium,1,CHEMBL1550879,FR
+éthosuximide,1,CHEMBL696,FR
+"virus de la rage inactivé, souche flury lep ",1,,FR
+zofénopril calcique,1,CHEMBL331378,FR
+zincum oxydatum pour préparations homéopatiques,1,,FR
+zincum muriaticum pour préparations homéopathiques,1,,FR
+zincum isovalerianicum pour préparations homéopathiques,1,,FR
+zinc (oxyde de),1,,FR
+zinc (gluconate de),1,,FR
+cétoleucine calcique,1,,FR
+cétophénylalanine calcique,1,,FR
+yohimbine (chlorhydrate de),1,CHEMBL15245,FR
+yerba santa pour préparations homéopathiques,1,,FR
+xylène,1,,FR
+piloselle,1,,FR
+cétrorélix base,1,,FR
+piment de la jamaïque (huile essentielle de),1,,FR
+viscum album pour préparations homéopathiques,1,,FR
+virus rubéoleux (souche wistar ra 27/3) atténué ,1,,FR
+cétylpyridinium (chlorure de),1,CHEMBL305906,FR
+pimpinella anisum pour préparations homéopathiques,1,,FR
+dactinomycine,1,,FR
+virus des oreillons (souche rit 4385 derivée de la souche jeryl lynn) attenué ,1,,FR
+"virus de la rougeole, souche schwartz, vivant, atténué ",1,,FR
+"virus de la rage, souche wistar rabies pm/wi 38-1503-3m inactivé ",1,,FR
+pilocarpine (chlorhydrate de),1,CHEMBL550,FR
+picricum acidum pour préparations homéopathiques,1,,FR
+cystéine (chlorhydrate de),1,CHEMBL863,FR
+zuclopenthixol (acétate de),1,CHEMBL53904,FR
+éther éthylique,1,CHEMBL16264,FR
+éther,1,CHEMBL16264,FR
+éthanol à 95 pour cent,1,,FR
+phosphate monosodique monohydraté,1,,FR
+phosphate sodique d'hydrocortisone,1,,FR
+céfaclor anhydre,1,CHEMBL680,FR
+érysimum (extrait sec d'),1,,FR
+phosphate tricalcique,1,CHEMBL2106566,FR
+phosphatides d'oeuf purifiés,1,,FR
+épolamine de diclofénac,1,,FR
+céfadroxil,1,CHEMBL1644,FR
+phosphore,1,,FR
+épinastine,1,CHEMBL1106,FR
+phosphorus pour préparations homéopathiques,1,,FR
+énoximone,1,CHEMBL249856,FR
+phénoxyméthylpénicilline,1,CHEMBL615,FR
+énantate de testostérone,1,CHEMBL386630,FR
+"eucalyptus globulus, folium  pour préparations homéopathiques",1,,FR
+phénytoïne,1,CHEMBL16,FR
+éconazole (nitrate d'),1,CHEMBL808,FR
+zuclopenthixol (décanoate de),1,CHEMBL53904,FR
+thym rouge (huile essentielle de),1,,FR
+thym (huile essentielle de),1,,FR
+pralidoxime (méthylsulfate de),1,CHEMBL1420,FR
+sodium (monosulfure de) nonahydraté,1,,FR
+"sodium (lactate de), solution de",1,,FR
+"sodium (lactate de), solution concentrée de",1,,FR
+sodium (hyaluronate de),1,,FR
+sodium (fusidate de),1,,FR
+sodium (fluorure de),1,,FR
+sodium (docusate de),1,,FR
+sodium (cromoglicate de),1,,FR
+sodium (citrate diacide de),1,,FR
+sodium (citrate de),1,,FR
+diéthylamine,1,CHEMBL1189,FR
+sodium (acétate de) anhydre,1,,FR
+sodium ,1,,FR
+sodium,1,,FR
+diéthylcarbamazine,1,CHEMBL684,FR
+diéthyldithiocarbamate de zinc,1,,FR
+dl-alpha-hydroxyméthioninate de calcium,1,,FR
+dl-lysine (monochlorhydrate de),1,,FR
+silicea naturale (quartz) pour préparations homéopathiques,1,,FR
+dl-méthionine,1,CHEMBL274119,FR
+déméclocycline,1,CHEMBL1591,FR
+dobésilate de calcium,1,CHEMBL1232131,FR
+sodium (monofluorophosphate de),1,,FR
+sodium (médronate de),1,,FR
+"sel de tfa de hynic-[d-phé1,tyr3-octréotide]",1,,FR
+sodium (n-acétyl l-aspartyl l-glutamate de),1,,FR
+pyriméthamine,1,CHEMBL36,FR
+soufre,1,,FR
+pyrophosphate de sodium décahydraté,1,,FR
+sorbitol à 70 pour cent cristallisable,1,,FR
+sorbitol liquide (cristallisable),1,CHEMBL1682,FR
+pénicillamine,1,CHEMBL1430,FR
+dérivés hydroxyanthracéniques totaux exprimés en rhéine,1,,FR
+disulfure de dibenzothiazole,1,,FR
+somatoréline base,1,,FR
+disulfure de dipentaméthylènethiurame,1,,FR
+quaternium 15,1,,FR
+disulfure de tétraméthylthiurame,1,,FR
+solanum dulcamara pour préparations homéopathiques,1,,FR
+soja (huile de) (fraction insaponifiable d'),1,,FR
+sodium-dihydrogène phosphate anhydre,1,,FR
+sodium (thiosulfate de) anhydre,1,,FR
+sodium (sélénite de) pentahydraté,1,,FR
+sodium (sélénite de),1,,FR
+sodium (sulfate de) anhydre,1,,FR
+sodium (polystyrène sulfonate de),1,,FR
+sodium (picosulfate de),1,,FR
+sennosides,1,,FR
+secnidazole,1,CHEMBL498847,FR
+thiosulfate de sodium d'or,1,,FR
+rheum officinale pour préparations homéopathiques,1,,FR
+rutoside,1,CHEMBL226335,FR
+rutine (ph viii),1,CHEMBL226335,FR
+rhénium,1,,FR
+rubia tinctoria pour préparations homéopathiques,1,,FR
+dolichos pruriens pour préparations homéopathiques,1,,FR
+rhénium [186 re] (sulfure de) (colloïdal) (solution injectable de),1,,FR
+domifène (bromure de),1,,FR
+ribes nigrum macérat glycériné pour préparations homéopathiques,1,,FR
+ropivacaïne,1,CHEMBL1077896,FR
+rifabutine,1,CHEMBL444633,FR
+romarin (huile essentielle de),1,,FR
+romarin (feuille de),1,,FR
+rocuronium (bromure de),1,CHEMBL1201244,FR
+rizolipase,1,,FR
+rifampicine sodique,1,CHEMBL374478,FR
+rifamycine,1,CHEMBL437765,FR
+ritonavir,1,CHEMBL163,FR
+ritiométan magnésien,1,,FR
+doxycycline,1,CHEMBL1433,FR
+risédronate monosodique,1,,FR
+doxycycline hydratée,1,,FR
+6-fluoro-[18f]-l-dihydroxyphénylalanine,1,CHEMBL3400972,FR
+réserpine,1,CHEMBL772,FR
+décanoate de flupentixol,1,CHEMBL42055,FR
+résine p-tert-butylphénolformaldéhyde,1,,FR
+scolopendrium officinale pour préparations homéopathiques,1,,FR
+sarsaparilla pour préparations homéopathiques,1,,FR
+sarcolacticum acidum pour préparations homéopathiques,1,,FR
+saproptérine,1,CHEMBL1201774,FR
+rabéprazole sodique monohydraté,1,CHEMBL1219,FR
+raisin (pépin de) (extrait de),1,,FR
+docosanol,1,CHEMBL1200453,FR
+docusate de sodium,1,CHEMBL1477036,FR
+"salmonella enterica sérovar typhi, souche ty21a (vivante, atténuée)",1,,FR
+salix vitellina folium pour préparations homéopathiques,1,,FR
+"salix viminalis, folium, pour préparations homéopathiques",1,,FR
+salix alba pour préparations homéopathiques,1,,FR
+salicylicum acidum pour préparations homéopathiques,1,,FR
+salicylate de glycol,1,,FR
+salicylate de diéthylamine,1,,FR
+salicylate de choline,1,CHEMBL2104095,FR
+salicylate d'isoamyle,1,,FR
+raltitrexed,1,CHEMBL225071,FR
+sabal serrulata teinture mère pour préparations homéopathiques,1,,FR
+"sabadilla officinarum, semen pour préparations homéopathiques",1,,FR
+résine époxy,1,,FR
+spigelia anthelmia pour préparations homéopathiques,1,,FR
+disperse blue 106,1,,FR
+pyridoxine (chlorhydrate de),1,CHEMBL1364,FR
+primaquine,1,CHEMBL506,FR
+"primevère (fleur de), extrait sec de",1,,FR
+sévoflurane,1,CHEMBL1200694,FR
+sérum albumine humaine ,1,,FR
+primidone,1,CHEMBL856,FR
+séné de l'inde ou de tinnevelly (fruit de),1,,FR
+"séné (feuille de), extrait sec titré de",1,,FR
+séné (feuille de) (extrait sec de),1,,FR
+séné (feuille de),1,,FR
+séné (extrait sec de),1,,FR
+probénécide,1,CHEMBL897,FR
+syzygium jambolanum pour préparations homéopathiques,1,,FR
+"sureau (fleur de), extrait sec de",1,,FR
+diméticone silice,1,,FR
+procarbazine,1,CHEMBL1321,FR
+sulprostone,1,CHEMBL1472830,FR
+ergotamine (tartrate d'),1,CHEMBL442,FR
+sulfuricum acidum pour préparation homéopathique,1,,FR
+sulfate sodique de chondroïtine ,1,,FR
+propafénone (chlorhydrate de),1,CHEMBL631,FR
+sulfate de vindésine,1,CHEMBL238071,FR
+erbium [169 er] (citrate d'),1,,FR
+dimercaprol,1,CHEMBL1597,FR
+erysimum officinale pour préparations homéopathiques,1,,FR
+streptococcus pneumoniae sérotype 1 (polyosides de),1,,FR
+taka-diastase,1,,FR
+thiomersal,1,,FR
+thioguanine,1,CHEMBL727,FR
+esculoside,1,,FR
+thalidomide,1,CHEMBL468,FR
+difluprednate,1,CHEMBL1201749,FR
+tertatolol (chlorhydrate de),1,CHEMBL434200,FR
+eschscholtzia californica pour préparations homéopathiques,1,,FR
+praziquantel,1,CHEMBL976,FR
+terbutaline (sulfate de),1,CHEMBL1760,FR
+digitalis purpurea pour préparations homéopathiques,1,,FR
+teinture de souci,1,,FR
+teinture de phytolaque,1,,FR
+teinture de bryone,1,,FR
+teinture de benjoin du laos,1,,FR
+dihydrocodéine,1,CHEMBL1595,FR
+diiséthionate d'hexamidine,1,,FR
+eschscholtzia (partie aérienne fleurie d') (extrait sec de),1,,FR
+diiséthionate de pentamidine,1,,FR
+diisétionate d'hexamidine,1,,FR
+prednisolone (caproate de),1,CHEMBL131,FR
+talc,1,CHEMBL3990276,FR
+"equisetum arvense, décocté pour préparations homéopathiques",1,,FR
+sulfate de protamine,1,,FR
+sulfate de potassium,1,CHEMBL1201290,FR
+propylthiouracile,1,CHEMBL1518,FR
+streptococcus pneumoniae sérotype 9n (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 8 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 7f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 6b (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 5 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 4 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 33f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 3 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 23f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 22f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 20 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 2 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 19f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 19a (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 18c (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 17f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 15b (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 14 (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 12f (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 11a (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 10a (polyosides de),1,,FR
+streptococcus pneumoniae sérotype 9v (polyosides de),1,,FR
+streptozocine,1,CHEMBL1977579,FR
+strontium muriaticum pour préparations homéopathiques,1,,FR
+sulfate d'iobenguane,1,CHEMBL818,FR
+diphénylguanidine,1,,FR
+sulfate de nickel hexahydraté,1,,FR
+diphénylparaphénylènediamine,1,,FR
+protiréline anhydre,1,,FR
+ephedra vulgaris pour préparations homéopathiques,1,,FR
+sulfate de framycétine,1,CHEMBL184618,FR
+protéase fongique,1,,FR
+protéine diphtérique crm197,1,,FR
+sulfate de chondroïtine  ,1,,FR
+sulfate d'hydroxychloroquine,1,CHEMBL1535,FR
+psyllium (graine de),1,,FR
+prunier d'afrique (extrait de),1,,FR
+sulfasalazine,1,CHEMBL421,FR
+désoxyribonucléase,1,,FR
+sulfadiazine,1,CHEMBL439,FR
+sulbutiamine,1,CHEMBL1874002,FR
+sulbactam,1,CHEMBL403,FR
+pseudo-éphédrine,1,CHEMBL1590,FR
+pseudoéphédrine,1,CHEMBL1590,FR
+pseudoéphédrine (chlorhydrate de),1,CHEMBL1590,FR
+almasilato,1,CHEMBL2068408,ES
+corticoréline (humaine),1,,FR
+calamine,1,,FR
+chlorhydrate d'histidine monohydraté,1,CHEMBL17962,FR
+ferrum sulfuricum - silicea pour préparations homéopathiques,1,,FR
+mésilate de dihydralazine,1,CHEMBL35505,FR
+mésilate de dihydroergotamine,1,CHEMBL1732,FR
+mésilate de déféroxamine,1,CHEMBL556,FR
+mésilate de phentolamine,1,CHEMBL597,FR
+chlorhydrate d'éthylmorphine,1,CHEMBL1712170,FR
+chlorhydrate d'étifoxine,1,CHEMBL2106227,FR
+eleutherococcus senticosus,1,,ES
+chlorhydrate de bambutérol,1,CHEMBL521589,FR
+electrolitos (laxante osmótico),1,,ES
+chlorhydrate de bipéridène,1,CHEMBL1101,FR
+chlorhydrate de bromhexine,1,CHEMBL253376,FR
+méthacholine (chlorure de),1,CHEMBL978,FR
+edrofonio bromuro,1,,ES
+chlorhydrate de bupropione,1,CHEMBL894,FR
+eberconazol,1,CHEMBL558722,ES
+ferrum metallicum pour préparations homéopathiques,1,,FR
+méthoxyflurane,1,CHEMBL1341,FR
+méthyldibromoglutaronitrile,1,,FR
+méthyle (diacétylcystéinate de),1,,FR
+dronabinol,1,CHEMBL465,ES
+epinastina,1,CHEMBL1106,ES
+equisetum arvense,1,,ES
+chlorhydrate de chloroprocaïne,1,CHEMBL1179047,FR
+méquinol,1,CHEMBL544,FR
+"chlorhexidine (digluconate de), solution de",1,CHEMBL790,FR
+mébrofénine,1,CHEMBL1605443,FR
+chlorhydrate d'amantadine,1,CHEMBL660,FR
+mébévérine (chlorhydrate de),1,CHEMBL282121,FR
+estroncio cloruro (89sr),1,,ES
+estrogenos conjugados,1,,ES
+méclozine (dichlorhydrate de),1,CHEMBL1623,FR
+estreptozocina,1,CHEMBL1977579,ES
+estreptomicina,1,CHEMBL372795,ES
+estramustina,1,CHEMBL1575,ES
+chlorhydrate d'amitriptyline,1,CHEMBL629,FR
+doxycycline monohydratée,1,,FR
+estaño cloruro dihidrato,1,,ES
+méfloquine,1,CHEMBL416956,FR
+mégestrol (acétate de),1,CHEMBL1201139,FR
+méglumine,1,CHEMBL1200570,FR
+esencia azahar,1,,ES
+escopolamina hidrobromuro,1,,ES
+chlorhydrate d'arginine,1,CHEMBL1485,FR
+chlorhydrate d'avizafone,1,CHEMBL2103985,FR
+mélilot (extrait sec de),1,,FR
+méthylergométrine base,1,CHEMBL1201356,FR
+fenticonazole,1,CHEMBL1651990,FR
+myrtille (fruit de) (extrait sec de),1,,FR
+dicicloverina,1,CHEMBL1123,ES
+nadolol,1,CHEMBL521606,FR
+dextrosa,1,,ES
+dextran 70,1,,ES
+dexrazoxano,1,CHEMBL1738,ES
+chlorhydrate de lidocaïne monohydraté,1,CHEMBL79,FR
+chlorhydrate de lévobunolol,1,CHEMBL1201237,FR
+nafaréline base,1,,FR
+naftazone,1,CHEMBL2106794,FR
+naftidrofuryl (oxalate acide de),1,CHEMBL1620794,FR
+chlorhydrate de maprotiline,1,CHEMBL21731,FR
+facteur xiii de coagulation humain ,1,,FR
+chlorhydrate de moxisylyte,1,CHEMBL159226,FR
+naloxone (chlorhydrate de) anhydre,1,CHEMBL80,FR
+facteur xi de coagulation humain ,1,,FR
+chlorhydrate de méclozine,1,CHEMBL1623,FR
+natrum carbonicum pour préparations homéopathiques,1,,FR
+natrum nitricum pour préparations homéopathiques,1,,FR
+deferoxamina,1,CHEMBL556,ES
+chlorhydrate de métoclopramide,1,CHEMBL86,FR
+decualinio cloruro,1,,ES
+deanol,1,CHEMBL2142890,ES
+chlorhydrate de l-ornithine,1,,FR
+chlorhydrate de l'acide 5-aminolévulinique,1,,FR
+doxepina,1,CHEMBL1628227,ES
+chlorhydrate de glucosamine,1,CHEMBL493287,FR
+méthylènecycline (chlorhydrate de),1,,FR
+dornasa alfa,1,,ES
+métilsulfate de néostigmine,1,,FR
+docosanol,1,CHEMBL1200453,ES
+chlorhydrate de clonidine,1,CHEMBL134,FR
+dióxido titanio,1,,ES
+dióxido de carbono,1,CHEMBL1231871,ES
+disulfiram,1,CHEMBL964,ES
+disopiramida,1,CHEMBL517,ES
+dipiridamol,1,CHEMBL932,ES
+chlorhydrate de cystéine anhydre,1,CHEMBL863,FR
+chlorhydrate de diphénhydramine,1,CHEMBL657,FR
+dimetilsulfóxido,1,CHEMBL504,ES
+métilsulfate de tiémonium,1,,FR
+chlorhydrate de doxapram,1,CHEMBL1754,FR
+métoclopramide,1,CHEMBL86,FR
+métyrapone,1,CHEMBL934,FR
+diflucortolona,1,CHEMBL509924,ES
+diflorasona,1,CHEMBL1200545,ES
+difenilmetoxi-8-isopropilnortropanomesilato,1,,ES
+n-éthyl éthylamine,1,,FR
+etosuximida,1,CHEMBL696,ES
+myrrha pour préparations homéopathiques,1,,FR
+aloe ferox,1,,ES
+calcipotriol anhydre,1,CHEMBL1200666,FR
+mercaptobenzothiazole,1,,FR
+calcium (alpha céto dl isoleucine de),1,CHEMBL1200496,FR
+mercaptopurine,1,CHEMBL1425,FR
+gonadotropina coriónica,1,,ES
+goma guar,1,,ES
+glycyrrhiza glabra,1,,ES
+miansérine (chlorhydrate de),1,CHEMBL6437,FR
+calcium (alpha céto valine de),1,CHEMBL1200496,FR
+calcium (bromogalactogluconate de),1,CHEMBL1200496,FR
+gluconato de calcio,1,CHEMBL2106119,ES
+glucagón,1,,ES
+glisentida,1,CHEMBL2105089,ES
+glipizida,1,CHEMBL1073,ES
+fluocortolone (pivalate de),1,CHEMBL251634,FR
+calcium (chlorure de),1,CHEMBL1200496,FR
+calcium (fluorure de),1,CHEMBL1200496,FR
+glicerofosfato sodio,1,,ES
+calcium (glucoheptonate de),1,CHEMBL1200496,FR
+calcium (lactate de) pentahydraté,1,CHEMBL1200496,FR
+gentiana lutea,1,,ES
+calcium édétate de sodium,1,CHEMBL1200375,FR
+mercaptoacétyltriglycine,1,,FR
+hemina,1,,ES
+camphre,1,CHEMBL15768,FR
+mephitis putorius pour préparations homéopathiques,1,,FR
+calcarea acetica pour préparations homéopathiques,1,,FR
+fluorométholone,1,CHEMBL1200600,FR
+manganèse (chlorure de),1,,FR
+hierro lactato,1,,ES
+manganèse (gluconate de) dihydraté,1,,FR
+hierro dextran,1,,ES
+fluoroestradiol (18f),1,CHEMBL1627367,FR
+maprotiline (chlorhydrate de),1,CHEMBL21731,FR
+hidroxietilalmidón,1,,ES
+marron d'inde (extrait de) (sec),1,,FR
+hidroxicina,1,CHEMBL896,ES
+marron d'inde (extrait fluide de),1,,FR
+maté vert,1,,FR
+mauve (feuille),1,,FR
+hidroquinidina,1,,ES
+calcarea iodata pour préparations homéopathiques,1,,FR
+hidrocortisona+miconazol,1,,ES
+hexetidina,1,CHEMBL144673,ES
+hexaminolevulinato,1,CHEMBL1201784,ES
+calcifédiol monohydraté,1,CHEMBL1040,FR
+heptaminol,1,CHEMBL2111076,ES
+camphora pour préparations homéopathiques,1,,FR
+fluocortolone (caproate de),1,CHEMBL251634,FR
+chlordiazépoxide,1,CHEMBL451,FR
+monmectite,1,,FR
+monosulfure de sodium anhydre,1,,FR
+fidaxomicina,1,CHEMBL1255800,ES
+monosulfure de tétraméthylthiurame,1,,FR
+montmorillonite beidellitique,1,,FR
+carragaheen (extrait de),1,,FR
+ferucarbotran,1,,ES
+cartilago pour préparations homéopathiques,1,,FR
+montélukast sodique,1,CHEMBL787,FR
+cascara (écorce de) (extrait sec de),1,,FR
+morpholinylmercaptobenzothiazole,1,,FR
+mousse de chêne,1,,FR
+fenilbutazona,1,CHEMBL101,ES
+fenazona,1,CHEMBL277474,ES
+castor equi pour préparations homéopathiques,1,,FR
+ceftobiprole,1,CHEMBL520642,FR
+cellulase fongique,1,,FR
+cetraria islandica pour préparations homéopathiques,1,,FR
+flavoxate (chlorhydrate de),1,CHEMBL1493,FR
+"chamomilla vulgaris, radix, décocté pour préparations homéopathiques",1,,FR
+flavonoïdes,1,,FR
+chlorambucil,1,CHEMBL515,FR
+carmellose sodique,1,,FR
+flavoxato,1,CHEMBL1493,ES
+gaxilosa,1,CHEMBL4297512,ES
+fluindione,1,CHEMBL24924,FR
+gadoxetato disodio,1,,ES
+caproate de fluocortolone,1,CHEMBL2107415,FR
+caproate de prednisolone,1,,FR
+capsicum (oléorésine de),1,,FR
+frovatriptan,1,CHEMBL1279,ES
+fragaria vesca,1,,ES
+fotemustina,1,CHEMBL549386,ES
+foslevodopa,1,CHEMBL4594379,ES
+capsicum annuum pour préparations homéopathiques,1,,FR
+millepertuis (extrait sec de),1,,FR
+foscarbidopa,1,CHEMBL4802240,ES
+millepertuis (sommité fleurie) (extrait sec de),1,,FR
+carbachol,1,CHEMBL965,FR
+formilsulfatiazol,1,,ES
+foeniculum vulgare,1,,ES
+flunarizine,1,CHEMBL30008,FR
+flurazepam,1,CHEMBL968,ES
+flupentixol,1,CHEMBL42055,ES
+mitomycine c,1,CHEMBL105,FR
+moclobémide,1,CHEMBL86304,FR
+carbonate de magnésium léger,1,,FR
+daunorubicina,1,CHEMBL178,ES
+dapsona,1,CHEMBL1043,ES
+danaparoide sodio,1,,ES
+oxitriptan,1,CHEMBL350221,FR
+bicisato diclorhidrato,1,,ES
+citrate dipotassique anhydre,1,CHEMBL1261,FR
+bibrocatol,1,,ES
+bexaroteno,1,CHEMBL1023,ES
+betula sp,1,,ES
+betaxolol,1,CHEMBL423,ES
+citrate disodique,1,CHEMBL1261,FR
+citrate monopotassique anhydre,1,,FR
+citrate monosodique anhydre,1,,FR
+benzbromarona,1,CHEMBL388590,ES
+citrate trisodique anhydre,1,CHEMBL1261,FR
+bentazepam,1,CHEMBL1521495,ES
+benfotiamina,1,CHEMBL4303665,ES
+bendroflumetiazida,1,CHEMBL1684,ES
+citrique (acide) anhydre,1,,FR
+bencilpenicilina sódica,1,CHEMBL29,ES
+cl+me-isothiazolinone,1,,FR
+cladribine,1,CHEMBL1619,FR
+oxyde de bismuth,1,,FR
+clematis vitalba pour préparations homéopathiques,1,,FR
+clidinium (bromure de),1,CHEMBL620,FR
+extrait sec de chardon marie,1,,FR
+citrate de clomifène,1,CHEMBL2355051,FR
+azul patente v sódico,1,,ES
+citrate d'yttrium [90 y],1,,FR
+calcio,1,CHEMBL1200496,ES
+ornithine (oxoglurate d'),1,CHEMBL446143,FR
+os frais (extrait d'),1,,FR
+oseille crépue (extrait sec d'),1,,FR
+oséltamivir,1,CHEMBL1229,FR
+cina pour préparations homéopathiques,1,,FR
+oxacilline,1,CHEMBL819,FR
+oxacilline base,1,CHEMBL819,FR
+oxalate de fer,1,,FR
+bumetanida,1,CHEMBL1072,ES
+oxalicum acidum pour préparations homéopathiques,1,,FR
+brovanexina,1,CHEMBL2105477,ES
+brotizolam,1,CHEMBL32479,ES
+cinnabaris pour préparations homéopathiques,1,,FR
+extrait sec de millepertuis,1,,FR
+extrait sec de la sommité fleurie de millepertuis,1,,FR
+cinnamaldéhyde,1,CHEMBL293492,FR
+extrait sec de fruit d'agnus castus,1,,FR
+oxiconazole,1,CHEMBL1262,FR
+citrate d'alvérine,1,CHEMBL253371,FR
+citrate d'oxéladine,1,CHEMBL1500276,FR
+bambuterol,1,CHEMBL521589,ES
+aztreonam,1,CHEMBL158,ES
+chlorhydrate de papavérine,1,CHEMBL19224,FR
+coffea arabica pour préparations homéopathiques,1,,FR
+amoniaco,1,CHEMBL1160819,ES
+"coffea tosta, décocté pour préparations homéopathiques",1,,FR
+parahydroxybenzoate de benzyle,1,,FR
+parahydroxybenzoate de butyle,1,CHEMBL459008,FR
+aminolevulinato de metilo,1,,ES
+parahydroxybenzoate de méthyle,1,,FR
+parahydroxybenzoate de propyle,1,,FR
+extrait allergénique de pollen de bouleau blanc,1,,FR
+amifostina,1,CHEMBL1006,ES
+parthénolide,1,CHEMBL540445,FR
+amidotrizoato meglumina,1,,ES
+passiflore (extrait de) (fluide),1,,FR
+colophane,1,,FR
+amantadina,1,CHEMBL660,ES
+aluminio potasio sulfato,1,,ES
+aluminio hidróxido-magnesio carbonato,1,,ES
+pentamidine (isétionate de),1,CHEMBL55,FR
+pentosanne (polyester sulfurique de) sodique,1,,FR
+altizida,1,CHEMBL599870,ES
+pentostatine,1,CHEMBL1580,FR
+pentétate de calcium trisodique,1,CHEMBL780,FR
+coffea tosta pour préparations homéopathiques,1,,FR
+parahydroxybenzoate d'éthyle,1,,FR
+oxytétracycline (chlorhydrate d'),1,CHEMBL1517,FR
+amsacrina,1,CHEMBL43,ES
+clioquinol,1,CHEMBL497,FR
+p a s sodique anhydre,1,CHEMBL1169,FR
+p-phénylènediamine,1,,FR
+extrait fluide peptoné de foie et de coeur d'anas barbariae dynamisé à la 200e k,1,,FR
+atropa belladona,1,,ES
+extrait fluide d'hamamélis,1,,FR
+palmier de floride (extrait lipido-stérolique de),1,,FR
+palmitate de rétinol,1,CHEMBL986,FR
+ascorbato sodio,1,CHEMBL196,ES
+clonidine (chlorhydrate de),1,CHEMBL134,FR
+arteméter,1,CHEMBL566534,ES
+arnica montana,1,,ES
+argipresina,1,,ES
+argatrobán,1,CHEMBL1166,ES
+clévidipine,1,CHEMBL1237132,FR
+pantothénate de calcium,1,CHEMBL1594,FR
+papavérine (chlorhydrate de),1,CHEMBL19224,FR
+antimoniato de meglumina,1,,ES
+gluconate ferreux dihydraté,1,,FR
+paraffine liquide légère,1,,FR
+codéine (phosphate de),1,CHEMBL485,FR
+cidofovir,1,CHEMBL152,FR
+orlistat,1,CHEMBL175247,FR
+calcio fosfato,1,,ES
+chlorhydrate de sévélamer,1,,FR
+clonixino lisina,1,,ES
+clonidina,1,CHEMBL134,ES
+nitrazépam,1,CHEMBL13209,FR
+clomifeno,1,CHEMBL2355051,ES
+clometiazol,1,CHEMBL315795,ES
+clofazimina,1,CHEMBL1292,ES
+clobetasona,1,,ES
+nitrofurantoïne,1,CHEMBL572,FR
+nomégestrol (acétate de),1,CHEMBL2105722,FR
+chlorhydrate de triprolidine,1,CHEMBL855,FR
+clevidipino,1,CHEMBL1237132,ES
+noradrénaline (tartrate de),1,CHEMBL1437,FR
+chlorhydrate de tétracycline,1,CHEMBL1440,FR
+extrait sec des parties aériennes de thym,1,,FR
+citrulina,1,CHEMBL444814,ES
+citrato de erbio (169er),1,,ES
+chlormadinone (acétate de),1,CHEMBL110691,FR
+chlorocrésol,1,CHEMBL1230222,FR
+noréthistérone (acétate de),1,CHEMBL1162,FR
+chloroquine,1,CHEMBL76,FR
+noscapine,1,CHEMBL364713,FR
+nitrate de thiamine,1,CHEMBL1547,FR
+chlorhydrate de sélégiline,1,CHEMBL972,FR
+calcio gluconato,1,,ES
+nitrate de miconazole,1,CHEMBL91,FR
+nickel,1,,FR
+chlorhydrate de pilocarpine,1,CHEMBL550,FR
+cúrcuma longa,1,,ES
+cynara scolymus +tarazacum officinalis,1,,ES
+nicotinate de benzyle,1,CHEMBL209744,FR
+cromato sodio (51 cr),1,,ES
+crisantaspasa,1,,ES
+crataegus monogyna,1,,ES
+coriandro sativum,1,,ES
+niflumique (acide),1,,FR
+complejo fitoesterol prunus arbórea,1,,ES
+complejo de oseína-hidroxiapatita,1,,ES
+chlorhydrate de prilocaïne,1,CHEMBL1194,FR
+chlorhydrate de prométhazine,1,CHEMBL643,FR
+extrait sec titré de feuille de séné,1,,FR
+cnicus benedictus,1,,ES
+extrait sec raffiné et quantifié de ginkgo,1,,FR
+clotiapina,1,CHEMBL304902,ES
+nitrate céreux hexahydraté,1,,FR
+nitrate d'argent,1,CHEMBL177367,FR
+cloroquina,1,CHEMBL76,ES
+extrait sec de verveine,1,,FR
+chlortalidone,1,CHEMBL1055,FR
+cineol,1,,ES
+cincocaína,1,CHEMBL1086,ES
+oligoside de neisseria meningitidis (souche c11) groupe c conjugué à la protéine crm-197 de corynebacterium diphteriae,1,,FR
+chlorure ferrique hexahydraté,1,,FR
+chlorure stanneux dihydraté,1,,FR
+cholesterinum pour préparations homéopathiques,1,,FR
+carmín de índigo,1,,ES
+cholestyramine,1,,FR
+"cholécalciférol (concentrat de), forme pulvérulente",1,,FR
+olopatadine,1,CHEMBL1189432,FR
+carbono marcado con tecnecio (99mtc),1,,ES
+chondroïtine (sulfate de) sodique ,1,,FR
+carbimazol,1,CHEMBL508102,ES
+oméga-3 (esters éthyliques 90 d'acides) ,1,,FR
+carbenoxolona,1,CHEMBL499915,ES
+chromique (chlorure) hexahydraté,1,,FR
+cibenzoline,1,CHEMBL87045,FR
+opium (extrait sec d'),1,,FR
+cannabidiol,1,CHEMBL190461,ES
+or,1,,FR
+or (poudre d') métallique,1,,FR
+calcio pidolato,1,,ES
+or colloïdal,1,,FR
+chlorure ferreux tétrahydraté,1,,FR
+extrait sec de racine de gentiane,1,,FR
+extrait sec de racine de primevère,1,,FR
+néfopam (chlorhydrate de),1,CHEMBL465026,FR
+chlorure d'acétylcholine,1,CHEMBL667,FR
+chlorure d'ambénonium,1,CHEMBL1652,FR
+nymphaea lutea pour préparations homéopathiques,1,,FR
+extrait sec de romarin,1,,FR
+cidofovir,1,CHEMBL152,ES
+extrait sec de rhizome d'actée à grappes,1,,FR
+ciclopentolato,1,CHEMBL1201338,ES
+chlorure de cobalt hexahydraté,1,,FR
+ciclobenzaprina,1,CHEMBL669,ES
+cetrimida,1,,ES
+cefminox,1,CHEMBL1276342,ES
+chlorure de cétalkonium,1,CHEMBL1624075,FR
+cerio,1,,ES
+néostigmine (métilsulfate de),1,CHEMBL278020,FR
+centaurium erythraea,1,,ES
+chlorure de déqualinium,1,CHEMBL333826,FR
+ceftobiprol medocarilo,1,CHEMBL1652606,ES
+ceftarolina fosamilo,1,CHEMBL501122,ES
+extrait sec de racine de valériane,1,,FR
+oenanthe crocata pour préparations homéopathiques,1,,FR
+angelica archangelica,1,,ES

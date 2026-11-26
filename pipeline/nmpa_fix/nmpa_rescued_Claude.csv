@@ -1,0 +1,400 @@
+Name,SMILES,FDA,EMA,NMPA,PMDA,zh,qid
+Penicillin,*C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)O,,,2002,,注射用青霉素钾; 青霉素钠,Q12190
+Diazepam,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,,,2002,,地西泮片,Q210402
+Butenafine,CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12,,,2004,,盐酸布替萘芬搽剂,Q850729
+Ubidecarenone,COC1=C(OC)C(=O)C(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)=C(C)C1=O,,,1999,,辅酶Q10胶囊; 辅酶Q10软胶囊,Q321285
+Spiramycin,COC1C(O)CC(=O)OC(C)C/C=C/C=C/C(OC2CCC(N(C)C)C(C)O2)C(C)CC(CC=O)C1OC1OC(C)C(OC2CC(C)(O)C(O)C(C)O2)C(N(C)C)C1O,,,2002,,螺旋霉素,Q422265
+Succimer,O=C(O)[C@@H](S)[C@@H](S)C(=O)O,,,2009,,二巯丁二酸,Q423814
+Policresulen,Cc1cc(O)c(S(=O)(=O)O)cc1Cc1cc(S(=O)(=O)O)c(O)c(Cc2cc(S(=O)(=O)O)c(O)cc2C)c1C,,,2004,,聚甲酚磺醛,Q906883
+Tetrahydropalmatine,COc1cc2c(cc1OC)[C@@H]1Cc3ccc(OC)c(OC)c3CN1CC2,,,2002,,硫酸延胡索乙素片,Q7706555
+Ethambutol,CC[C@@H](CO)NCCN[C@@H](CC)CO,,,2002,,盐酸乙胺丁醇; 盐酸乙胺丁醇片; 盐酸乙胺丁醇胶囊,Q412318
+Clarithromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O,,,1999,,克拉霉素干混悬剂; 克拉霉素片; 克拉霉素缓释片; 克拉霉素缓释胶囊; 克拉霉素胶囊,Q118551
+L-ornithine,NCCC[C@H](N)C(=O)O,,,2009,,门冬氨酸鸟氨酸颗粒,Q410198
+Paroxetine,Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1,,,2009,,盐酸帕罗西汀,Q408471
+Dexamethasone acetate,CC(=O)OCC(=O)[C@@]1(O)[C@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,,,2002,,醋酸地塞米松乳膏; 醋酸地塞米松片,Q15889608
+Bambuterol,CN(C)C(=O)Oc1cc(OC(=O)N(C)C)cc(C(O)CNC(C)(C)C)c1,,,2003,,盐酸班布特罗胶囊,Q3633651
+Norethindrone enanthate,C#C[C@]1(OC(=O)CCCCCC)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C,,,2003,,庚酸炔诺酮,Q7050956
+Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,,,2002,,盐酸普萘洛尔片,Q423364
+Cimetidine,CN/C(=N\CCSCc1nc[nH]c1C)NC#N,,,2002,,西咪替丁咀嚼片; 西咪替丁注射液; 西咪替丁片; 西咪替丁胶囊,Q409492
+Ampicillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)O,,,2002,,氨苄西林干混悬剂; 氨苄西林片; 氨苄西林胶囊; 注射用氨苄西林钠,Q244150
+Glyceryl 1-phosphate,O=P(O)(O)OCC(O)CO,,,2002,,甘油磷酸钙,Q2739882
+Ivermectin,CC[C@H](C)[C@H]1O[C@]2(CC[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2,,,2001,,伊维菌素; 伊维菌素咀嚼片,Q415178
+(RS)-sulpiride,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,,,2002,,舒必利,Q422418
+Cholic acid,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,,,2002,,胆酸钠,Q287415
+Teicoplanin,CCCCCCCCCC(=O)N[C@H]1[C@H](Oc2c3cc4cc2Oc2ccc(cc2Cl)[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2NC(C)=O)[C@@H]2NC(=O)[C@H](NC(=O)[C@@H]4NC(=O)[C@H]4NC(=O)[C@@H](Cc5ccc(c(Cl)c5)O3)NC(=O)[C@H](N)c3ccc(O)c(c3)Oc3cc(O)cc4c3)c3ccc(O)c(c3)-c3c(OC4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc(O)cc3[C@@H](C(=O)O)NC2=O)O[C@H](CO)[C@@H](O)[C@@H]1O,,,2012,,注射用替考拉宁,Q2731762
+Benzocaine,CCOC(=O)c1ccc(N)cc1,,,2002,,苯佐卡因; 苯佐卡因含片,Q422745
+(S)-(−)-timolol,CC(C)(C)NC[C@H](O)COc1nsnc1N1CCOCC1,,,2002,,马来酸噻吗洛尔; 马来酸噻吗洛尔滴眼液,Q413994
+Sildenafil,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12,,,2017,,枸橼酸西地那非片,Q191521
+Cefadroxil,CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccc(O)cc3)[C@H]2SC1,,,2002,,头孢羟氨苄咀嚼片; 头孢羟氨苄干混悬剂; 头孢羟氨苄胶囊,Q2319020
+Penicillin v,CC1(C)S[C@@H]2[C@H](NC(=O)COc3ccccc3)C(=O)N2[C@H]1C(=O)O,,,2002,,青霉素V钾分散片; 青霉素V钾片,Q422215
+Eprazinone,CCOC(CN1CCN(CC(C)C(=O)c2ccccc2)CC1)c1ccccc1,,,2002,,盐酸依普拉酮片,Q389207
+Aspirin,CC(=O)Oc1ccccc1C(=O)O,,,1999,,精氨酸乙酰水杨酸; 精氨酸阿司匹林片; 阿司匹林片; 阿司匹林肠溶片; 阿司匹林肠溶胶囊,Q18216
+Lithium carbonate,O=C(O)O,,,2000,,碳酸氢钠注射液; 碳酸氢钠片; 碳酸钙咀嚼片; 碳酸钙干混悬剂; 碳酸锂片,Q410174
+Didanosine,O=c1nc[nH]c2c1ncn2[C@H]1CC[C@@H](CO)O1,,,2003,,去羟肌苷咀嚼片,Q422606
+Miconazole,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,,,2002,,硝酸咪康唑乳膏; 硝酸咪康唑栓,Q410534
+Pentoxifylline,CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,,,2005,,己酮可可碱注射液,Q416331
+Phenprobamate,NC(=O)OCCCc1ccccc1,,,2002,,苯丙氨酯片,Q7181402
+Clobetasol propionate,CCC(=O)O[C@]1(C(=O)CCl)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,,,2002,,丙酸氯倍他索; 丙酸氯倍他索乳膏,Q421637
+Inositol,OC1C(O)C(O)C(O)C(O)C1O,,,2002,,肌醇; 肌醇片,Q407997
+Estazolam,Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2,,,2002,,艾司唑仑片,Q3045264
+Pentoxyverine,CCN(CC)CCOCCOC(=O)C1(c2ccccc2)CCCC1,,,2002,,枸橼酸喷托维林片; 枸橼酸喷托维林糖浆,Q174786
+Indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,,,2002,,吲哚美辛凝胶贴膏; 吲哚美辛巴布膏; 吲哚美辛肠溶片,Q409231
+Netilmicin,CCN[C@@H]1C[C@H](N)[C@@H](O[C@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1OC[C@](C)(O)[C@H](NC)[C@H]1O,,,2002,,注射用硫酸奈替米星; 硫酸奈替米星注射液,Q2553496
+Vitamin C,O=C1O[C@H]([C@@H](O)CO)C(O)=C1O,,,2002,,维生素C咀嚼片; 维生素C注射液; 维生素C片; 维生素C颗粒,Q199678
+Methyldopa,C[C@](N)(Cc1ccc(O)c(O)c1)C(=O)O,,,2002,,甲基多巴片,Q412621
+L-aspartic acid,N[C@@H](CC(=O)O)C(=O)O,,,1999,,门冬氨酸,Q178450
+Naproxen,COc1ccc2cc([C@H](C)C(=O)O)ccc2c1,,,2002,,萘普生片; 萘普生缓释片; 萘普生胶囊; 萘普生钠缓释片,Q1215575
+Naphazoline,c1ccc2c(CC3=NCCN3)cccc2c1,,,2002,,盐酸萘甲唑啉滴鼻液,Q415433
+Tirofiban,CCCCS(=O)(=O)N[C@@H](Cc1ccc(OCCCCC2CCNCC2)cc1)C(=O)O,,,2004,,盐酸替罗非班,Q415366
+(3aS)-palonosetron,O=C1c2cccc3c2[C@H](CCC3)CN1[C@@H]1CN2CCC1CC2,,,2020,,盐酸帕洛诺司琼软胶囊,Q419841
+Indirubin,O=C1Nc2ccccc2/C1=C1\Nc2ccccc2C1=O,,,2002,,靛玉红; 靛玉红片,Q1661452
+Phenytoin,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,,,2002,,苯妥英钠片,Q410400
+Chlortetracycline,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12,,,2002,,盐酸金霉素眼膏,Q417948
+Diclofenac,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,,,1999,,双氯芬酸钠肠溶片; 双氯芬酸钠肠溶胶囊,Q244408
+DL-asparagine,NC(=O)CC(N)C(=O)O,,,1999,,门冬酰胺片,Q185906
+Griseofulvin,COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O,,,2002,,灰黄霉素片,Q416096
+Octreotide,C[C@@H](O)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)[C@H](N)Cc2ccccc2)CSSC[C@@H](C(=O)N[C@H](CO)[C@@H](C)O)NC1=O,,,2017,,注射用醋酸奥曲肽微球,Q419935
+Cinnarizine,C(=C\c1ccccc1)/CN1CCN(C(c2ccccc2)c2ccccc2)CC1,,,2002,,桂利嗪片; 桂利嗪胶囊,Q775073
+Niacinamide,NC(=O)c1cccnc1,,,2002,,烟酰胺片,Q192423
+Menatetrenone,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=C(C)C(=O)c2ccccc2C1=O,,,2015,,四烯甲萘醌软胶囊,Q192354
+Amantadine,NC12CC3CC(CC(C3)C1)C2,,,2002,,盐酸金刚烷胺片,Q409761
+Cefpirome,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[n+]3cccc4c3CCC4)CS[C@H]12)c1csc(N)n1,,,2005,,硫酸头孢匹罗,Q2943814
+Midecamycin,CCC(=O)O[C@@H]1CC(=O)O[C@H](C)C/C=C/C=C/[C@H](O)[C@H](C)C[C@H](CC=O)[C@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@H]1OC,,,2015,,麦迪霉素胶囊,Q2636110
+Micronomicin,CNC[C@@H]1CC[C@@H](N)[C@@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3OC[C@](C)(O)[C@H](NC)[C@H]3O)[C@H](N)C[C@@H]2N)O1,,,2002,,硫酸小诺霉素注射液,Q6839784
+Terbinafine hydrochloride,CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12,,,2006,,盐酸特比萘芬搽剂,Q27147212
+Imiquimod,CC(C)Cn1cnc2c(N)nc3ccccc3c21,,,2004,,咪喹莫特乳膏,Q423417
+Camphor,CC12CCC(CC1=O)C2(C)C,,,2002,,樟脑(合成),Q181559
+Oxaliplatin,O=C1[O][Pt]2([NH][C@@H]3CCCC[C@H]3[NH]2)[O]C1=O,,,2014,,注射用奥沙利铂,Q422327
+Captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O,,,2002,,卡托普利片,Q421119
+D-(-)-mannitol,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,,,2002,,甘露醇注射液,Q407646
+Dioxopromethazine,CC(CN1c2ccccc2S(=O)(=O)c2ccccc21)N(C)C,,,2002,,盐酸二氧丙嗪片,Q27265239
+Fluocinolone acetonide,CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1,,,2002,,醋酸氟轻松乳膏,Q924467
+Benorilate,CC(=O)Oc1ccccc1C(=O)Oc1ccc(/N=C(\C)O)cc1,,,2002,,贝诺酯片,Q373243
+Ondansetron,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,,,2006,,盐酸昂丹司琼口腔崩解片; 盐酸昂丹司琼注射液,Q410011
+Carbamazepin,NC(=O)N1c2ccccc2C=Cc2ccccc21,,,2002,,卡马西平片,Q410412
+Pefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21,,,2005,,注射用甲磺酸培氟沙星,Q2601859
+Fluvastatin,CC(C)n1c(/C=C/[C@@H](O)C[C@@H](O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21,,,2011,,氟伐他汀钠,Q417942
+Sulbactam,CC1(C)[C@H](C(=O)O)N2C(=O)C[C@H]2S1(=O)=O,,,2004,,注射用舒巴坦钠,Q423393
+Cloperastine,Clc1ccc(C(OCCN2CCCCC2)c2ccccc2)cc1,,,2002,,盐酸氯哌丁; 盐酸氯哌丁片,Q2055825
+Undecylenic acid,C=CCCCCCCCCC(=O)O,,,2002,,十一烯酸酊,Q420346
+Voglibose,OCC(CO)N[C@H]1C[C@](O)(CO)[C@@H](O)[C@H](O)[C@H]1O,,,2009,,伏格列波糖咀嚼片,Q7939403
+Vinorelbine,CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2,,,2014,,酒石酸长春瑞滨软胶囊,Q420532
+Eszopiclone,CN1CCN(C(=O)O[C@H]2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,,,2007,,右佐匹克隆片,Q413184
+L-carbocysteine,N[C@@H](CSCC(=O)O)C(=O)O,,,1999,,羧甲司坦; 羧甲司坦含片; 羧甲司坦片,Q423408
+Enalapril,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O,,,2005,,马来酸依那普利; 马来酸依那普利分散片,Q422185
+Cefoperazone,CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CS[C@H]23)c2ccc(O)cc2)C(=O)C1=O,,,2002,,头孢哌酮钠; 注射用头孢哌酮钠,Q2325775
+Clomipramine,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,,,2007,,盐酸氯米帕明片,Q58713
+Leuprolide,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1,,,2009,,注射用醋酸亮丙瑞林缓释微球,Q907160
+Famciclovir,CC(=O)OCC(CCn1cnc2cnc(N)nc21)COC(C)=O,,,2009,,泛昔洛韦片,Q420186
+Chlorhexidine,NC(=NCCCCCCN=C(N)/N=C(\N)Nc1ccc(Cl)cc1)/N=C(\N)Nc1ccc(Cl)cc1,,,2002,,醋酸氯己定栓; 醋酸氯己定软膏,Q15646788
+Piperazine,C1CNCCN1,,,2002,,枸橼酸哌嗪糖浆; 枸橼酸哌嗪颗粒; 磷酸哌嗪片,Q409292
+Calcitriol,C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CCCC(C)(C)O)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,,,2003,,骨化三醇软胶囊,Q139195
+Piracetam,NC(=O)CN1CCCC1=O,,,2002,,吡拉西坦; 吡拉西坦注射液; 吡拉西坦片; 吡拉西坦颗粒,Q410069
+Sulphamethoxydiazine,COc1cnc(NS(=O)(=O)c2ccc(N)cc2)nc1,,,2002,,磺胺对甲氧嘧啶片,Q15410181
+Midecamycin acetate,CCC(=O)O[C@@H]1CC(=O)O[C@H](C)C/C=C/C=C/[C@H](OC(C)=O)[C@H](C)C[C@H](CC=O)[C@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(OC(C)=O)[C@@H](OC(=O)CC)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@H]1OC,,,1999,,乙酰麦迪霉素干混悬剂; 乙酰麦迪霉素片; 醋酸麦迪霉素颗粒,Q3858659
+Levofloxacin,C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,,,2001,,乳酸左氧氟沙星; 乳酸左氧氟沙星片; 甲磺酸左氧氟沙星; 盐酸左氧氟沙星; 盐酸左氧氟沙星注射液,Q424193
+DL-ofloxacin,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,,,2002,,氧氟沙星滴耳液; 氧氟沙星片; 氧氟沙星胶囊; 注射用氧氟沙星,Q411447
+Melitracen,CN(C)CCC=C1c2ccccc2C(C)(C)c2ccccc21,,,2015,,盐酸美利曲辛,Q411251
+Endothall,O=C(O)C1C2CCC(O2)C1C(=O)O,,,2005,,去甲斑蝥酸钠注射液; 注射用去甲斑蝥酸钠,Q3054030
+Tranexamic acid,NC[C@H]1CC[C@H](C(=O)O)CC1,,,2006,,氨甲环酸注射液,Q418666
+Diosmin,COc1ccc(-c2cc(=O)c3c(O)cc(O[C@@H]4O[C@H](CO[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)cc3o2)cc1O,,,2005,,地奥司明片,Q2607865
+Valacyclovir,CC(C)[C@H](N)C(=O)OCCOCn1cnc2c(=O)nc(N)[nH]c21,,,2005,,盐酸伐昔洛韦; 盐酸伐昔洛韦片,Q418594
+Xylitol,OC[C@@H](O)[C@H](O)[C@@H](O)CO,,,2004,,木糖醇注射液,Q212093
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,,,1999,,布洛芬咀嚼片; 布洛芬干混悬剂; 布洛芬泡腾片; 布洛芬片; 布洛芬缓释胶囊,Q186969
+Gemfibrozil,Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1,,,2020,,吉非罗齐,Q384295
+Vindesine,CC[C@]1(O)C[C@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(N)=O)[C@H](O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1,,,2004,,注射用硫酸长春地辛,Q416660
+Tinidazole,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,,,2001,,替硝唑含片,Q1321320
+Puerarin,O=c1c(-c2ccc(O)cc2)coc2c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)ccc12,,,2004,,葛根素注射液,Q4392082
+Levamisole,c1ccc([C@H]2CN3CCSC3=N2)cc1,,,2002,,盐酸左旋咪唑丸; 盐酸左旋咪唑栓; 盐酸左旋咪唑片; 盐酸左旋咪唑肠溶片,Q417097
+Ifosfamide,O=P1(NCCCl)OCCCN1CCCl,,,2008,,注射用异环磷酰胺,Q418560
+Hymecromone,Cc1cc(=O)oc2cc(O)ccc12,,,2002,,羟甲香豆素片,Q904431
+Diltiazem hydrochloride,COc1ccc([C@@H]2Sc3ccccc3N(CCN(C)C)C(=O)[C@@H]2OC(C)=O)cc1,,,2002,,注射用盐酸地尔硫卓; 盐酸地尔硫卓片; 盐酸地尔硫卓缓释片,Q27105183
+Amlodipine,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl,,,2002,,苯磺酸氨氯地平片; 门冬氨酸氨氯地平,Q411347
+Zaleplon,CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1,,,2003,,扎来普隆,Q145052
+Trihexyphenidyl hydrochloride,OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1,,,2002,,盐酸苯海索,Q27274030
+Doxofylline,Cn1c(=O)c2c(ncn2CC2OCCO2)n(C)c1=O,,,2003,,多索茶碱片,Q425887
+Albendazol,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1,,,2002,,阿苯达唑咀嚼片; 阿苯达唑片,Q411629
+(RS)-pioglitazone,CCc1ccc(CCOc2ccc(CC3SC(=O)NC3=O)cc2)nc1,,,2005,,盐酸吡格列酮片,Q417765
+(-)-homoharringtonine,COC(=O)C[C@](O)(CCCC(C)(C)O)C(=O)O[C@@H]1C(OC)=C[C@]23CCCN2CCc2cc4c(cc2[C@H]13)OCO4,,,2005,,高三尖杉酯碱注射液,Q7089373
+Nifedipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],,,1998,,硝苯地平; 硝苯地平片; 硝苯地平缓释片(Ⅰ); 硝苯地平缓释片(Ⅱ); 硝苯地平胶囊,Q39111
+Nimesulide,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,,,2000,,尼美舒利干混悬剂; 尼美舒利胶囊,Q20994
+Mefenamic acid,Cc1cccc(Nc2ccccc2C(=O)O)c1C,,,2002,,甲芬那酸分散片; 甲芬那酸片; 甲芬那酸胶囊,Q284321
+Nitrofurazone,NC(=O)NN=Cc1ccc([N+](=O)[O-])o1,,,2002,,呋喃西林,Q425502
+Fusidic acid,CC(=O)O[C@H]1C[C@@]2(C)[C@@H](C[C@@H](O)[C@H]3[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@@H]4CC[C@@]32C)/C1=C(\CCC=C(C)C)C(=O)O,,,2016,,夫西地酸干混悬剂,Q259930
+Trimethoprim,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,,,2002,,甲氧苄啶; 甲氧苄啶注射液; 甲氧苄啶片,Q422665
+Rutin,C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](Oc3c(-c4ccc(O)c(O)c4)oc4cc(O)cc(O)c4c3=O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,,,2002,,芦丁; 芦丁片,Q407857
+Cromoglicic acid,O=C(O)c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)cccc2o1,,,2002,,色甘酸钠滴眼液; 色甘酸钠滴鼻液,Q416427
+Sinomenine,COC1=C[C@@H]2[C@@H]3Cc4ccc(OC)c(O)c4[C@]2(CCN3C)CC1=O,,,2002,,盐酸青藤碱肠溶片,Q7524904
+Ritodrine,C[C@H](NCCc1ccc(O)cc1)[C@H](O)c1ccc(O)cc1,,,2008,,注射用盐酸利托君,Q5577596
+Ornidazole,Cc1ncc([N+](=O)[O-])n1CC(O)CCl,,,2001,,奥硝唑片,Q2358146
+Pantoprazole,COc1ccnc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC,,,1999,,注射用泮托拉唑钠; 泮托拉唑钠肠溶胶囊,Q286846
+Ganciclovir,Nc1nc(=O)c2ncn(COC(CO)CO)c2[nH]1,,,2004,,更昔洛韦注射液; 注射用更昔洛韦; 注射用更昔洛韦钠,Q417640
+(RS)-metoprolol,COCCc1ccc(OCC(O)CNC(C)C)cc1,,,2006,,酒石酸美托洛尔缓释片,Q409468
+Aluminium glycinate,NCC(=O)[O][Al],,,1998,,甘羟铝,Q4737384
+Adenosine cyclic phosphate,Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O,,,2005,,注射用环磷腺苷,Q210041
+Ribavirin,NC(=O)c1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)n1,,,1999,,利巴韦林分散片; 利巴韦林含片; 利巴韦林注射液; 利巴韦林滴鼻液; 利巴韦林片,Q421862
+Oxytetracycline,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3[C@H](O)[C@@H]12,,,2002,,土霉素片; 土霉素胶囊; 盐酸土霉素片,Q411646
+Amiodarone hydrochloride,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,,,2002,,盐酸胺碘酮片,Q27271976
+Troxerutin,C[C@H]1O[C@@H](OC[C@H]2O[C@@H](Oc3c(-c4ccc(OCCO)c(OCCO)c4)oc4cc(OCCO)cc(O)c4c3=O)[C@H](O)[C@@H](O)[C@@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O,,,2002,,曲克芦丁; 曲克芦丁口服溶液; 曲克芦丁注射液; 曲克芦丁片,Q961081
+Dipyridamole,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,,,2002,,双嘧达莫片,Q419374
+Desloratadine,Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1,,,2004,,地氯雷他定干混悬剂,Q418060
+Ambroxol hydrochloride,Nc1c(Br)cc(Br)cc1CN[C@H]1CC[C@H](O)CC1,,,2000,,注射用盐酸氨溴索; 盐酸氨溴索; 盐酸氨溴索口腔崩解片; 盐酸氨溴索咀嚼片; 盐酸氨溴索注射液,Q27275396
+Doxycycline,C[C@H]1c2cccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@@H]21,,,2002,,盐酸多西环素; 盐酸多西环素片,Q422442
+Loratadine,CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,,,2002,,氯雷他定口腔崩解片; 氯雷他定咀嚼片; 氯雷他定颗粒,Q424049
+Allicin,C=CCSS(=O)CC=C,,,2002,,大蒜素胶囊; 大蒜素软胶囊,Q409641
+Cefuroxime,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1,,,2011,,注射用头孢呋辛钠,Q413728
+Benzathine benzylpenicillin,CC1(C)S[C@@H]2[C@H](NC(=O)Cc3ccccc3)C(=O)N2[C@H]1C(=O)O,,,2002,,注射用苄星青霉素,Q868435
+Amifostine,NCCCNCCSP(=O)(O)O,,,2004,,注射用氨磷汀,Q251698
+Pipemidic acid,CCn1cc(C(=O)O)c(=O)c2cnc(N3CCNCC3)nc21,,,2002,,吡哌酸片; 吡哌酸胶囊; 吡哌酸颗粒,Q754986
+Rifampicin,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(/C=N/N5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,,,2002,,利福平胶囊; 利福平软胶囊,Q422652
+Benproperine,CC(COc1ccccc1Cc1ccccc1)N1CCCCC1,,,2002,,磷酸苯丙哌林口服溶液; 磷酸苯丙哌林片; 磷酸苯丙哌林缓释片; 磷酸苯丙哌林胶囊,Q818139
+Azlocillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)N3CCNC3=O)c3ccccc3)C(=O)N2[C@H]1C(=O)O,,,2005,,注射用阿洛西林钠,Q510154
+Calcium DL-lactate,CC(O)C(=O)O,,,2002,,乳酸钙咀嚼片; 乳酸钙片,Q419693
+(RS)-propafenone,CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1,,,2002,,盐酸普罗帕酮片,Q662511
+Dutasteride,C[C@]12C=CC(=O)N[C@@H]1CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](C(=O)Nc3cc(C(F)(F)F)ccc3C(F)(F)F)CC[C@@H]12,,,2016,,度他雄胺软胶囊,Q424760
+Cortisol,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,,2002,,氢化可的松; 氢化可的松乳膏,Q190875
+Perfluorobutane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,,,2018,,注射用全氟丁烷微球,Q3375325
+Clindamycin,CCC[C@@H]1C[C@@H](C(=O)NC(C(C)Cl)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)N(C)C1,,,2002,,盐酸克林霉素注射液; 盐酸克林霉素胶囊,Q422273
+Lysine hydrochloride,NCCCC[C@H](N)C(=O)O,,,2000,,注射用盐酸赖氨酸; 盐酸赖氨酸注射液,Q27124123
+Cefuroxime axetil,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)OC(C)OC(C)=O)=C(COC(N)=O)CS[C@H]12)c1ccco1,,,2001,,头孢呋辛酯干混悬剂,Q3604308
+Bisacodyl,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1,,,2002,,比沙可啶肠溶片,Q417874
+Cilnidipine,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC/C=C/c2ccccc2)C1c1cccc([N+](=O)[O-])c1,,,2008,,西尼地平软胶囊,Q731525
+Phenolphthalein,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,,,2002,,酚酞含片; 酚酞片,Q187921
+Moroxydine,N=C(N)/N=C(\N)N1CCOCC1,,,2002,,盐酸吗啉胍片,Q781304
+Mitoxantrone,O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21,,,2015,,米托蒽醌,Q239426
+Citric acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,,,2000,,枸橼酸钙咀嚼片,Q159683
+Ferulic acid,COc1cc(/C=C/C(=O)O)ccc1O,,,2005,,注射用阿魏酸钠,Q417362
+N(2)-acetylglutamine,CC(=O)NC(CCC(N)=O)C(=O)O,,,2002,,乙酰谷酰胺; 乙酰谷酰胺注射液; 注射用乙酰谷酰胺,Q4673064
+(+)-pseudoephedrine,CN[C@@H](C)[C@@H](O)c1ccccc1,,,2000,,硫酸伪麻黄碱,Q263958
+(−)-ephedrine,CN[C@@H](C)[C@H](O)c1ccccc1,,,2002,,盐酸麻黄碱滴鼻液; 盐酸麻黄碱片; 盐酸麻黄碱糖浆,Q219626
+Nicorandil,O=C(NCCO[N+](=O)[O-])c1cccnc1,,,2002,,尼可地尔片,Q862989
+L-cystine,N[C@@H](CSSC[C@H](N)C(=O)O)C(=O)O,,,2002,,胱氨酸片,Q408626
+(RS)-econazole,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,,,2002,,硝酸益康唑溶液,Q417141
+Trimebutine,CCC(COC(=O)c1cc(OC)c(OC)c(OC)c1)(c1ccccc1)N(C)C,,,2004,,马来酸曲美布汀干混悬剂,Q2569888
+Quinidine,C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@@H](O)c1ccnc2ccc(OC)cc12,,,2002,,硫酸奎尼丁片,Q412496
+Flufenamic acid,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,,,2002,,氟芬那酸片,Q416341
+Glycyrrhizin,CC1(C)[C@@H](O[C@H]2O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]2O[C@@H]2O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]2O)CC[C@]2(C)[C@H]3C(=O)C=C4[C@@H]5C[C@@](C)(C(=O)O)CC[C@]5(C)CC[C@@]4(C)[C@]3(C)CC[C@@H]12,,,2002,,甘草酸二钠,Q418705
+Cloxacillin,Cc1onc(-c2ccccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)O,,,2002,,氯唑西林钠胶囊,Q422219
+Amoxicillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)O,,,2000,,阿莫西林咀嚼片; 阿莫西林干混悬剂; 阿莫西林胶囊; 阿莫西林颗粒,Q201928
+Digoxin,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O,,,2002,,地高辛片,Q422222
+Metamizole sodium,Cc1c(N(C)CS(=O)(=O)O)c(=O)n(-c2ccccc2)n1C,,,2002,,安乃近片,Q422761
+Spironolactone,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]34CCC(=O)O4)[C@H]12,,,2002,,螺内酯片,Q422188
+Lentinan,OC[C@H]1O[C@@H](OC[C@H]2O[C@@H](O)[C@H](O)[C@@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O[C@@H]5O[C@H](CO[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)[C@H]5O)[C@H]4O)[C@H]3O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,,,2003,,注射用香菇多糖; 香菇多糖注射液,Q419019
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,,,2002,,盐酸普鲁卡因注射液,Q423741
+Granisetron,CN1[C@@H]2CCC[C@H]1C[C@@H](NC(=O)c1nn(C)c3ccccc13)C2,,,2002,,盐酸格拉司琼; 盐酸格拉司琼分散片; 盐酸格拉司琼注射液,Q596708
+Bismuth subcarbonate,[O]=[Bi][O]C(=O)[O][Bi]=[O],,,2002,,碱式碳酸铋片,Q2983022
+Methacycline,C=C1c2cccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12,,,2002,,盐酸美他环素片; 盐酸美他环素胶囊,Q2365033
+Oleanolic acid,CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1,,,2002,,齐墩果酸; 齐墩果酸片,Q418628
+DL-camphorsulfonic acid,CC1(C)C2CCC1(CS(=O)(=O)O)C(=O)C2,,,2002,,樟脑磺酸钠注射液,Q414283
+Aciclovir,Nc1nc(=O)c2ncn(COCCO)c2[nH]1,,,2002,,阿昔洛韦乳膏; 阿昔洛韦凝胶; 阿昔洛韦分散片; 阿昔洛韦咀嚼片; 阿昔洛韦片,Q147101
+Dextromethorphan,COc1ccc2c(c1)[C@]13CCCC[C@@H]1[C@H](C2)N(C)CC3,,,1999,,氢溴酸右美沙芬咀嚼片; 氢溴酸右美沙芬糖浆; 氢溴酸右美沙芬软胶囊; 氢溴酸右美沙芬颗粒,Q407781
+Cefazolin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@H]3SC2)s1,,,2002,,注射用头孢唑林钠,Q415739
+Sucralfate,O=S(=O)(OC[C@H]1O[C@@H](O[C@]2(COS(=O)(=O)[O][Al]([OH])[OH])O[C@H](OS(=O)(=O)[O][Al]([OH])[OH])[C@@H](OS(=O)(=O)[O][Al]([OH])[OH])[C@@H]2OS(=O)(=O)[O][Al]([OH])[OH])[C@H](OS(=O)(=O)[O][Al]([OH])[OH])[C@@H](OS(=O)(=O)[O][Al]([OH])[OH])[C@@H]1OS(=O)(=O)[O][Al]([OH])[OH])[O][Al]([OH])[OH],,,2002,,硫糖铝咀嚼片,Q420394
+Isosorbide dinitrate,O=[N+]([O-])O[C@H]1CO[C@H]2[C@@H]1OC[C@H]2O[N+](=O)[O-],,,2002,,硝酸异山梨酯片,Q179748
+Ibandronic acid,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,,,2001,,伊班膦酸钠,Q166825
+Azithromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)CN(C)[C@H](C)[C@@H](O)[C@]1(C)O,,,2000,,注射用阿奇霉素; 阿奇霉素分散片; 阿奇霉素干混悬剂; 阿奇霉素片; 阿奇霉素肠溶胶囊,Q165399
+Vancomycin,CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O)c3ccc(c(Cl)c3)Oc3cc2cc(c3O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]2C[C@](C)(N)[C@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O,,,2019,,注射用盐酸万古霉素,Q424027
+Ciprofloxacin,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O,,,2002,,乳酸环丙沙星注射液; 注射用乳酸环丙沙星; 盐酸环丙沙星栓; 盐酸环丙沙星注射液; 盐酸环丙沙星滴眼液,Q256602
+Pranlukast,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,,,2014,,普仑司特,Q7238392
+Nikethamide,CCN(CC)C(=O)c1cccnc1,,,2002,,尼可刹米; 尼可刹米注射液,Q902548
+Indapamide,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,,,2003,,吲达帕胺缓释片,Q1078392
+Cetylpyridinium chloride,CCCCCCCCCCCCCCCC[n+]1ccccc1,,,2005,,西吡氯铵含片,Q418318
+Torasemide,Cc1cccc(Nc2ccncc2S(=O)(=O)NC(=O)NC(C)C)c1,,,2004,,托拉塞米片,Q419948
+Valproic acid,CCCC(CCC)C(=O)O,,,2015,,丙戊酸镁,Q240642
+Tobramycin,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](N)C[C@@H]1O,,,2002,,妥布霉素滴眼液; 硫酸妥布霉素注射液,Q1758380
+Cantharidic acid,C[C@]1(C(=O)O)[C@@H]2CC[C@@H](O2)[C@@]1(C)C(=O)O,,,2002,,斑蝥酸钠片,Q5033742
+Lidocaine,CCN(CC)C/C(O)=N\c1c(C)cccc1C,,,2018,,利多卡因凝胶贴膏,Q216935
+Ramosetron,Cn1cc(C(=O)[C@@H]2CCc3nc[nH]c3C2)c2ccccc21,,,2005,,注射用盐酸雷莫司琼; 盐酸雷莫司琼,Q2979523
+Lappaconitine,CCN1C[C@]2(OC(=O)c3ccccc3NC(C)=O)CC[C@H](OC)[C@]34C1[C@H](C[C@H]23)[C@@]1(O)C[C@H](OC)[C@H]2C[C@@H]4[C@]1(O)[C@H]2OC,,,2005,,注射用氢溴酸高乌甲素,Q27107182
+Betaxolol,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1,,,2018,,盐酸倍他洛尔滴眼液,Q794162
+Nitrofurantoin,O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1,,,2002,,呋喃妥因肠溶片,Q422669
+Rifaximin,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,,,2004,,利福昔明干混悬剂; 利福昔明软胶囊,Q416073
+Bifonazole,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1,,,2003,,联苯苄唑乳膏,Q421162
+L-arginine,N=C(N)NCCC[C@H](N)C(=O)O,,,2002,,盐酸精氨酸,Q173670
+(E/Z)-doxepin,CN(C)CCC=C1c2ccccc2COc2ccccc21,,,2002,,盐酸多塞平注射液,Q71704041
+Nateglinide,CC(C)[C@H]1CC[C@H](C(=O)N[C@H](Cc2ccccc2)C(=O)O)CC1,,,2003,,那格列奈片,Q2254797
+Β-carotene,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)CCCC2(C)C)C(C)(C)CCC1,,,1998,,倍他胡萝卜素咀嚼片; 倍他胡萝卜素软胶囊,Q306135
+Flumazenil,CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc1-2,,,2005,,氟马西尼,Q421920
+Allopurinol,O=c1ncnc2[nH][nH]cc1-2,,,2004,,别嘌醇缓释胶囊,Q412486
+Alfacalcidol,C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CCCC(C)C)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,,,1999,,阿法骨化醇软胶囊,Q155883
+Oxaprozin,O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1,,,2003,,奥沙普秦分散片,Q1749609
+Diphenidol,OC(CCCN1CCCCC1)(c1ccccc1)c1ccccc1,,,2002,,盐酸地芬尼多片,Q5279734
+Batilol,CCCCCCCCCCCCCCCCCCOCC(O)CO,,,2002,,鲨肝醇片,Q27115823
+Norfloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,,,2002,,诺氟沙星栓; 诺氟沙星胶囊,Q417897
+Dehydrocholic acid,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3C(=O)C[C@@H]4CC(=O)CC[C@]4(C)[C@H]3CC(=O)[C@]12C,,,2002,,去氢胆酸片,Q903387
+Bromhexine,CN(Cc1cc(Br)cc(Br)c1N)C1CCCCC1,,,2002,,盐酸溴己新; 盐酸溴己新片,Q239778
+Lincomycin,CCC[C@@H]1C[C@@H](C(=O)N[C@@H]([C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](C)O)N(C)C1,,,2002,,盐酸林可霉素注射液; 盐酸林可霉素滴耳液; 盐酸林可霉素片; 盐酸林可霉素胶囊,Q423428
+Cefixime,C=CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OCC(=O)O)c3csc(N)n3)[C@H]2SC1,,,2004,,头孢克肟分散片; 头孢克肟咀嚼片; 头孢克肟干混悬剂,Q163901
+Tolterodine,Cc1ccc(O)c([C@H](CCN(C(C)C)C(C)C)c2ccccc2)c1,,,2018,,酒石酸托特罗定缓释胶囊,Q424312
+Mebendazole,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,,,2002,,甲苯咪唑咀嚼片,Q422194
+Ceftazidime,CC(C)(O/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CS[C@H]12)c1csc(N)n1)C(=O)O,,,2003,,头孢他啶(含碳酸钠); 注射用头孢他啶,Q808845
+Codeine,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341,,,2006,,磷酸可待因,Q174723
+Bemegride,CCC1(C)CC(=O)NC(=O)C1,,,2002,,贝美格注射液,Q792614
+Methyl salicylate,COC(=O)c1ccccc1O,,,2002,,水杨酸甲酯,Q407669
+Thiamphenicol,CS(=O)(=O)c1ccc([C@@H](O)[C@@H](CO)NC(=O)C(Cl)Cl)cc1,,,2002,,甲砜霉素肠溶片,Q425015
+Folic acid,Nc1nc(=O)c2nc(CNc3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc3)cnc2[nH]1,,,2005,,叶酸,Q127060
+Linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,,,2002,,亚油酸软胶囊,Q407426
+Clindamycin palmitate hydrochloride,CCCCCCCCCCCCCCCC(=O)O[C@@H]1[C@@H](O)[C@@H](O)[C@@H]([C@H](NC(=O)[C@@H]2C[C@@H](CCC)CN2C)[C@H](C)Cl)O[C@@H]1SC,,,2005,,盐酸克林霉素棕榈酸酯干混悬剂,Q27291919
+Dantrolene,O=C1CN(N=Cc2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1,,,2015,,丹曲林钠,Q421274
+Cytidine triphosphate,Nc1ccn([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)n1,,,2006,,三磷酸胞苷二钠注射液; 注射用三磷酸胞苷二钠,Q409648
+Dequalinium chloride,Cc1cc(N)c2ccccc2[n+]1CCCCCCCCCC[n+]1c(C)cc(N)c2ccccc21,,,2002,,地喹氯铵含片,Q5261117
+Lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,,,2006,,洛伐他汀片,Q417740
+Ticlopidine,Clc1ccccc1CN1CCc2sccc2C1,,,2020,,盐酸噻氯匹定胶囊,Q420571
+Furazolidone,O=C1OCCN1N=Cc1ccc([N+](=O)[O-])o1,,,2002,,呋喃唑酮片,Q2467555
+Cyclosporine,C/C=C/C[C@@H](C)[C@@H](O)[C@H]1C(=O)N[C@@H](CC)C(=O)N(C)CC(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)N1C,,,2005,,环孢素软胶囊,Q367700
+Venlafaxine,COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,,,2006,,盐酸文拉法辛,Q898407
+Allantoin,NC(=O)NC1NC(=O)NC1=O,,,2001,,尿囊素,Q409804
+Danazol,C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=Cc5oncc5C[C@]4(C)[C@H]3CC[C@@]21C,,,2006,,达那唑软胶囊,Q419652
+Nitrendipine,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,,,2002,,尼群地平片; 尼群地平软胶囊,Q416584
+Nicotinic acid,O=C(O)c1cccnc1,,,2002,,烟酸注射液; 烟酸片,Q134658
+Cefpiramide,Cc1cc(=O)c(C(=O)N[C@@H](C(=O)N[C@@H]2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CS[C@H]23)c2ccc(O)cc2)c[nH]1,,,2004,,注射用头孢匹胺钠,Q4921174
+4-guaiacolsulfonic acid,COc1cc(S(=O)(=O)O)ccc1O,,,2002,,愈创木酚磺酸钾,Q5613302
+Magnesium stearate,CCCCCCCCCCCCCCCCCC(=O)O,,,2002,,硬脂酸镁,Q416713
+Itopride,COc1ccc(C(=O)NCc2ccc(OCCN(C)C)cc2)cc1OC,,,2004,,盐酸伊托必利; 盐酸伊托必利片,Q4409774
+Isoniazid,NNC(=O)c1ccncc1,,,2002,,异烟肼注射液; 异烟肼片,Q423169
+Sodium acetate,CC(=O)O,,,2002,,醋酸钠,Q339940
+Cefaclor,N[C@@H](C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(Cl)CS[C@H]12)c1ccccc1,,,2002,,头孢克洛咀嚼片; 头孢克洛干混悬剂; 头孢克洛缓释片; 头孢克洛胶囊,Q415167
+Piroxicam,CN1C(/C(O)=N/c2ccccn2)=C(O)c2ccccc2S1(=O)=O,,,2002,,吡罗昔康片; 吡罗昔康肠溶片,Q408676
+Risperidone,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2,,,2006,,利培酮胶囊,Q412443
+Paclitaxel,CC(=O)O[C@H]1C(=O)[C@@]2(C)[C@H]([C@H](OC(=O)c3ccccc3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c4ccccc4)c4ccccc4)C(C)=C1C3(C)C)[C@]1(OC(C)=O)CO[C@@H]1C[C@@H]2O,,,2005,,紫杉醇; 紫杉醇注射液,Q423762
+Cephradine,CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)C3=CCC=CC3)[C@H]2SC1,,,1999,,头孢拉定干混悬剂; 头孢拉定胶囊,Q2734674
+Fluconazole,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,,,2005,,注射用氟康唑,Q411478
+Calcium gluconate,O=C(O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,,,1998,,葡萄糖酸亚铁片; 葡萄糖酸钙含片; 葡萄糖酸钙片; 葡萄糖酸钙颗粒; 葡萄糖酸锌口服溶液,Q413739
+Progesterone,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,,2003,,黄体酮软胶囊,Q26963
+Α-asarone,C/C=C/c1cc(OC)c(OC)cc1OC,,,2006,,注射用细辛脑; 细辛脑片,Q419658
+Telmisartan,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1,,,2004,,替米沙坦胶囊,Q733186
+"Beta-fructose 1,6-bisphosphate",O=P(O)(O)OC[C@H]1O[C@](O)(COP(=O)(O)O)[C@@H](O)[C@@H]1O,,,2015,,"注射用1,6-二磷酸果糖",Q414945
+Hydralazine,NNc1nncc2ccccc12,,,2002,,盐酸肼屈嗪片,Q419987
+Megestrol acetate,CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,,,2002,,醋酸甲地孕酮软胶囊,Q6808975
+Fluoxetine,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,,,2004,,盐酸氟西汀,Q422244
+Chenodiol,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,,,2002,,鹅去氧胆酸胶囊,Q419028
+Ursodiol,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,,,2013,,熊去氧胆酸软胶囊,Q241374
+Glutathione,N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O,,,2016,,谷胱甘肽含片,Q116907
+Fexofenadine,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,,,2008,,盐酸非索非那定,Q415122
+Roxithromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)/C(=N\OCOCCOC)[C@H](C)[C@@H](O)[C@]1(C)O,,,1998,,罗红霉素干混悬剂; 罗红霉素片; 罗红霉素胶囊; 罗红霉素软胶囊; 罗红霉素颗粒,Q424037
+Simvastatin,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,,,2003,,辛伐他汀咀嚼片; 辛伐他汀干混悬剂; 辛伐他汀片; 辛伐他汀胶囊,Q670131
+Paracetamol,CC(=O)Nc1ccc(O)cc1,,,1999,,对乙酰氨基酚丸; 对乙酰氨基酚口服液; 对乙酰氨基酚口服溶液; 对乙酰氨基酚咀嚼片; 对乙酰氨基酚干混悬剂,Q57055
+CDP-choline (1+),C[N+](C)(C)CCOP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)[C@H](O)[C@@H]1O,,,2002,,注射用胞磷胆碱钠; 胞磷胆碱钠注射液,Q421308
+Kanamycin A,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O,,,2002,,硫酸卡那霉素注射液; 硫酸卡那霉素滴眼液; 硫酸卡那霉素片,Q27094615
+Gemcitabine,Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1,,,2018,,注射用盐酸吉西他滨,Q414143
+Silibinin A,COc1cc([C@H]2Oc3cc([C@H]4Oc5cc(O)cc(O)c5C(=O)[C@@H]4O)ccc3O[C@@H]2CO)ccc1O,,,2002,,水飞蓟素,Q425702
+Sulfadiazine,Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1,,,2002,,无水磺胺嘧啶锌; 磺胺嘧啶片; 磺胺嘧啶钠注射液; 磺胺嘧啶银,Q2555060
+Verapamil,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,,,2002,,盐酸维拉帕米注射液; 盐酸维拉帕米片,Q410291
+Ozagrel,O=C(O)/C=C/c1ccc(Cn2ccnc2)cc1,,,2004,,注射用奥扎格雷钠,Q7116436
+Pyritinol,Cc1ncc(CSSCc2cnc(C)c(O)c2CO)c(CO)c1O,,,2002,,盐酸吡硫醇片; 盐酸吡硫醇胶囊,Q416361
+Sulfacetamide,CC(=O)NS(=O)(=O)c1ccc(N)cc1,,,2002,,磺胺醋酰钠滴眼液,Q2022983
+Aminocaproic acid,NCCCCCC(=O)O,,,2002,,氨基己酸注射液,Q255968
+Flunarizine,Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1,,,1998,,盐酸氟桂利嗪; 盐酸氟桂利嗪胶囊,Q416237
+Cefmetazole,CO[C@@]1(NC(=O)CSCC#N)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CS[C@@H]21,,,2018,,注射用头孢美唑钠,Q5057238
+Nitroglycerin,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],,,2002,,硝酸甘油溶液,Q162867
+Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,,,2005,,盐酸安非他酮片; 盐酸安非他酮缓释片,Q834280
+Chlorpheniramine,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,,,2002,,马来酸氯苯那敏注射液; 马来酸氯苯那敏片,Q420133
+Omeprazole,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,,,1999,,奥美拉唑肠溶胶囊; 注射用奥美拉唑钠,Q422210
+(±)-flurbiprofen,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,,,2010,,氟比洛芬凝胶贴膏,Q419890
+Metoclopramide,CCN(CC)CC/N=C(\O)c1cc(Cl)c(N)cc1OC,,,2002,,甲氧氯普胺片; 盐酸甲氧氯普胺注射液,Q421095
+Tramadol hydrochloride,COc1cccc([C@@]2(O)CCCC[C@@H]2CN(C)C)c1,,,2015,,盐酸曲马多片; 盐酸曲马多缓释胶囊,Q27145507
+Tafamidis,O=C(O)c1ccc2nc(-c3cc(Cl)cc(Cl)c3)oc2c1,,,2020,,氯苯唑酸软胶囊,Q519447
+Montelukast,CC(C)(O)c1ccccc1CC[C@@H](SCC1(CC(=O)O)CC1)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1,,,2006,,孟鲁司特钠咀嚼片,Q417767
+Epinephrine,CNC[C@H](O)c1ccc(O)c(O)c1,,,2002,,盐酸肾上腺素注射液,Q132621
+Testosterone undecanoate,CCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,,2014,,十一酸睾酮软胶囊,Q15410178
+Clindamycin phosphate,CCC[C@@H]1C[C@@H](C(=O)N[C@@H]([C@H]2O[C@H](SC)[C@H](OP(=O)(O)O)[C@@H](O)[C@H]2O)[C@H](C)Cl)N(C)C1,,,2005,,克林霉素磷酸酯凝胶; 注射用克林霉素磷酸酯,Q27106184
+Inosine,O=c1nc[nH]c2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,,,1999,,肌苷口服溶液; 肌苷片,Q422564
+Trimetazidine,COc1ccc(CN2CCNCC2)c(OC)c1OC,,,2006,,盐酸曲美他嗪,Q674703
+Nimodipine,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,,,1999,,尼莫地平片; 尼莫地平软胶囊,Q421429
+Paeonol,COc1ccc(C(C)=O)c(O)c1,,,2002,,丹皮酚注射液,Q7124105
+Dolasetron,O=C(O[C@@H]1C[C@@H]2C[C@H]3C[C@H](C1)N2CC3=O)c1c[nH]c2ccccc12,,,2011,,甲磺酸多拉司琼,Q1829318
+Erythromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O,,,1999,,红霉素栓; 红霉素肠溶片; 红霉素肠溶胶囊; 红霉素软膏,Q213511
+Spectinomycin,CN[C@@H]1[C@H](O)[C@H](NC)[C@H]2O[C@@]3(O)C(=O)C[C@@H](C)O[C@H]3O[C@@H]2[C@H]1O,,,2006,,注射用盐酸大观霉素,Q416154
+Betamethasone,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,,,2002,,倍他米松; 醋酸倍他米松搽剂,Q416132
+Quetiapine,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,,,2005,,富马酸喹硫平; 富马酸喹硫平缓释片,Q408535
+Betahistine,CNCCc1ccccn1,,,2020,,盐酸倍他司汀口服液,Q368995
+Altretamine,CN(C)c1nc(N(C)C)nc(N(C)C)n1,,,2002,,六甲蜜胺片,Q415242
+Oxacillin,Cc1onc(-c2ccccc2)c1C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)O,,,2002,,注射用苯唑西林钠,Q418725
+Ceftriaxone sodium,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CS[C@H]12)c1csc(N)n1,,,2002,,头孢曲松钠; 注射用头孢曲松钠,Q27287815
+Metronidazole,Cc1ncc([N+](=O)[O-])n1CCO,,,2001,,甲硝唑含片; 甲硝唑栓; 甲硝唑注射液; 甲硝唑片,Q169569
+Nimustine,Cc1ncc(CNC(=O)N(CCCl)N=O)c(N)n1,,,2005,,注射用盐酸尼莫司汀; 盐酸尼莫司汀,Q907623
+Itraconazole,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OC[C@H]5CO[C@](Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,,,2008,,伊曲康唑; 伊曲康唑分散片,Q411229
+Sodium gualenate,Cc1cc(S(=O)(=O)O)c2c(C)ccc(C(C)C)cc1-2,,,2003,,薁磺酸钠,Q27252130
+Etoposide,COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O,,,2004,,依托泊苷注射液; 依托泊苷软胶囊,Q418817
+Mifepristone,CC#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C,,,2003,,米非司酮软胶囊,Q411240
+(RS)-mexiletine,Cc1cccc(C)c1OCC(C)N,,,2002,,盐酸美西律片,Q420377
+Ranitidine,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,,,2002,,盐酸雷尼替丁咀嚼片; 盐酸雷尼替丁片; 盐酸雷尼替丁胶囊,Q423037
+Clotrimazole,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,,,2002,,克霉唑乳膏; 克霉唑栓; 克霉唑片,Q413546
+Budesonide,CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1,,,2012,,布地奈德吸入气雾剂,Q422212
+Alprazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,,,2002,,阿普唑仑片,Q319877
+Hypromellose,COCC1OC(OC2C(COCC(C)O)OC(OC)C(OCC(C)O)C2OCC(C)O)C(OC)C(OC)C1OC1OC(CO)C(OC)C(O)C1O,,,2004,,羟丙甲纤维素滴眼液,Q423846
+Folinic acid,Nc1nc(=O)c2c([nH]1)NCC(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)N2C=O,,,2003,,注射用亚叶酸钙,Q45435667
+Propantheline bromide,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C,,,2002,,溴丙胺太林片,Q27291318
+Triptorelin,CC(C)C[C@H](NC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NCC(N)=O,,,2004,,醋酸曲普瑞林注射液,Q1992452
+Phenylbutazone,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,,,2002,,保泰松片,Q421342
+Pemetrexed,Nc1nc(=O)c2c(CCc3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc3)c[nH]c2[nH]1,,,2008,,培美曲塞二钠,Q415220
+(E)-cefprozil,C/C=C/C1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccc(O)cc3)[C@H]2SC1,,,2004,,头孢丙烯咀嚼片; 头孢丙烯干混悬剂,Q3231623
+Clofazimine,CC(C)/N=c1\cc2n(-c3ccc(Cl)cc3)c3ccccc3nc-2cc1Nc1ccc(Cl)cc1,,,2002,,氯法齐明软胶囊,Q418611
+(RS)-tegafur,O=c1[nH]c(=O)n(C2CCCO2)cc1F,,,2005,,替加氟注射液,Q413370
+Povidone-iodine,C=CN1CCCC1=O,,,2002,,聚维酮碘栓; 聚维酮碘溶液,Q241516
+DL-glutamic acid,NC(CCC(=O)O)C(=O)O,,,2002,,谷氨酸片,Q181136
+Glimepiride,CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)N[C@H]3CC[C@H](C)CC3)cc2)C1=O,,,2001,,格列美脲,Q106029845
+Chloramphenicol,O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,,,2002,,氯霉素; 氯霉素注射液; 氯霉素滴耳液; 氯霉素片; 氯霉素胶囊,Q274515
+Apatinib,N#CC1(c2ccc(NC(=O)c3cccnc3NCc3ccncc3)cc2)CCCC1,,,2014,,甲磺酸阿帕替尼片,Q27262801
+Pamidronic acid,NCCC(O)(P(=O)(O)O)P(=O)(O)O,,,2006,,注射用帕米膦酸二钠,Q627499
+Levodopa,N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O,,,2002,,左旋多巴; 左旋多巴片,Q300989
+Enzalutamide,CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,,,2019,,恩扎卢胺软胶囊,Q1996756
+Cefpodoxime,COCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OC)c3csc(N)n3)[C@H]2SC1,,,2004,,头孢泊肟酯干混悬剂,Q415173
+Cyclandelate,CC1CC(OC(=O)C(O)c2ccccc2)CC(C)(C)C1,,,2002,,环扁桃酯胶囊,Q1147309
+Cefoxitin,CO[C@@]1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@@H]21,,,2006,,注射用头孢西丁钠,Q2353907
+Pethidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,,,2002,,盐酸哌替啶注射液,Q55434
+Pazufloxacin,C[C@H]1COc2c(C3(N)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,,,2006,,注射用甲磺酸帕珠沙星; 甲磺酸帕珠沙星,Q3898423
+Decitabine,Nc1ncn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)n1,,,2013,,地西他滨,Q1181878
+Fleroxacin,CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(CCF)c3c2F)CC1,,,2001,,乳酸氟罗沙星片; 氟罗沙星,Q3746573
+Cefodizime,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nc(C)c(CC(=O)O)s3)CS[C@H]12)c1csc(N)n1,,,2018,,注射用头孢地嗪钠,Q5057292
+Cephalothin,CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cc3cccs3)[C@H]2SC1,,,2006,,注射用头孢噻吩钠,Q2736126
+Ketoconazole,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,,,1999,,酮康唑乳膏,Q407883
+Oxytocin,CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O,,,2005,,缩宫素注射液,Q169960
+Taurine,NCCS(=O)(=O)O,,,2002,,牛磺酸滴眼液; 牛磺酸片,Q207051
+Prednisone,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2C(=O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,,2002,,醋酸泼尼松乳膏; 醋酸泼尼松片,Q424972
+Asunaprevir,C=C[C@@H]1C[C@]1(NC(=O)[C@@H]1C[C@@H](Oc2ncc(OC)c3ccc(Cl)cc23)CN1C(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C)C(=O)NS(=O)(=O)C1CC1,,,2017,,阿舒瑞韦软胶囊,Q4811881
+Gatifloxacin,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,,,2005,,注射用加替沙星; 甲磺酸加替沙星分散片,Q2365016
+Famotidine,NC(N)=Nc1nc(CSCC/C(N)=N/S(N)(=O)=O)cs1,,,2004,,法莫替丁咀嚼片; 注射用法莫替丁,Q411159
+Atorvastatin,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O,,,2015,,阿托伐他汀钙,Q668093
+Armillarisin A,CC(=O)c1cc2c(CO)cc(O)cc2oc1=O,,,2002,,亮菌甲素注射液; 亮菌甲素片; 注射用亮菌甲素,Q10883374
+Meclofenoxate,CN(C)CCOC(=O)COc1ccc(Cl)cc1,,,2002,,注射用盐酸甲氯芬酯; 盐酸甲氯芬酯; 盐酸甲氯芬酯胶囊,Q421147
+Metformin,[H]/N=C(/N)N/C(=N\[H])N(C)C,,,1999,,盐酸二甲双胍; 盐酸二甲双胍片; 盐酸二甲双胍缓释片; 盐酸二甲双胍肠溶胶囊,Q19484
+(RS)-rosiglitazone,CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1,,,2009,,酒石酸罗格列酮,Q424771
+Berberine,COc1ccc2cc3[n+](cc2c1OC)CCc1cc2c(cc1-3)OCO2,,,2002,,盐酸小檗碱; 盐酸小檗碱片,Q176525
+Sodium salicylate,O=C(O)c1ccccc1O,,,2002,,水杨酸; 水杨酸钠片,Q414547
+Loxoprofen,CC(C(=O)O)c1ccc(CC2CCCC2=O)cc1,,,2017,,洛索洛芬钠凝胶贴膏,Q2759348
+Fosfomycin,C[C@@H]1O[C@@H]1P(=O)(O)O,,,2002,,磷霉素钙胶囊,Q183554
+Fenofibrate,CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,,,2002,,非诺贝特咀嚼片; 非诺贝特片; 非诺贝特胶囊; 非诺贝特软胶囊,Q419724
+Triamcinolone acetonide,CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1,,,2002,,醋酸曲安奈德乳膏,Q2211240
+Clemastine,CN1CCC[C@@H]1CCO[C@](C)(c1ccccc1)c1ccc(Cl)cc1,,,2001,,富马酸氯马斯汀; 富马酸氯马斯汀干混悬剂,Q418145
+Irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,,,2015,,厄贝沙坦颗粒,Q947266
+Trepibutone,CCOc1cc(OCC)c(C(=O)CCC(=O)O)cc1OCC,,,2002,,曲匹布通; 曲匹布通片,Q7838676
+(RS)-rabeprazole,COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C,,,2004,,雷贝拉唑钠肠溶胶囊,Q3515
+Tulobuterol,CC(C)(C)NCC(O)c1ccccc1Cl,,,2002,,盐酸妥洛特罗片,Q909353
+Pyrantel,CN1CCCN=C1/C=C/c1cccs1,,,2005,,双羟萘酸噻嘧啶片,Q426897
+Nicergoline,CO[C@]12C[C@@H](COC(=O)c3cncc(Br)c3)CN(C)[C@@H]1Cc1cn(C)c3cccc2c13,,,2005,,注射用尼麦角林,Q2623398
+Bendazol,c1ccc(Cc2nc3ccccc3[nH]2)cc1,,,2002,,地巴唑片,Q4083689
+Isosorbide mononitrate,O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O,,,2002,,单硝酸异山梨酯喷雾剂; 单硝酸异山梨酯缓释胶囊,Q423401
+Cephalexin,CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1,,,1998,,头孢氨苄干混悬剂; 头孢氨苄片; 头孢氨苄胶囊; 头孢氨苄颗粒,Q411417
+Nicardipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,,,1999,,盐酸尼卡地平缓释片,Q729213
+Ketotifen,CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1,,,2002,,富马酸酮替芬胶囊,Q2458673
+Cinitapride,CCOc1cc(N)c([N+](=O)[O-])cc1C(=O)NC1CCN(CC2CC=CCC2)CC1,,,2016,,酒石酸西尼必利片,Q5121012
+L-glutamine,NC(=O)CC[C@H](N)C(=O)O,,,2008,,谷氨酰胺散,Q181619
+Lomefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21,,,1998,,盐酸洛美沙星; 盐酸洛美沙星注射液; 盐酸洛美沙星滴眼液; 盐酸洛美沙星滴耳液; 门冬氨酸洛美沙星,Q203618
+(S)-duloxetine,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1,,,2015,,盐酸度洛西汀肠溶胶囊,Q411932
+Minoxidil,Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],,,2010,,米诺地尔酊,Q424165
+Aminophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,,,2002,,氨茶碱注射液; 氨茶碱片; 茶碱缓释片,Q471763
+Glipizide,Cc1cnc(/C(O)=N\CCc2ccc(S(=O)(=O)N/C(O)=N\C3CCCCC3)cc2)cn1,,,2009,,格列吡嗪胶囊,Q3108899
+Menadiol,Cc1cc(O)c2ccccc2c1O,,,2002,,醋酸甲萘氢醌片,Q192430
+Adenosine triphosphate,Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,,,2002,,三磷酸腺苷二钠注射液; 三磷酸腺苷二钠片; 注射用三磷酸腺苷二钠,Q80863
+Cetirizine,O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,,,2000,,盐酸西替利嗪片; 盐酸西替利嗪胶囊,Q423075
+Glyburide,COc1ccc(Cl)cc1/C(O)=N\CCc1ccc(S(=O)(=O)N/C(O)=N\C2CCCCC2)cc1,,,2002,,格列本脲片,Q420626
+Tropisetron,CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)c1c[nH]c3ccccc13)C2,,,2002,,注射用盐酸托烷司琼; 甲磺酸托烷司琼注射液; 盐酸托烷司琼,Q29428
+Fenbufen,O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1,,,2002,,芬布芬片,Q2304195
+Chlorpromazine,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,,,2002,,盐酸氯丙嗪注射液; 盐酸氯丙嗪片,Q407972
+Bucinnazine,CCCC(=O)N1CCN(C/C=C/c2ccccc2)CC1,,,2002,,盐酸布桂嗪片,Q27281287
+Meloxicam,Cc1cnc(/N=C(\O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1,,,2003,,美洛昔康片,Q414028
+(+)-matrine,O=C1CCC[C@@H]2[C@H]3CCCN4CCC[C@@H](CN12)[C@@H]34,,,2002,,注射用苦参碱; 苦参碱栓,Q6787831
+Aniracetam,COc1ccc(C(=O)N2CCCC2=O)cc1,,,2002,,茴拉西坦分散片,Q417630
+Nicotinyl methylamide,CNC(=O)c1cccnc1,,,2002,,羟甲烟胺片; 羟甲烟胺胶囊,Q744041
+Diphenhydramine,CN(C)CCOC(c1ccccc1)c1ccccc1,,,2002,,盐酸苯海拉明片; 盐酸苯海拉明软胶囊,Q413486

@@ -1,0 +1,151 @@
+INN,Chinese_name,NMPA_year,confidence,source
+bicyclol,双环醇,2001,med,background knowledge (not re-checked)
+butylphthalide,丁苯酞,2002,high,phirda.com/about_13704.html
+tribendimidine,三苯双脒,2004,high,phirda.com/about_13704.html
+acehytisine,盐酸关附甲素,2005,low,background knowledge (not re-checked)
+ilaprazole,艾普拉唑,2007,high,phirda.com/about_13704.html
+antofloxacin,盐酸安妥沙星,2009,high,phirda.com/about_13704.html
+levornidazole,左奥硝唑,2009,low,background knowledge (not re-checked)
+imrecoxib,艾瑞昔布,2011,high,phirda.com/about_13704.html
+icotinib,盐酸埃克替尼,2011,high,phirda.com/about_13704.html
+iguratimod,艾拉莫德,2011,high,phirda.com/about_13704.html
+allisartan isoproxil,阿利沙坦酯,2013,high,phirda.com/about_13704.html
+morinidazole,吗啉硝唑,2014,high,phirda.com/about_13704.html
+rivoceranib/apatinib,甲磺酸阿帕替尼,2014,high,phirda.com/about_13704.html
+tucidinostat/chidamide,西达本胺,2014,high,phirda.com/about_13704.html
+nemonoxacin,苹果酸奈诺沙星,2016,high,phirda.com/about_13704.html
+hemoporfin,海姆泊芬,2016,med,phirda.com/about_13704.html
+anlotinib/catequentinib,盐酸安罗替尼,2018,high,background knowledge
+danoprevir,达诺瑞韦,2018,high,background knowledge
+pyrotinib,马来酸吡咯替尼,2018,high,background knowledge
+fruquintinib,呋喹替尼,2018,high,background knowledge
+roxadustat,罗沙司他,2018,high,background knowledge
+tapinarof/benvitimod,本维莫德,2019,high,background knowledge
+flumatinib,甲磺酸氟马替尼,2019,high,background knowledge
+remimazolam,注射用甲苯磺酸瑞马唑仑,2019,high,NMPA 创新药品名录
+coblopasvir,盐酸可洛派韦,2020,high,NMPA 创新药品名录
+aumolertinib/almonertinib,甲磺酸阿美替尼,2020,high,NMPA 创新药品名录
+bencycloquidium bromide,苯环喹溴铵,2020,high,NMPA 创新药品名录
+zanubrutinib,泽布替尼,2020,high,NMPA 创新药品名录
+dexborneol,依达拉奉右莰醇,2020,med,pharnexcloud zcsp_265357 (new entity in edaravone/dexborneol)
+ravidasvir,盐酸拉维达韦,2020,high,NMPA 创新药品名录
+ensartinib,盐酸恩沙替尼,2020,high,NMPA 创新药品名录
+fuzuloparib/fluzoparib,氟唑帕利,2020,high,NMPA 创新药品名录
+ciprofol/cipepofol,环泊酚,2020,high,NMPA 创新药品名录
+yimitasvir,磷酸依米他韦,2020,high,NMPA 创新药品名录
+orelabrutinib,奥布替尼,2020,high,background knowledge
+surufatinib,索凡替尼,2020,high,NMPA 创新药品名录
+firmonertinib/furmonertinib/alflutinib,甲磺酸伏美替尼,2021,high,NMPA 创新药品名录
+utidelone,优替德隆,2021,high,NMPA 创新药品名录
+pamiparib,帕米帕利,2021,high,NMPA 创新药品名录
+contezolid,康替唑胺,2021,high,NMPA 创新药品名录
+donafenib,甲苯磺酸多纳非尼,2021,high,NMPA 创新药品名录
+hetrombopag,海曲泊帕乙醇胺,2021,high,NMPA 创新药品名录
+savolitinib,赛沃替尼,2021,high,NMPA 创新药品名录
+tenofovir amibufenamide,艾米替诺福韦,2021,high,NMPA 创新药品名录
+ainuovirine,艾诺韦林,2021,high,NMPA 创新药品名录
+hybutimibe,海博麦布,2021,high,company announcement
+levornidazole phosphate disodium,注射用磷酸左奥硝唑酯二钠,2021,med,pharnexcloud
+azvudine,阿兹夫定,2021,high,NMPA 创新药品名录
+chiglitazar,西格列他钠,2021,high,NMPA 创新药品名录
+olverembatinib,奥雷巴替尼,2021,high,NMPA 创新药品名录
+dalpiciclib,羟乙磺酸达尔西利,2021,high,NMPA 创新药品名录
+henagliflozin,脯氨酸恒格列净,2021,high,NMPA 创新药品名录
+icaritin,淫羊藿素,2022,high,NMPA 创新药品名录
+rezvilutamide,瑞维鲁胺,2022,high,NMPA 创新药品名录
+dorzagliatin,多格列艾汀,2022,high,NMPA 创新药品名录
+toludesvenlafaxine/ammoxetine,盐酸托鲁地文拉法辛,2022,high,NMPA 创新药品名录
+linperlisib,林普利塞,2022,high,NMPA 创新药品名录
+trelagliptin,琥珀酸曲格列汀,2022,med,pharnexcloud sx_4304 (generic; Japan 2015)
+deuremidevir/VV116,氢溴酸氘瑞米德韦,2023,high,CDE 2023 report appx 1
+simnotrelvir,先诺特韦,2023,high,CDE 2023 report appx 1
+keverprazan,盐酸凯普拉生,2023,high,CDE 2023 report appx 1
+gumarontinib,谷美替尼,2023,high,CDE 2023 report appx 1
+leritrelvir,来瑞特韦,2023,high,CDE 2023 report appx 1
+alfosbuvir,奥磷布韦,2023,med,CDE 2023 report appx 1
+befotertinib,甲磺酸贝福替尼,2023,high,CDE 2023 report appx 1
+vorolanib,伏罗尼布,2023,high,CDE 2023 report appx 1
+anaprazole,安奈拉唑钠,2023,high,CDE 2023 report appx 1
+iruplinalkib,伊鲁阿克,2023,high,CDE 2023 report appx 1
+retagliptin,磷酸瑞格列汀,2023,high,CDE 2023 report appx 1
+sunvozertinib,舒沃替尼,2023,high,CDE 2023 report appx 1
+dimdazenil,地达西尼,2023,high,CDE 2023 report appx 1
+vebreltinib,伯瑞替尼,2023,high,CDE 2023 report appx 1
+atilotrelvir,阿泰特韦,2023,high,CDE 2023 report appx 1
+oliceridine,富马酸奥赛利定,2023,high,finet.hk (US first 2020)
+janagliflozin,脯氨酸加格列净,2024,high,CDE 2024 report appx 1
+tegileridine,富马酸泰吉利定,2024,high,CDE 2024 report appx 1
+tunlametinib,妥拉美替尼,2024,high,CDE 2024 report appx 1
+unecritinib,富马酸安奈克替尼,2024,high,CDE 2024 report appx 1
+entinostat,恩替司他,2024,high,CDE 2024 report appx 1
+envonalkib,枸橼酸依奉阿克,2024,high,CDE 2024 report appx 1
+SH-1028,甲磺酸瑞厄替尼,2024,high,CDE 2024 report appx 1 (INN not verified)
+cofrogliptin/HSK7653,考格列汀,2024,high,CDE 2024 report appx 1
+golidocitinib,戈利昔替尼,2024,high,CDE 2024 report appx 1
+fotagliptin,苯甲酸福格列汀,2024,high,CDE 2024 report appx 1
+fulzerasib,氟泽雷塞,2024,high,CDE 2024 report appx 1
+pradefovir,甲磺酸普雷福韦,2024,high,CDE 2024 report appx 1
+garsorasib,格索雷塞,2024,high,CDE 2024 report appx 1
+zorifertinib,盐酸佐利替尼,2024,high,CDE 2024 report appx 1
+crisugabalin,苯磺酸克利加巴林,2024,high,CDE 2024 report appx 1
+rezivertinib,甲磺酸瑞齐替尼,2024,high,CDE 2024 report appx 1
+cetagliptin,磷酸森格列汀,2024,med,CDE 2024 report appx 1
+linaprazan glurate,戊二酸利那拉生酯,2024,high,CDE 2024 report appx 1
+taletrectinib,己二酸他雷替尼,2024,high,CDE 2024 report appx 1
+prusogliptin,普卢格列汀,2025,high,CDE 2025 report appx 1
+limertinib,利厄替尼,2025,high,CDE 2025 report appx 1
+senaparib,塞纳帕利,2025,high,CDE 2025 report appx 1
+encofosbuvir/HEC110114,艾考磷布韦,2025,med,CDE 2025 report appx 1
+antaitavir/HEC74647,磷酸萘坦司韦,2025,low,CDE 2025 report appx 1 (INN unverified)
+ivarmacitinib,硫酸艾玛昔替尼,2025,high,CDE 2025 report appx 1
+suraxavir marboxil/GP681,玛舒拉沙韦,2025,high,CDE 2025 report appx 1
+birociclib/XZP-3287,吡洛西利,2025,high,CDE 2025 report appx 1
+anrikefon/HSK21542,安瑞克芬,2025,med,CDE 2025 report appx 1
+onradivir/ZSP1273,昂拉地韦,2025,high,CDE 2025 report appx 1
+glecirasib,枸橼酸戈来雷塞,2025,high,CDE 2025 report appx 1
+fosrolapitant,注射用磷罗拉匹坦帕洛诺司琼,2025,med,CDE 2025 report appx 1 (with palonosetron)
+famitinib,苹果酸法米替尼,2025,high,CDE 2025 report appx 1
+deutenzalutamide/HC-1119,氘恩扎鲁胺,2025,high,CDE 2025 report appx 1
+fovinaciclib/FCN-437c,枸橼酸伏维西利,2025,med,CDE 2025 report appx 1
+luvometinib/FCN-159,芦沃美替尼,2025,high,CDE 2025 report appx 1
+jaktinib,盐酸吉卡昔替尼,2025,high,CDE 2025 report appx 1
+lerociclib,盐酸来罗西利,2025,high,CDE 2025 report appx 1
+tibremciclib/BPI-16350,酒石酸泰瑞西利,2025,high,CDE 2025 report appx 1
+BEBT-908,注射用盐酸伊吡诺司他,2025,high,CDE 2025 report appx 1
+simmerafil/TPN171,盐酸司美那非,2025,med,CDE 2025 report appx 1
+lisaftoclax/APG-2575,利沙托克拉,2025,high,CDE 2025 report appx 1
+ZX-7101A,玛硒洛沙韦,2025,high,CDE 2025 report appx 1
+tunodafil,盐酸妥诺达非,2025,med,CDE 2025 report appx 1
+dirozalkib/XZP-3621,地罗阿克,2025,high,CDE 2025 report appx 1
+zeprumetostat/SHR2554,泽美妥司他,2025,med,CDE 2025 report appx 1
+mufemilast/Hemay005,莫米司特,2025,high,CDE 2025 report appx 1
+mifanertinib/mefatinib,马来酸美凡厄替尼,2025,high,CDE 2025 report appx 1
+olgotrelvir/STI-1558,奥格特韦钠,2025,med,CDE 2025 report appx 1
+SPH3127,苹果酸司妥吉仑,2025,high,CDE 2025 report appx 1
+TG-1000,玛帕西沙韦,2025,med,CDE 2025 report appx 1
+culmerciclib/TQB3616,库莫西利,2025,med,CDE 2025 report appx 1
+zurletrectinib/ICP-723,佐来曲替尼,2025,high,CDE 2025 report appx 1
+pimicotinib/ABSK021,盐酸匹米替尼,2025,high,CDE 2025 report appx 1
+sonrotoclax/BGB-11417,索托克拉,2025,med,CDE 2025 appx 1 (NMPA notice 2026-01-06)
+fexuprazan,盐酸非苏拉生,2025,low,Daewoong report
+rovadicitinib/TQ05105,罗伐昔替尼,2026,high,NMPA 创新药品名录
+sosimerasib/JMKX001899,硫酸索西美雷塞,2026,high,NMPA 创新药品名录
+higenamine/norcoclaurine,盐酸去甲乌药碱,2026,high,NMPA 创新药品名录
+andamertinib/PLB1004,苯甲酸安达艾替尼,2026,high,NMPA 创新药品名录
+fazamorexant/YZJ-1139,法赞雷生,2026,high,NMPA 创新药品名录
+SHR4640,鲁兹诺雷钠,2026,high,NMPA 创新药品名录
+rocbrutinib/LP-168,洛布替尼,2026,med,NMPA 创新药品名录
+conteltinib/SY-707,康特替尼,2026,med,NMPA 创新药品名录
+octohydroaminoacridine,琥珀酸安维吖啶,2026,high,NMPA 创新药品名录
+adamgammadex,阿更葡糖钠,2026,med,NMPA 创新药品名录
+HSK39297,琥珀酸思普可泮,2026,high,NMPA 创新药品名录
+tinengotinib/TT-00420,替恩戈替尼,2026,high,NMPA 创新药品名录
+fanregratinib/HMPL-453,酒石酸凡瑞格拉替尼,2026,med,NMPA 创新药品名录
+funobactam,注射用亚胺西福,2026,high,NMPA 创新药品名录 (with imipenem/cilastatin)
+sovleplenib/HMPL-523,醋酸索乐匹尼布,2026,high,NMPA 创新药品名录
+contezolid acefosamil,注射用乙磷康替唑胺钠,2026,high,NMPA 创新药品名录
+zastaprazan/JP-1366,扎司拉生,not approved,med,NDA accepted 2025-08
+ensitrelvir,恩赛特韦,not approved,med,no NMPA approval found
+hydronidone/F351,海卓尼酮,not approved,med,NDA priority review 2026-03
+benapenem,贝那培南,not approved,low,Phase 3 2022
+mefunidone,美氟尼酮,not approved,med,background knowledge
