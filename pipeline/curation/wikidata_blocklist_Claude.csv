@@ -1,0 +1,8 @@
+wikidata_label,reason
+urofollitropin,protein (urinary FSH); Wikidata item carries an unrelated cyclic nonapeptide SMILES
+follitropin,protein (FSH); out of scope
+pegaptanib,RNA aptamer (out of scope); Wikidata SMILES is only the PEG-linker fragment
+phosphatidylcholine,phospholipid class; SMILES contains wildcard atoms [*]
+peroxide,matched from zinc peroxide; SMILES is a bare peroxide with wildcard atoms [*]
+hypromellose,cellulose ether polymer; SMILES is one arbitrary oligomer fragment
+carboxymethyl cellulose,cellulose ether polymer; Wikidata SMILES is acetic acid + open-chain glucose

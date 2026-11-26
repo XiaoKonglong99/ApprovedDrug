@@ -126,6 +126,9 @@ def wikidata_pt(names, parents):
     for cid, p in parents.items():
         if p.get("inchikey"):
             ik2cid[p["inchikey"]] = cid
+    # Wikidata items whose structure is wrong or out of scope (proteins, RNA, polymers, wildcard SMILES)
+    block = set(pd.read_csv(ROOT / "pipeline" / "curation" / "wikidata_blocklist_Claude.csv").wikidata_label.str.lower())
+    h = h[~h.itemLabel.str.lower().isin(block)]
     by_lab = {}
     for lab, g in h.groupby("lab"):
         cids = {ik2cid.get(ik) for ik in g.ik.dropna()} - {None}

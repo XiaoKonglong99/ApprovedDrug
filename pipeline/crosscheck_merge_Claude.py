@@ -282,7 +282,8 @@ def main():
             words = set(re.findall(r"[a-z]+", r.Name.lower()))
             return (r.src != "VA", bool(words & SALT_WORDS), SRC_RANK[r.src], len(r.Name))
         best = min(g.itertuples(), key=name_rank)
-        name = best.Name
+        # spell out a leading Greek letter (Wikidata labels such as "β-lactose" are title-cased to "Β-Lactose")
+        name = re.sub(r"^[Αα](?=-)", "alpha", re.sub(r"^[Ββ](?=-)", "beta", re.sub(r"^[Γγ](?=-)", "gamma", best.Name)))
         # SMILES: ChEMBL-based (CL/GE agree 100%) first, else DeepSeek
         smi_row = min(g.itertuples(), key=lambda r: (SRC_RANK[r.src], name_rank(r)))
         rec = {"Name": name, "SMILES": smi_row.SMILES, "InChIKey": smi_row.ik,

@@ -12,7 +12,7 @@ import pandas as pd
 from rdkit import Chem
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))   # run from anywhere
-sys.path.insert(0, "MacrocycleWizard_CP")
+sys.path.insert(0, os.environ.get("MACROCYCLEWIZARD_DIR", "MacrocycleWizard_CP"))   # package location
 import MacrocycleWizard.MolD.base as mw_base
 from CalculateAll import calculate_molds
 

@@ -1,6 +1,6 @@
 # Approved & clinical small-molecule drugs: a three-agent build, cross-check and merge
 
-A table of **6,260 small-molecule drugs** with their **SMILES** and their status at six regulators:
+A table of **6,256 small-molecule drugs** with their **SMILES** and their status at six regulators:
 **FDA** (US), **EMA** (EU centralised), **EU national** authorities, **NMPA** (China), **PMDA** (Japan) and **ANVISA** (Brazil).
 It also records how the table was made. Three AI coding agents were given the same task, each built its own
 table, each then cross-checked all three, and the results were merged, checked online and extended.
@@ -25,7 +25,7 @@ Dexketoprofen,C[C@H](C(=O)O)c1cccc(C(=O)c2ccccc2)c1,NA,Stage 4,1996,Approved,NA,
 - **第三轮（Claude 补充修正）**：
   - 补上 Carrimycin（可利霉素，混合物，列出全部三种活性组分）和 2014–2026 年间漏掉的大批中国 1 类新药。漏掉的原因有两个：药监局更名（SFDA→CFDA→NMPA），以及中英文/INN 命名不一致。
   - 新增巴西 ANVISA 和欧盟成员国国家审批（EU_National）两列。
-  - 最后提取大环分子（MRS ≥ 12，196 个），并计算全部 MolDs 和 Onion 层级。
+  - 最后提取大环分子（MRS ≥ 12，195 个），并计算全部 MolDs 和 Onion 层级。
 
 ### 总结
 
@@ -184,6 +184,7 @@ Germany (BfArM), Italy (AIFA) and Sweden (MPA) do not publish dated bulk lists, 
 ### Smaller fixes
 
 - Removed somapacitan (a protein).
+- Some structures matched only through Wikidata labels were wrong or out of scope, e.g. ANVISA's *urofolitropina* (urinary FSH, a protein) had picked up an unrelated cyclic nonapeptide, and pegaptanib (an RNA aptamer) only its PEG linker. These Wikidata items are blocked in [`pipeline/curation/wikidata_blocklist_Claude.csv`](pipeline/curation/wikidata_blocklist_Claude.csv), which removed urofollitropin, pegaptanib, peroxide (wildcard SMILES), hypromellose and carboxymethyl cellulose (polymers) and restored invert sugar as its own row.
 - Restored platinum in lobaplatin and nedaplatin, whose agent SMILES had lost the metal. Added cisplatin and miriplatin, which no agent had because ChEMBL lists them without a small-molecule structure.
 - Molecules that came only from the new sources are filled from DrugCentral (the source DeepSeek used) for FDA/EMA/PMDA.
 - Every manual change, with its source, is in [`pipeline/curation/`](pipeline/curation): 66 cell overrides, 145 additions, 84 name aliases.
@@ -201,14 +202,14 @@ Germany (BfArM), Italy (AIFA) and Sweden (MPA) do not publish dated bulk lists, 
 
 | Column | Year | Approved (no year) | Trial stage only | NA |
 |---|---|---|---|---|
-| FDA | 2,025 | 132 | 2,650 | 1,453 |
-| EMA (centralised) | 730 | 0 | 2,444 | 3,086 |
-| EU_National | 1,239 | 844 | 1,811 | 2,366 |
-| NMPA | 718 | 998 | 715 | 3,829 |
-| PMDA | 542 | 933 | 567 | 4,218 |
-| ANVISA | 1,181 | 366 | 482 | 4,231 |
+| FDA | 2,024 | 132 | 2,650 | 1,450 |
+| EMA (centralised) | 730 | 0 | 2,444 | 3,082 |
+| EU_National | 1,239 | 844 | 1,811 | 2,362 |
+| NMPA | 717 | 998 | 715 | 3,826 |
+| PMDA | 542 | 933 | 567 | 4,214 |
+| ANVISA | 1,176 | 366 | 482 | 4,232 |
 
-- **6,260** molecules: 3,579 approved by at least one regulator, 2,681 in clinical trials only, 231 approved by all six.
+- **6,256** molecules: 3,575 approved by at least one regulator, 2,681 in clinical trials only, 231 approved by all six.
 - **Scope**: small molecules up to 2,000 Da. Salts and hydrates are folded into the parent, and the SMILES is the parent structure. Proteins, antibodies, oligonucleotides, cells and gene therapies are excluded; ChEMBL classes cyclic peptides such as ciclosporin as proteins, so most of those are excluded too. Esters and prodrugs that are separate drugs stay separate rows (e.g. tenofovir alafenamide).
 - **Mixtures** are listed one row per active component when the components are defined (Carrimycin).
 
@@ -234,9 +235,9 @@ Uses the MacrocycleWizard package (not included here; it has its own repository)
 |---|---|
 | `[BEST]ApprovedDrug_CT_2026Nov.csv` | copy of the final table |
 | `[BEST]ApprovedDrug_CT_2026Nov_isMC.csv` | + `MRS` (macrocycle ring size: bonds in the largest ring after stripping substituents) and `is_MC` (MRS ≥ 12) |
-| `ApprovedDrug_CT_2026Nov_MC_only.csv` | the **196** macrocycles (MRS 12–36; e.g. the three Carrimycin components and utidelone, MRS 16; sirolimus, MRS 29) |
+| `ApprovedDrug_CT_2026Nov_MC_only.csv` | the **195** macrocycles (MRS 12–36; e.g. the three Carrimycin components and utidelone, MRS 16; sirolimus, MRS 29) |
 | `ApprovedDrug_CT_2026Nov_MC_MolDs_Onion.csv` | all **151 MolDs** (groups A–K) and the **Macrocycle Onion** layer SMILES (ring, peripheral, substituent, …) for every macrocycle; 0 failures |
-| `ApprovedDrug_CT_2026Nov_MC_routes.csv` | **route of administration** per macrocycle with the evidence from each source; the class (`Route_Class`: Oral 80 / Injection 84 / Oral + Injection 24 / Non-oral (other) 8), `Routes` and `Route_Source` are also added to the two macrocycle files above |
+| `ApprovedDrug_CT_2026Nov_MC_routes.csv` | **route of administration** per macrocycle with the evidence from each source; the class (`Route_Class`: Oral 80 / Injection 83 / Oral + Injection 24 / Non-oral (other) 8), `Routes` and `Route_Source` are also added to the two macrocycle files above |
 
 `add_route_info.py` decides the route from marketed products for approved drugs (Drugs@FDA, EMA Article 57, France ANSM, Chinese product dosage forms), from ClinicalTrials.gov intervention descriptions for trial-only compounds, and from ChEMBL route flags as a last resort; 38 doubtful cases were checked online (`route_overrides_Claude.csv`).
 

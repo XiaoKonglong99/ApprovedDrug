@@ -15,6 +15,9 @@ _ch = json.load(gzip.open(HERE.parents[1] / "data" / "raw" / "chembl_molecules.j
 _ik2smi = {c["inchikey"]: c["smiles"] for c in _ch if c.get("inchikey") and c.get("smiles")}
 h["smiles"] = h.ismi.fillna(h.smi).fillna(h.ik.map(_ik2smi))
 h = h[h.smiles.notna()]
+# Wikidata items whose structure is wrong or out of scope (proteins, RNA, polymers, wildcard SMILES)
+_block = set(pd.read_csv(HERE.parents[1] / "pipeline" / "curation" / "wikidata_blocklist_Claude.csv").wikidata_label.str.lower())
+h = h[~h.itemLabel.str.lower().isin(_block)]
 
 def parent(smi):
     m = Chem.MolFromSmiles(smi)

@@ -5,6 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 PY=${PY:-python3}                  # pandas + rdkit + requests + openpyxl
 WIZARD_PY=${WIZARD_PY:-python3}    # an environment that can import MacrocycleWizard (needs IPython)
+export MACROCYCLEWIZARD_DIR=${MACROCYCLEWIZARD_DIR:-$PWD/App_CT_MC/MacrocycleWizard_CP}   # MacrocycleWizard checkout
 
 echo "== China: rescue NMPA records through their Chinese names"
 $PY pipeline/nmpa_fix/clean_zh.py

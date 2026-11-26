@@ -180,7 +180,6 @@ Troleandomycin,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHE
 Tubocurarine,Injection,injection,marketed products: FDA,injection,,,,,,,,False,True,False,CHEMBL339427,True
 Ulevostinag,Injection,injection,"clinical trials (NCT03010176, NCT04220866)",,,,,2,0,2,0,False,False,False,CHEMBL5095200,False
 Ulimorelin,Injection,intravenous,"clinical trials (NCT01285570, NCT01405612, NCT01296620)",,,,,4,0,4,0,False,False,False,CHEMBL1963249,False
-Urofollitropin,Injection,intramuscular; subcutaneous; injection,"marketed products: FDA, EU-A57, China",intramuscular; subcutaneous,intramuscular; subcutaneous,,injection,,,,,,,,,True
 Utidelone,Injection,intravenous,verified: high: approved product 优替德隆注射液 (NMPA 2021); oral capsule only investigational,,,,,29,14,21,1,False,False,False,CHEMBL96172,True
 Vancomycin,Oral + Injection,oral; intravenous; injection,"marketed products: FDA, EU-A57, France, China",oral; intravenous; injection,oral; intravenous,oral; intravenous,injection,,,,,True,True,False,CHEMBL262777,True
 Vaniprevir,Oral,oral,"clinical trials (NCT00943761, NCT00895882, NCT01405937)",,,,,9,9,0,1,False,False,False,CHEMBL4525964,True

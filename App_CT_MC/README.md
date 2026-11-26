@@ -10,11 +10,11 @@ python add_route_info.py          # adds Route_Class / Routes / Route_Source to 
 ```
 
 - `MRS` = MacrocycleWizard's macrocycle ring size (bonds in the largest SSSR ring after stripping substituents);
-  `is_MC` = MRS >= 12. 196 of 6,260 molecules are macrocycles.
+  `is_MC` = MRS >= 12. 195 of 6,256 molecules are macrocycles.
 - The MolDs file has all 151 descriptors (groups A–K) plus the Macrocycle Onion layer SMILES, 0 failures.
 - **Route of administration** (macrocycles only), columns inserted after `ANVISA` in
   `ApprovedDrug_CT_2026Nov_MC_only.csv` and `ApprovedDrug_CT_2026Nov_MC_MolDs_Onion.csv`:
-  - `Route_Class`: `Oral` (80), `Injection` (84), `Oral + Injection` (24), `Non-oral (other)` (8: only topical,
+  - `Route_Class`: `Oral` (80), `Injection` (83), `Oral + Injection` (24), `Non-oral (other)` (8: only topical,
     ophthalmic, nasal, vaginal… products, e.g. pimecrolimus, natamycin, lypressin).
   - `Routes`: routes found, e.g. `oral; intravenous`. `Route_Source`: the evidence that decided it.
   - Approved drugs: routes of marketed products from Drugs@FDA, EMA Article 57 (a route counts only if
@@ -25,4 +25,5 @@ python add_route_info.py          # adds Route_Class / Routes / Route_Source to 
   - 38 doubtful or unresolved compounds were checked online; corrections and sources are in
     `route_overrides_Claude.csv`. Per-source evidence for every compound: `ApprovedDrug_CT_2026Nov_MC_routes.csv`.
     Online lookups are cached in `route_cache/`.
-- Put MacrocycleWizard in `MacrocycleWizard_CP/` next to these scripts (it is git-ignored).
+- Put MacrocycleWizard in `MacrocycleWizard_CP/` next to these scripts (it is git-ignored), or point
+  `MACROCYCLEWIZARD_DIR` at a MacrocycleWizard checkout.
