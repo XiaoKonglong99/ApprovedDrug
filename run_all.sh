@@ -23,3 +23,5 @@ echo "== Macrocycles (MRS >= 12) + MolDs / Onion layers"
 cp "[BEST]final_small_molecule_drugs_Claude.csv" "App_CT_MC/[BEST]ApprovedDrug_CT_2026Nov.csv"
 $WIZARD_PY App_CT_MC/flag_macrocycles.py
 $WIZARD_PY App_CT_MC/calc_mc_molds_onion.py
+echo "== Macrocycles: oral vs non-oral route"
+$PY App_CT_MC/add_route_info.py

@@ -236,6 +236,9 @@ Uses the MacrocycleWizard package (not included here; it has its own repository)
 | `[BEST]ApprovedDrug_CT_2026Nov_isMC.csv` | + `MRS` (macrocycle ring size: bonds in the largest ring after stripping substituents) and `is_MC` (MRS ≥ 12) |
 | `ApprovedDrug_CT_2026Nov_MC_only.csv` | the **196** macrocycles (MRS 12–36; e.g. the three Carrimycin components and utidelone, MRS 16; sirolimus, MRS 29) |
 | `ApprovedDrug_CT_2026Nov_MC_MolDs_Onion.csv` | all **151 MolDs** (groups A–K) and the **Macrocycle Onion** layer SMILES (ring, peripheral, substituent, …) for every macrocycle; 0 failures |
+| `ApprovedDrug_CT_2026Nov_MC_routes.csv` | **route of administration** per macrocycle with the evidence from each source; the class (`Route_Class`: Oral 80 / Injection 84 / Oral + Injection 24 / Non-oral (other) 8), `Routes` and `Route_Source` are also added to the two macrocycle files above |
+
+`add_route_info.py` decides the route from marketed products for approved drugs (Drugs@FDA, EMA Article 57, France ANSM, Chinese product dosage forms), from ClinicalTrials.gov intervention descriptions for trial-only compounds, and from ChEMBL route flags as a last resort; 38 doubtful cases were checked online (`route_overrides_Claude.csv`).
 
 `calc_mc_molds_onion.py` calls MacrocycleWizard's `CalculateAll` without modifying the package. It adds one fallback: when cutting off a substituent splits an aromatic system that RDKit cannot kekulize (e.g. rifaximin), it kekulizes the whole molecule first.
 
@@ -243,7 +246,7 @@ Uses the MacrocycleWizard package (not included here; it has its own repository)
 
 ```bash
 pip install -r requirements.txt
-./run_all.sh                      # China rescue -> China list -> ANVISA -> EU national -> merge -> macrocycles
+./run_all.sh                      # China rescue -> China list -> ANVISA -> EU national -> merge -> macrocycles -> routes
 ```
 
 - `run_all.sh` uses the caches in `data/` and `pipeline/*/raw/` when present. Otherwise it downloads ANVISA open data, ANSM BDPM, AEMPS CIMA, the EMA Article 57 workbook, and ChEMBL / ClinicalTrials.gov through Claude's round-1 loader; the last one takes about 15 minutes.

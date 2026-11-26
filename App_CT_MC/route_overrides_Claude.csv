@@ -1,0 +1,39 @@
+Name,Route_Class,Routes,source
+Caspofungin,Injection,intravenous,high: DailyMed Cancidas label (IV only)
+Micafungin,Injection,intravenous,high: DailyMed Mycamine label (IV only)
+Colistimethate sodium,Injection,intravenous; intramuscular; inhaled/nasal,high: DailyMed Coly-Mycin M; Promixin SmPC (oral colistin is the sulfate salt)
+Utidelone,Injection,intravenous,high: approved product 优替德隆注射液 (NMPA 2021); oral capsule only investigational
+Mecobalamin,Oral + Injection,oral; intramuscular; intravenous,high: PMDA Methycobal tablets and injection
+Cepharanthine,Oral + Injection,oral; intravenous; subcutaneous,"med: PMDA/Kaken Cepharanthin tablets, powder and injection"
+Mannatide,Oral + Injection,oral; intramuscular; intravenous,high: NMPA 甘露聚糖肽 tablets/capsules/oral solution and injection
+Oleandomycin,Oral + Injection,oral; intravenous; intramuscular,"med: Martindale; historic Matromycin oral, phosphate IV/IM; no current human products"
+Spiramycin,Oral + Injection,oral; intravenous,med: ANSM BDPM Rovamycine tablets and IV 1.5 MUI
+Berbamine,Oral,oral,med: 盐酸小檗胺片 (tablets); not confirmed online
+Depreotide,Injection,intravenous,high: FDA NeoTect label
+Copper dotatate Cu-64,Injection,intravenous,high: DailyMed Detectnet
+Fusafungine,Non-oral (other),inhaled/nasal; other mucosal,high: EMA 2016 Art.31 referral (nasal/oromucosal spray)
+Rifamide,Injection,intramuscular; intravenous,med: Martindale / Merck Index (Rifocin-M)
+Zurletrectinib,Oral,oral,high: InnoCare NMPA approval / trials
+Amcipatricin,Injection,intravenous,med: PMC4928195 human pilot (IV); inhaled form in development
+Bocodepsin,Oral,oral,high: NCT03931681
+Ciaftalan,Injection,intravenous,med: CGP 55847 liposomal IV photosensitizer
+Ct-1578,Oral,oral,"med: SB1578 oral JAK2/FLT3 inhibitor, NCT01329991"
+Dota-Noc,Injection,intravenous,high: Ga-68 DOTANOC IV PET agent (EANM guideline)
+Enbezotinib,Oral,oral,high: NCT04161391
+Gamitrinib,Injection,intravenous,high: NCT04827810
+Glasmacinal,Oral,oral,high: EpiEndo EP395 trials
+Kosn-1724,Injection,intravenous,"med: iso-fludelone (epothilone), NCT01379287"
+Lff-571,Oral,oral,high: NCT01232595
+Mitemcinal,Oral,oral,high: gastroparesis trials (PubMed)
+Modithromycin,Oral,oral,high: Enanta/Shionogi EDP-420
+Murizatoclax,Oral,oral,"med: AMG 397, NCT03465540"
+Rifalazil,Oral,oral,high: ActivBiotics trials (PubMed)
+Tapotoclax,Injection,intravenous,"high: AMG 176, NCT02675452"
+Zosurabalpin,Injection,intravenous,high: Roche phase 1 (Nature 2024)
+Zotizalkib,Oral,oral,"high: TPX-0131 FORGE-1, NCT04849273"
+E-7766,Injection,other injection,"high: intratumoral injection, NCT04144140"
+Azd-5991,Injection,intravenous,high: NCT03218683 (IV only)
+Nafithromycin,Oral,oral,high: Miqnaf oral tablets (India 2025)
+Ridaforolimus,Oral + Injection,oral; intravenous,"high: IV in early trials, oral in phase 3; never approved"
+Teicoplanin,Oral + Injection,oral; intravenous; intramuscular,high: Targocid SmPC (oral for C. difficile)
+Amphotericin B,Oral + Injection,oral; intravenous; topical,med-high: DailyMed IV forms; oral suspension/lozenges in some countries

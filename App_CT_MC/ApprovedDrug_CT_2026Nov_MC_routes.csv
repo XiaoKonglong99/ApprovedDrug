@@ -1,0 +1,197 @@
+Name,Route_Class,Routes,Route_Source,FDA_routes,EU_A57_routes,France_routes,China_routes,Trial_studies_with_route,Trial_studies_oral,Trial_studies_injection,Trial_studies_other,ChEMBL_oral,ChEMBL_parenteral,ChEMBL_topical,ChEMBL_ID,Approved_somewhere
+Abbv-467,Injection,intravenous,clinical trials (NCT04178902),,,,,1,0,1,0,False,False,False,CHEMBL6033457,False
+Acetylkitasamycin,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL2106399,True
+Acetylspiramycin,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Adrabetadex,Injection,injection,marketed products: FDA,injection,,,,,,,,,,,,True
+Alvespimycin,Injection,intravenous,"clinical trials (NCT01126502, NCT00089271, NCT00803556)",,,,,5,0,5,0,False,False,False,CHEMBL383824,False
+Amcipatricin,Injection,intravenous,verified: med: PMC4928195 human pilot (IV); inhaled form in development,,,,,,0,0,0,False,False,False,CHEMBL1616008,False
+Amphotericin B,Oral + Injection,oral; intravenous; topical,verified: med-high: DailyMed IV forms; oral suspension/lozenges in some countries,oral; injection; topical,intravenous,oral; intravenous,oral; other mucosal,,,,,True,True,True,CHEMBL267345,True
+Anidulafungin,Injection,intravenous; injection,"marketed products: FDA, EU-A57, France",intravenous; injection,intravenous,intravenous,,,,,,False,True,False,CHEMBL264241,True
+Atosiban,Injection,intravenous,marketed products: EU-A57,,intravenous,,,,,,,,,,,True
+Azd-5991,Injection,intravenous,verified: high: NCT03218683 (IV only),,,,,2,1,2,0,False,False,False,CHEMBL4297482,False
+Azithromycin,Oral + Injection,oral; intravenous; injection; ophthalmic,"marketed products: FDA, EU-A57, France, China",oral; injection; ophthalmic,oral; intravenous,oral; ophthalmic,oral; injection,,,,,True,True,True,CHEMBL529,True
+Azitromycin,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Bacitracin,Injection,injection; topical; ophthalmic,"marketed products: FDA, EU-A57",injection; topical; ophthalmic,topical,,,,,,,,,,,True
+Berbamine,Oral,oral,verified: med: 盐酸小檗胺片 (tablets); not confirmed online,,,,,,0,0,0,,,,,True
+Bocodepsin,Oral,oral,verified: high: NCT03931681,,,,,,0,0,0,False,False,False,CHEMBL5314581,False
+Bremelanotide,Injection,subcutaneous,marketed products: FDA,subcutaneous,,,,,,,,,,,,True
+Bryostatin 1,Injection,intravenous,"clinical trials (NCT00022555, NCT02221947, NCT00058305)",,,,,17,0,17,0,False,False,False,CHEMBL449158,False
+Candicidin,Non-oral (other),other mucosal,marketed products: FDA,other mucosal,,,,,,,,,,,,True
+Capreomycin,Injection,injection,"marketed products: FDA, China",injection,,,injection,,,,,,,,,True
+Carbetocin,Injection,intravenous; intramuscular; injection,"marketed products: EU-A57, China",,intravenous; intramuscular,,injection,,,,,,,,,True
+Carrimycin component: Isovalerylspiramycin I,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Carrimycin component: Isovalerylspiramycin II,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Carrimycin component: Isovalerylspiramycin III,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Caspofungin,Injection,intravenous,verified: high: DailyMed Cancidas label (IV only),intravenous,intravenous,intravenous,,,,,,False,True,False,CHEMBL1630575,True
+Cepharanthine,Oral + Injection,oral; intravenous; subcutaneous,"verified: med: PMDA/Kaken Cepharanthin tablets, powder and injection",,,,,1,1,0,0,False,False,False,CHEMBL449782,True
+Cethromycin,Oral,oral,"clinical trials (NCT00336544, NCT00336505)",,,,,2,2,0,0,False,False,False,CHEMBL3989904,False
+Chlorophyllin copper,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Ciaftalan,Injection,intravenous,verified: med: CGP 55847 liposomal IV photosensitizer,,,,,,0,0,0,False,False,False,CHEMBL262101,False
+Clarithromycin,Oral + Injection,oral; intravenous,"marketed products: FDA, EU-A57, France, China",oral,oral; intravenous,oral; intravenous,oral,,,,,True,False,False,CHEMBL1741,True
+Cobamamide,Oral + Injection,oral; intramuscular; subcutaneous; injection,"marketed products: EU-A57, China",,oral; intramuscular; subcutaneous,,injection,,,,,,,,,True
+Colistimethate sodium,Injection,intravenous; intramuscular; inhaled/nasal,verified: high: DailyMed Coly-Mycin M; Promixin SmPC (oral colistin is the sulfate salt),injection,intravenous; other injection; inhaled/nasal,,,,,,,,,,,True
+Colistin,Oral + Injection,oral; intravenous; intramuscular; inhaled/nasal; other mucosal,"marketed products: FDA, EU-A57",oral; other mucosal,oral; intravenous; intramuscular; inhaled/nasal,,,,,,,,,,,True
+Copper dotatate Cu-64,Injection,intravenous,verified: high: DailyMed Detectnet,,,,,,0,0,0,,,,,True
+Ct-1578,Oral,oral,"verified: med: SB1578 oral JAK2/FLT3 inhibitor, NCT01329991",,,,,,0,0,0,False,False,False,CHEMBL2035185,False
+Cyanocobalamin,Oral + Injection,oral; intravenous; intramuscular; injection; inhaled/nasal,"marketed products: FDA, EU-A57",oral; intravenous; injection; inhaled/nasal,oral; intravenous; intramuscular,,,,,,,,,,,True
+Cyclosporine,Oral + Injection,oral; intravenous; injection; ophthalmic,"marketed products: FDA, EU-A57, China",oral; injection; ophthalmic,oral; intravenous; ophthalmic,,oral; injection; ophthalmic,,,,,,,,,True
+Dactinomycin,Injection,intravenous; injection,"marketed products: FDA, EU-A57, China",injection,intravenous,,injection,,,,,,,,,True
+Dalbavancin,Injection,intravenous,"marketed products: FDA, EU-A57",intravenous,intravenous,,,,,,,,,,,True
+Dalfopristin,Injection,intravenous; injection,marketed products: FDA,intravenous; injection,,,,,,,,False,True,False,CHEMBL1200937,True
+Danoprevir,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL258734,True
+Daptomycin,Injection,intravenous,"marketed products: FDA, EU-A57, France",intravenous,intravenous,intravenous,,,,,,False,True,False,CHEMBL387675,True
+Daraxonrasib,Oral,oral,marketed products: FDA,oral,,,,,,,,,,,,True
+Dazostinag,Injection,intravenous,clinical trials (NCT04420884),,,,,1,0,1,0,False,False,False,CHEMBL6067966,False
+Depreotide,Injection,intravenous,verified: high: FDA NeoTect label,,,,,,0,0,0,,,,,True
+Desmopressin,Oral + Injection,oral; injection; inhaled/nasal; other mucosal,"marketed products: FDA, EU-A57, China",oral; injection; inhaled/nasal; other mucosal,oral; inhaled/nasal; other mucosal,,injection,,,,,,,,,True
+Dirithromycin,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL1237072,True
+Dota-Noc,Injection,intravenous,verified: high: Ga-68 DOTANOC IV PET agent (EANM guideline),,,,,,0,0,0,False,False,False,CHEMBL4297373,False
+E-6201,Injection,intravenous; topical,"clinical trials (NCT00539929, NCT02418000, NCT01268527)",,,,,6,1,4,2,False,False,False,CHEMBL1097999,False
+E-7130,Injection,intravenous,clinical trials (NCT03444701),,,,,1,0,1,0,False,False,False,CHEMBL4802148,False
+E-7766,Injection,other injection,"verified: high: intratumoral injection, NCT04144140",,,,,2,1,1,0,False,False,False,CHEMBL5095233,False
+E7107,Injection,intravenous,"clinical trials (NCT00459823, NCT00499499)",,,,,2,0,2,0,False,False,False,CHEMBL4297278,False
+Edotreotide,Injection,intravenous,"marketed products: EU-A57, France",,intravenous,intravenous,,,,,,False,False,False,CHEMBL408350,True
+Elzovantinib,Oral,oral,clinical trials (NCT03993873),,,,,1,1,0,0,False,False,False,CHEMBL5095061,False
+Emodepside,Oral,oral,"clinical trials (NCT06800248, NCT03383523, NCT06373835)",,,,,6,6,0,0,False,False,False,CHEMBL2104404,False
+Enbezotinib,Oral,oral,verified: high: NCT04161391,,,,,,0,0,0,False,False,False,CHEMBL5095062,False
+Enlicitide decanoate,Oral,oral,marketed products: FDA,oral,,,,,,,,,,,,True
+Epoetin alfa,Injection,intravenous; subcutaneous; topical,marketed products: EU-A57,,intravenous; subcutaneous; topical,,,,,,,,,,,True
+Eptifibatide,Injection,intravenous; injection,"marketed products: FDA, EU-A57",injection,intravenous,,,,,,,,,,,True
+Eribulin,Injection,intravenous; injection,"marketed products: FDA, EU-A57, France, China",intravenous,intravenous,intravenous,injection,,,,,False,True,False,CHEMBL1683590,True
+Erythromycin,Oral + Injection,oral; intravenous; injection; topical; ophthalmic,"marketed products: FDA, EU-A57, France, China",oral; injection; topical; ophthalmic,oral; intravenous; topical,oral; intravenous; topical,oral; ophthalmic,,,,,True,True,True,CHEMBL532,True
+Erythromycin cyclocarbonate,Oral,oral; topical,"marketed products: EU-A57, China",,oral; topical,,oral,,,,,,,,,True
+Erythromycin Ethylsuccinate,Oral,oral,"marketed products: FDA, EU-A57, China",oral,oral,,oral,,,,,True,False,False,CHEMBL1200688,True
+Erythromycin Propionate,Oral,oral,"marketed products: FDA, EU-A57, China",oral,oral,,oral,,,,,True,False,False,CHEMBL2220427,True
+Everolimus,Oral,oral,"marketed products: FDA, EU-A57, France, China",oral,oral,oral,oral,,,,,True,False,False,CHEMBL1908360,True
+Exeporfinium,Non-oral (other),topical; inhaled/nasal,clinical trials (NCT03915470),,,,,1,0,0,1,False,False,False,CHEMBL3824393,False
+Fidaxomicin,Oral,oral,"marketed products: FDA, EU-A57, France",oral,oral,oral,,,,,,True,False,False,CHEMBL1255800,True
+Flotufolastat,Injection,intravenous,"clinical trials (NCT04186845, NCT07164027, NCT05779943)",,,,,20,0,19,1,False,False,False,CHEMBL5316155,True
+Flotufolastat F 18,Injection,intravenous,marketed products: FDA,intravenous,,,,,,,,False,False,False,CHEMBL5314558,True
+Furaprevir,Oral,oral,clinical trials (NCT03610867),,,,,1,1,0,0,False,False,False,CHEMBL4297647,False
+Fusafungine,Non-oral (other),inhaled/nasal; other mucosal,verified: high: EMA 2016 Art.31 referral (nasal/oromucosal spray),,,,,,0,0,0,,,,,True
+Gadobutrol,Injection,intravenous; injection,"marketed products: FDA, EU-A57, China",intravenous,intravenous,,injection,,,,,,,,,True
+Gadopiclenol,Injection,intravenous,"marketed products: FDA, EU-A57",intravenous,intravenous,,,,,,,,,,,True
+Gadoquatrane,Injection,intravenous,marketed products: FDA,intravenous,,,,,,,,,,,,True
+Gadoteridol,Injection,intravenous; injection,"marketed products: FDA, EU-A57, China",injection,intravenous,,injection,,,,,False,False,False,CHEMBL1615776,True
+Gamitrinib,Injection,intravenous,verified: high: NCT04827810,,,,,,0,0,0,False,False,False,CHEMBL4646511,False
+Geldanamycin,Oral,oral,clinical trials (NCT01193491),,,,,1,1,0,0,False,False,False,CHEMBL278315,False
+Glasmacinal,Oral,oral,verified: high: EpiEndo EP395 trials,,,,,,0,0,0,False,False,False,CHEMBL6068055,False
+Glecaprevir,Oral,oral,"marketed products: FDA, EU-A57, France",oral,oral,oral,,,,,,True,False,False,CHEMBL3545363,True
+Grazoprevir,Oral,oral,"marketed products: FDA, EU-A57, France",oral,oral,oral,,,,,,True,False,False,CHEMBL2063090,True
+Gs-9256,Oral,oral,clinical trials (NCT01225380),,,,,1,1,0,0,False,False,False,CHEMBL1956820,False
+Hemoporfin,Injection,injection,marketed products: China,,,,injection,,,,,False,False,False,CHEMBL403729,True
+Hpph,Injection,intravenous,"clinical trials (NCT01140178, NCT00470496, NCT03757754)",,,,,13,0,13,0,False,False,False,CHEMBL500853,False
+Hydroxocobalamin,Injection,intravenous; intramuscular; subcutaneous; injection,"marketed products: FDA, EU-A57, China",injection,intravenous; intramuscular; subcutaneous,,injection,,,,,,,,,True
+Hydroxocobalamin acetate,Oral + Injection,oral; intravenous; intramuscular; subcutaneous; injection,"marketed products: FDA, EU-A57",injection,oral; intravenous; intramuscular; subcutaneous,,,,,,,,,,,True
+Icotinib,Oral,oral,"clinical trials (NCT02215356, NCT04206072, NCT01040780)",,,,,65,57,9,5,False,False,False,CHEMBL2087361,True
+Icotrokinra,Oral,oral,"marketed products: FDA, EU-A57",oral,oral,,,,,,,,,,,True
+Isotetrandrine,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL504757,False
+Ivermectin,Oral,oral; topical,"marketed products: FDA, EU-A57, China",oral; topical,oral; topical,,oral,,,,,,,,,True
+Ixabepilone,Injection,intravenous,marketed products: FDA,intravenous,,,,,,,,False,True,False,CHEMBL1201752,True
+Josamycin,Oral,oral; other mucosal,"marketed products: EU-A57, France, China",,oral; other mucosal,oral,oral,,,,,False,False,False,CHEMBL224436,True
+Kitasamycine,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL2106399,True
+Kos-1584,Injection,intravenous,clinical trials (NCT00651508),,,,,1,0,1,0,False,False,False,CHEMBL4297296,False
+Kosn-1724,Injection,intravenous,"verified: med: iso-fludelone (epothilone), NCT01379287",,,,,,0,0,0,False,False,False,CHEMBL4297393,False
+Lanreotide,Injection,subcutaneous; injection,"marketed products: FDA, EU-A57, China",subcutaneous,subcutaneous,,injection,,,,,,,,,True
+Lemuteporfin,Injection,injection; topical,"clinical trials (NCT01490736, NCT00116571)",,,,,2,0,1,1,False,False,False,CHEMBL2107756,False
+Lff-571,Oral,oral,verified: high: NCT01232595,,,,,,0,0,0,False,False,False,CHEMBL2063705,False
+Linaclotide,Oral,oral,"marketed products: FDA, EU-A57, China",oral,oral,,oral,,,,,,,,,True
+Lorlatinib,Oral,oral,"marketed products: FDA, EU-A57, France",oral,oral,oral,,,,,,True,False,False,CHEMBL3286830,True
+Lutetium (177Lu) oxodotreotide,Injection,intravenous,marketed products: EU-A57,,intravenous,,,,,,,,,,,True
+Lutetium (177Lu) vipivotide tetraxetan,Injection,intravenous,marketed products: EU-A57,,intravenous,,,,,,,,,,,True
+Lypressin,Non-oral (other),inhaled/nasal,marketed products: FDA,inhaled/nasal,,,,,,,,,,,,True
+Mannatide,Oral + Injection,oral; intramuscular; intravenous,verified: high: NMPA 甘露聚糖肽 tablets/capsules/oral solution and injection,,,,injection,,,,,,,,,True
+Mecobalamin,Oral + Injection,oral; intramuscular; intravenous,verified: high: PMDA Methycobal tablets and injection,,,,oral,,,,,,,,,True
+Metocurine,Injection,injection,marketed products: FDA,injection,,,,,,,,False,True,False,CHEMBL1259,True
+Micafungin,Injection,intravenous,verified: high: DailyMed Mycamine label (IV only),intravenous; injection,intravenous,intravenous,injection,,,,,False,True,False,CHEMBL457547,True
+Midecamycin,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL444963,True
+Midecamycin acetate,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL1091024,True
+Milvexian,Oral,oral,"clinical trials (NCT05706753, NCT04388501, NCT05757869)",,,,,8,8,0,0,False,False,False,CHEMBL4112929,False
+Mitemcinal,Oral,oral,verified: high: gastroparesis trials (PubMed),,,,,,0,0,0,False,False,False,CHEMBL2110756,False
+Modithromycin,Oral,oral,verified: high: Enanta/Shionogi EDP-420,,,,,,0,0,0,False,False,False,CHEMBL263886,False
+Motexafin,Injection,intravenous,"clinical trials (NCT00004262, NCT00005067, NCT00087191)",,,,,16,0,16,0,False,False,False,CHEMBL2104414,False
+Moxidectin,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL2104415,True
+Murizatoclax,Oral,oral,"verified: med: AMG 397, NCT03465540",,,,,,0,0,0,False,False,False,CHEMBL4650225,False
+Nafithromycin,Oral,oral,verified: high: Miqnaf oral tablets (India 2025),,,,,3,2,2,0,False,False,False,CHEMBL4297519,False
+Natamycin,Non-oral (other),topical; ophthalmic; other mucosal,"marketed products: FDA, EU-A57, China",ophthalmic,topical; other mucosal,,ophthalmic,,,,,False,False,True,CHEMBL1200656,True
+Neladalkib,Oral,oral,marketed products: FDA,oral,,,,,,,,False,False,False,CHEMBL6068023,True
+Norvancomycin,Injection,injection,marketed products: China,,,,injection,,,,,,,,,True
+Nystatin,Oral,oral; topical; other mucosal,"marketed products: FDA, EU-A57, China",oral; topical; other mucosal,oral; topical; other mucosal,,oral,,,,,,,,,True
+Obp-801,Injection,intravenous,clinical trials (NCT02414516),,,,,1,0,1,0,False,False,False,CHEMBL3126832,False
+Octreotide,Oral + Injection,oral; intravenous; intramuscular; subcutaneous; injection,"marketed products: FDA, EU-A57, China",oral; subcutaneous; injection,intravenous; intramuscular; subcutaneous,,injection,,,,,,,,,True
+Odalasvir,Oral,oral,"clinical trials (NCT02765490, NCT02961660, NCT02569710)",,,,,8,8,0,0,False,False,False,CHEMBL3544977,False
+Oleandomycin,Oral + Injection,oral; intravenous; intramuscular,"verified: med: Martindale; historic Matromycin oral, phosphate IV/IM; no current human products",,other mucosal,,,,,,,False,False,False,CHEMBL606258,True
+Oritavancin,Injection,intravenous,"marketed products: FDA, EU-A57, France",intravenous,intravenous,intravenous,,,,,,False,True,False,CHEMBL1688530,True
+Otx-008,Injection,subcutaneous,clinical trials (NCT01724320),,,,,1,0,1,0,False,False,False,CHEMBL221186,False
+Oxytocin,Injection,intravenous; intramuscular; injection; inhaled/nasal,"marketed products: FDA, EU-A57, China",injection; inhaled/nasal,intravenous; intramuscular,,injection,,,,,,,,,True
+Pacritinib,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL2035187,True
+Padeliporfin,Injection,intravenous,marketed products: EU-A57,,intravenous,,,,,,,,,,,True
+Paritaprevir,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL3391662,True
+Pasireotide,Injection,intramuscular; subcutaneous; injection,"marketed products: FDA, EU-A57, China",intramuscular; subcutaneous,intramuscular; subcutaneous,,injection,,,,,,,,,True
+Patupilone,Injection,intravenous,"clinical trials (NCT00273312, NCT00496600, NCT00450866)",,,,,6,1,6,0,False,False,False,CHEMBL94657,False
+Pimecrolimus,Non-oral (other),topical,"marketed products: FDA, EU-A57, China",topical,topical,,topical,,,,,False,False,True,CHEMBL1200686,True
+Plecanatide,Oral,oral,marketed products: FDA,oral,,,,,,,,,,,,True
+Plerixafor,Injection,intravenous; subcutaneous; injection,"marketed products: FDA, EU-A57, France, China",subcutaneous,intravenous; subcutaneous,subcutaneous,injection,,,,,False,True,False,CHEMBL18442,True
+Plitidepsin,Injection,intravenous,"clinical trials (NCT00229203, NCT00788099, NCT00884286)",,,,,14,4,14,0,False,False,False,CHEMBL451930,False
+Primycin,Non-oral (other),topical,marketed products: EU-A57,,topical,,,,,,,False,False,False,CHEMBL2104433,True
+Quinupristin,Injection,intravenous; injection,marketed products: FDA,intravenous; injection,,,,,,,,False,True,False,CHEMBL1200649,True
+Rencofilstat,Oral,oral; topical,"clinical trials (NCT05402371, NCT05461105, NCT05737433)",,,,,3,3,0,2,False,False,False,CHEMBL4297487,False
+Repotrectinib,Oral,oral,"marketed products: FDA, EU-A57",oral,oral,,,,,,,True,False,False,CHEMBL4298138,True
+Retaspimycin,Injection,intravenous,clinical trials (NCT00688766),,,,,1,0,1,0,False,False,False,CHEMBL1184904,False
+Rezafungin,Injection,intravenous,"marketed products: FDA, EU-A57, France",intravenous,intravenous,intravenous,,,,,,False,True,False,CHEMBL3989945,True
+Ridaforolimus,Oral + Injection,oral; intravenous,"verified: high: IV in early trials, oral in phase 3; never approved",,,,,33,24,13,0,False,False,False,CHEMBL2103839,False
+Rifabutin,Oral,oral,"marketed products: FDA, EU-A57, France, China",oral,oral,oral,oral,,,,,True,False,False,CHEMBL444633,True
+Rifalazil,Oral,oral,verified: high: ActivBiotics trials (PubMed),,,,,,0,0,0,False,False,False,CHEMBL236297,False
+Rifamdin,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Rifamide,Injection,intramuscular; intravenous,verified: med: Martindale / Merck Index (Rifocin-M),,,,,,0,0,0,False,False,False,CHEMBL3989415,True
+Rifampin,Oral + Injection,oral; intravenous; injection; ophthalmic,"marketed products: FDA, EU-A57, France, China",oral; injection,oral; intravenous,oral; intravenous,oral; ophthalmic,,,,,True,True,False,CHEMBL374478,True
+Rifamycin,Oral + Injection,oral; intravenous; intramuscular; injection; ophthalmic,"marketed products: FDA, EU-A57, France, China",oral,oral; intravenous; intramuscular,ophthalmic,injection,,,,,True,False,False,CHEMBL437765,True
+Rifandin,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Rifandine,Oral,oral,marketed products: China,,,,oral,,,,,,,,,True
+Rifapentine,Oral,oral,"marketed products: FDA, China",oral,,,oral,,,,,True,False,False,CHEMBL1660,True
+Rifaquizinone,Oral,oral,"clinical trials (NCT06889701, NCT06337604, NCT06190340)",,,,,7,4,3,0,False,False,False,CHEMBL4594404,False
+Rifasutenizol,Oral,oral,"clinical trials (NCT06081712, NCT05857163, NCT06076694)",,,,,5,5,0,0,False,False,False,CHEMBL5172403,False
+Rifaximin,Oral,oral,"marketed products: FDA, EU-A57, France, China",oral,oral,oral,oral,,,,,True,False,False,CHEMBL1617,True
+Romidepsin,Injection,intravenous,marketed products: FDA,intravenous,,,,,,,,,,,,True
+Roxithromycin,Oral,oral,"marketed products: EU-A57, France, China",,oral,oral,oral,,,,,False,False,False,CHEMBL1214185,True
+Ruboxistaurin,Oral,oral,"clinical trials (NCT02769611, NCT00552227, NCT00266695)",,,,,6,6,0,0,False,False,False,CHEMBL91829,False
+Sagopilone,Injection,intravenous,"clinical trials (NCT00313248, NCT00598507, NCT00350051)",,,,,10,0,10,0,False,False,False,CHEMBL2304041,False
+Selitrectinib,Oral,oral,"clinical trials (NCT04275960, NCT03206931, NCT04771390)",,,,,4,4,0,0,False,False,False,CHEMBL4297627,False
+Setmelanotide,Injection,subcutaneous,"marketed products: FDA, EU-A57",subcutaneous,subcutaneous,,,,,,,,,,,True
+Simeprevir,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL501849,True
+Sirolimus,Oral + Injection,oral; intravenous; topical,"marketed products: FDA, EU-A57, France, China",oral; intravenous; topical,oral; topical,oral,oral,,,,,True,True,True,CHEMBL413,True
+Solithromycin,Oral + Injection,oral; intravenous,"clinical trials (NCT01756339, NCT02210325, NCT01591447)",,,,,7,7,5,1,False,False,False,CHEMBL1232510,False
+Spinosad,Non-oral (other),topical,marketed products: FDA,topical,,,,,,,,False,False,True,CHEMBL4297065,True
+Spiramycin,Oral + Injection,oral; intravenous,verified: med: ANSM BDPM Rovamycine tablets and IV 1.5 MUI,,oral,,,,,,,,,,,True
+Tacrolimus,Oral + Injection,oral; intravenous; injection; topical,"marketed products: FDA, EU-A57, France, China",oral; injection; topical,oral; intravenous; topical,oral; intravenous; topical,oral,,,,,True,True,True,CHEMBL269732,True
+Talaporfin,Injection,intravenous,"clinical trials (NCT00709488, NCT02326454, NCT00440310)",,,,,6,0,6,0,False,False,False,CHEMBL2111186,True
+Tanespimycin,Injection,intravenous,"clinical trials (NCT00121264, NCT00118092, NCT00354185)",,,,,24,0,24,0,False,False,False,CHEMBL109480,False
+Tapotoclax,Injection,intravenous,"verified: high: AMG 176, NCT02675452",,,,,,0,0,0,False,False,False,CHEMBL4446378,False
+Teicoplanin,Oral + Injection,oral; intravenous; intramuscular,verified: high: Targocid SmPC (oral for C. difficile),,oral; intravenous; intramuscular,,injection,,,,,,,,,True
+Telavancin,Injection,intravenous; injection,marketed products: FDA,intravenous; injection,,,,,,,,,,,,True
+Telithromycin,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL1136,True
+Temoporfin,Injection,intravenous,marketed products: EU-A57,,intravenous,,,,,,,False,False,False,CHEMBL500576,True
+Temsirolimus,Injection,intravenous,"marketed products: FDA, EU-A57, France",intravenous,intravenous,intravenous,,,,,,False,True,False,CHEMBL1201182,True
+Terlipressin,Injection,intravenous,"marketed products: FDA, EU-A57",intravenous,intravenous,,,,,,,,,,,True
+Tetrandrine,Oral,oral,marketed products: China,,,,oral,,,,,False,False,False,CHEMBL504757,True
+Tetraxetan,Injection,intravenous; other injection; injection,"marketed products: FDA, EU-A57, France, China",intravenous,intravenous; other injection,intravenous,injection,,,,,False,False,False,CHEMBL1721515,True
+Tmc-647055,Oral,oral,"clinical trials (NCT02064842, NCT01202825, NCT01852604)",,,,,6,6,0,0,False,False,False,CHEMBL2043025,False
+Troleandomycin,Oral,oral,marketed products: FDA,oral,,,,,,,,True,False,False,CHEMBL564085,True
+Tubocurarine,Injection,injection,marketed products: FDA,injection,,,,,,,,False,True,False,CHEMBL339427,True
+Ulevostinag,Injection,injection,"clinical trials (NCT03010176, NCT04220866)",,,,,2,0,2,0,False,False,False,CHEMBL5095200,False
+Ulimorelin,Injection,intravenous,"clinical trials (NCT01285570, NCT01405612, NCT01296620)",,,,,4,0,4,0,False,False,False,CHEMBL1963249,False
+Urofollitropin,Injection,intramuscular; subcutaneous; injection,"marketed products: FDA, EU-A57, China",intramuscular; subcutaneous,intramuscular; subcutaneous,,injection,,,,,,,,,True
+Utidelone,Injection,intravenous,verified: high: approved product 优替德隆注射液 (NMPA 2021); oral capsule only investigational,,,,,29,14,21,1,False,False,False,CHEMBL96172,True
+Vancomycin,Oral + Injection,oral; intravenous; injection,"marketed products: FDA, EU-A57, France, China",oral; intravenous; injection,oral; intravenous,oral; intravenous,injection,,,,,True,True,False,CHEMBL262777,True
+Vaniprevir,Oral,oral,"clinical trials (NCT00943761, NCT00895882, NCT01405937)",,,,,9,9,0,1,False,False,False,CHEMBL4525964,True
+Vanzacaftor,Oral,oral,"marketed products: FDA, EU-A57",oral,oral,,,,,,,True,False,False,CHEMBL5314934,True
+Vasopressin,Injection,intravenous; injection,marketed products: FDA,intravenous; injection,,,,,,,,,,,,True
+Viomycin,Injection,injection,marketed products: FDA,injection,,,,,,,,,,,,True
+Voclosporin,Oral,oral,"marketed products: FDA, EU-A57",oral,oral,,,,,,,,,,,True
+Voxilaprevir,Oral,oral,"marketed products: FDA, EU-A57, France",oral,oral,oral,,,,,,True,False,False,CHEMBL3707372,True
+Zamzetoclax,Oral,oral,clinical trials (NCT05006794),,,,,1,1,0,0,False,False,False,CHEMBL6068037,False
+Zidesamtinib,Oral,oral,marketed products: FDA,oral,,,,,,,,False,False,False,CHEMBL5314497,True
+Zosurabalpin,Injection,intravenous,verified: high: Roche phase 1 (Nature 2024),,,,,,0,0,0,False,False,False,CHEMBL5314563,False
+Zotiraciclib,Oral,oral,clinical trials (NCT05588141),,,,,1,1,0,0,False,False,False,CHEMBL1944698,False
+Zotizalkib,Oral,oral,"verified: high: TPX-0131 FORGE-1, NCT04849273",,,,,,0,0,0,False,False,False,CHEMBL5314412,False
+Zurletrectinib,Oral,oral,verified: high: InnoCare NMPA approval / trials,,,,,,0,0,0,False,False,False,CHEMBL5095426,True

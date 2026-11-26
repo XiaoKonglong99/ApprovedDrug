@@ -1,0 +1,926 @@
+{
+"Abbv-467": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT04178902"
+],
+"n": 1,
+"route_n": {
+"intravenous": 1
+}
+},
+"Alvespimycin": {
+"oral": 0,
+"injection": 5,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01126502",
+"NCT00089271",
+"NCT00803556",
+"NCT00780000",
+"NCT00089362"
+],
+"n": 5,
+"route_n": {
+"intravenous": 5
+}
+},
+"Amcipatricin": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Azd-5991": {
+"oral": 1,
+"injection": 2,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT03218683",
+"NCT03013998"
+],
+"n": 2,
+"route_n": {
+"intravenous": 2,
+"oral": 1
+}
+},
+"Berbamine": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Bocodepsin": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Bryostatin 1": {
+"oral": 0,
+"injection": 17,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00022555",
+"NCT02221947",
+"NCT00058305",
+"NCT00006081",
+"NCT00003166"
+],
+"n": 17,
+"route_n": {
+"intravenous": 17
+}
+},
+"Cepharanthine": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT05398705"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Cethromycin": {
+"oral": 2,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00336544",
+"NCT00336505"
+],
+"n": 2,
+"route_n": {
+"oral": 2
+}
+},
+"Ciaftalan": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Copper dotatate Cu-64": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Ct-1578": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Dazostinag": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT04420884"
+],
+"n": 1,
+"route_n": {
+"intravenous": 1
+}
+},
+"Depreotide": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Dota-Noc": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"E-6201": {
+"oral": 1,
+"injection": 4,
+"other": 2,
+"routes": [],
+"ncts": [
+"NCT00539929",
+"NCT02418000",
+"NCT01268527",
+"NCT00794781",
+"NCT03332589"
+],
+"n": 6,
+"route_n": {
+"topical": 2,
+"intravenous": 4,
+"oral": 1
+}
+},
+"E-7130": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT03444701"
+],
+"n": 1,
+"route_n": {
+"intravenous": 1
+}
+},
+"E-7766": {
+"oral": 1,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT04144140",
+"NCT04109092"
+],
+"n": 2,
+"route_n": {
+"oral": 1,
+"other injection": 1
+}
+},
+"E7107": {
+"oral": 0,
+"injection": 2,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00459823",
+"NCT00499499"
+],
+"n": 2,
+"route_n": {
+"intravenous": 2
+}
+},
+"Elzovantinib": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT03993873"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Emodepside": {
+"oral": 6,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT06800248",
+"NCT03383523",
+"NCT06373835",
+"NCT05180461",
+"NCT03383614"
+],
+"n": 6,
+"route_n": {
+"oral": 6
+}
+},
+"Enbezotinib": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Exeporfinium": {
+"oral": 0,
+"injection": 0,
+"other": 1,
+"routes": [],
+"ncts": [
+"NCT03915470"
+],
+"n": 1,
+"route_n": {
+"topical": 1,
+"inhaled/nasal": 1
+}
+},
+"Flotufolastat": {
+"oral": 0,
+"injection": 19,
+"other": 1,
+"routes": [],
+"ncts": [
+"NCT04186845",
+"NCT07164027",
+"NCT05779943",
+"NCT06389786",
+"NCT07025369"
+],
+"n": 20,
+"route_n": {
+"injection": 2,
+"intravenous": 17,
+"other mucosal": 1
+}
+},
+"Furaprevir": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT03610867"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Fusafungine": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Gamitrinib": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Geldanamycin": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01193491"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Glasmacinal": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Gs-9256": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01225380"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Hpph": {
+"oral": 0,
+"injection": 13,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01140178",
+"NCT00470496",
+"NCT03757754",
+"NCT00528775",
+"NCT01236443"
+],
+"n": 13,
+"route_n": {
+"intravenous": 13
+}
+},
+"Icotinib": {
+"oral": 57,
+"injection": 9,
+"other": 5,
+"routes": [],
+"ncts": [
+"NCT02215356",
+"NCT04206072",
+"NCT01040780",
+"NCT02194556",
+"NCT01929200"
+],
+"n": 65,
+"route_n": {
+"oral": 57,
+"intravenous": 8,
+"topical": 5,
+"injection": 1
+}
+},
+"Kos-1584": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00651508"
+],
+"n": 1,
+"route_n": {
+"intravenous": 1
+}
+},
+"Kosn-1724": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Lemuteporfin": {
+"oral": 0,
+"injection": 1,
+"other": 1,
+"routes": [],
+"ncts": [
+"NCT01490736",
+"NCT00116571"
+],
+"n": 2,
+"route_n": {
+"topical": 1,
+"injection": 1
+}
+},
+"Lff-571": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Milvexian": {
+"oral": 8,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT05706753",
+"NCT04388501",
+"NCT05757869",
+"NCT05754957",
+"NCT04844424"
+],
+"n": 8,
+"route_n": {
+"oral": 8
+}
+},
+"Mitemcinal": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Modithromycin": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Motexafin": {
+"oral": 0,
+"injection": 16,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00004262",
+"NCT00005067",
+"NCT00087191",
+"NCT00096837",
+"NCT00080054"
+],
+"n": 16,
+"route_n": {
+"intravenous": 11,
+"injection": 5
+}
+},
+"Murizatoclax": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Nafithromycin": {
+"oral": 2,
+"injection": 2,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT02770404",
+"NCT02903836",
+"NCT03981887"
+],
+"n": 3,
+"route_n": {
+"intravenous": 2,
+"oral": 2
+}
+},
+"Obp-801": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT02414516"
+],
+"n": 1,
+"route_n": {
+"intravenous": 1
+}
+},
+"Odalasvir": {
+"oral": 8,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT02765490",
+"NCT02961660",
+"NCT02569710",
+"NCT02889367",
+"NCT02945020"
+],
+"n": 8,
+"route_n": {
+"oral": 8
+}
+},
+"Otx-008": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01724320"
+],
+"n": 1,
+"route_n": {
+"subcutaneous": 1
+}
+},
+"Patupilone": {
+"oral": 1,
+"injection": 6,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00273312",
+"NCT00496600",
+"NCT00450866",
+"NCT00171834",
+"NCT00035165"
+],
+"n": 6,
+"route_n": {
+"injection": 1,
+"intravenous": 5,
+"oral": 1
+}
+},
+"Plitidepsin": {
+"oral": 4,
+"injection": 14,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00229203",
+"NCT00788099",
+"NCT00884286",
+"NCT04382066",
+"NCT01876043"
+],
+"n": 14,
+"route_n": {
+"intravenous": 14,
+"oral": 4,
+"subcutaneous": 1
+}
+},
+"Rencofilstat": {
+"oral": 3,
+"injection": 0,
+"other": 2,
+"routes": [],
+"ncts": [
+"NCT05402371",
+"NCT05461105",
+"NCT05737433"
+],
+"n": 3,
+"route_n": {
+"topical": 2,
+"oral": 3
+}
+},
+"Retaspimycin": {
+"oral": 0,
+"injection": 1,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00688766"
+],
+"n": 1,
+"route_n": {
+"intravenous": 1
+}
+},
+"Ridaforolimus": {
+"oral": 24,
+"injection": 13,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01605396",
+"NCT01380184",
+"NCT01043887",
+"NCT00818675",
+"NCT00538239"
+],
+"n": 33,
+"route_n": {
+"oral": 24,
+"intravenous": 13
+}
+},
+"Rifalazil": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Rifamide": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Rifaquizinone": {
+"oral": 4,
+"injection": 3,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT06889701",
+"NCT06337604",
+"NCT06190340",
+"NCT07858916",
+"NCT06394518"
+],
+"n": 7,
+"route_n": {
+"other injection": 2,
+"oral": 4,
+"injection": 1
+}
+},
+"Rifasutenizol": {
+"oral": 5,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT06081712",
+"NCT05857163",
+"NCT06076694",
+"NCT06076681",
+"NCT06081699"
+],
+"n": 5,
+"route_n": {
+"oral": 5
+}
+},
+"Ruboxistaurin": {
+"oral": 6,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT02769611",
+"NCT00552227",
+"NCT00266695",
+"NCT00133952",
+"NCT00604383"
+],
+"n": 6,
+"route_n": {
+"oral": 6
+}
+},
+"Sagopilone": {
+"oral": 0,
+"injection": 10,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00313248",
+"NCT00598507",
+"NCT00350051",
+"NCT00160069",
+"NCT00496379"
+],
+"n": 10,
+"route_n": {
+"intravenous": 10
+}
+},
+"Selitrectinib": {
+"oral": 4,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT04275960",
+"NCT03206931",
+"NCT04771390",
+"NCT03215511"
+],
+"n": 4,
+"route_n": {
+"oral": 4
+}
+},
+"Solithromycin": {
+"oral": 7,
+"injection": 5,
+"other": 1,
+"routes": [],
+"ncts": [
+"NCT01756339",
+"NCT02210325",
+"NCT01591447",
+"NCT02268279",
+"NCT01968733"
+],
+"n": 7,
+"route_n": {
+"oral": 7,
+"intramuscular": 1,
+"intravenous": 3,
+"injection": 1,
+"other mucosal": 1
+}
+},
+"Talaporfin": {
+"oral": 0,
+"injection": 6,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00709488",
+"NCT02326454",
+"NCT00440310",
+"NCT00355355",
+"NCT00918034"
+],
+"n": 6,
+"route_n": {
+"intravenous": 6
+}
+},
+"Tanespimycin": {
+"oral": 0,
+"injection": 24,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT00121264",
+"NCT00118092",
+"NCT00354185",
+"NCT00577889",
+"NCT00098423"
+],
+"n": 24,
+"route_n": {
+"intravenous": 24
+}
+},
+"Tapotoclax": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Tmc-647055": {
+"oral": 6,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT02064842",
+"NCT01202825",
+"NCT01852604",
+"NCT01907724",
+"NCT01724086"
+],
+"n": 6,
+"route_n": {
+"oral": 6
+}
+},
+"Ulevostinag": {
+"oral": 0,
+"injection": 2,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT03010176",
+"NCT04220866"
+],
+"n": 2,
+"route_n": {
+"injection": 2
+}
+},
+"Ulimorelin": {
+"oral": 0,
+"injection": 4,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT01285570",
+"NCT01405612",
+"NCT01296620",
+"NCT01405599"
+],
+"n": 4,
+"route_n": {
+"intravenous": 4
+}
+},
+"Utidelone": {
+"oral": 14,
+"injection": 21,
+"other": 1,
+"routes": [],
+"ncts": [
+"NCT06841679",
+"NCT05398861",
+"NCT06683703",
+"NCT03906565",
+"NCT05795920"
+],
+"n": 29,
+"route_n": {
+"oral": 14,
+"intravenous": 16,
+"injection": 5,
+"intramuscular": 2,
+"topical": 1,
+"subcutaneous": 1
+}
+},
+"Vaniprevir": {
+"oral": 9,
+"injection": 0,
+"other": 1,
+"routes": [],
+"ncts": [
+"NCT00943761",
+"NCT00895882",
+"NCT01405937",
+"NCT01010906",
+"NCT00880763"
+],
+"n": 9,
+"route_n": {
+"oral": 9,
+"topical": 1
+}
+},
+"Zamzetoclax": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT05006794"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Zosurabalpin": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Zotiraciclib": {
+"oral": 1,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": [
+"NCT05588141"
+],
+"n": 1,
+"route_n": {
+"oral": 1
+}
+},
+"Zotizalkib": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+},
+"Zurletrectinib": {
+"oral": 0,
+"injection": 0,
+"other": 0,
+"routes": [],
+"ncts": []
+}
+}

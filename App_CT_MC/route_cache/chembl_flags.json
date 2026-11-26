@@ -1,0 +1,782 @@
+{
+"CHEMBL1091024": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "-1.0"
+},
+"CHEMBL109480": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL1097999": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL1136": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1184904": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL1200649": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1200656": {
+"oral": false,
+"parenteral": false,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL1200686": {
+"oral": false,
+"parenteral": false,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL1200688": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1200937": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1201182": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1201752": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1214185": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL1232510": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL1237072": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1255800": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1259": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1615776": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL1616008": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL1617": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1630575": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1660": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1683590": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1688530": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1721515": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL1741": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL18442": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1908360": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL1944698": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL1956820": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL1963249": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL2035185": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL2035187": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL2043025": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2063090": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL2063705": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2087361": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL2103839": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL2104404": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2104414": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL2104415": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL2104433": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2106399": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2107756": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2110756": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL2111186": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL221186": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL2220427": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL224436": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL2304041": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL236297": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL258734": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL262101": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL262777": {
+"oral": true,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL263886": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL264241": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL267345": {
+"oral": true,
+"parenteral": true,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL269732": {
+"oral": true,
+"parenteral": true,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL278315": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL3126832": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL3286830": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL3391662": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL339427": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL3544977": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL3545363": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL3707372": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL374478": {
+"oral": true,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL3824393": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL383824": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL387675": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL3989415": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL3989904": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL3989945": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL403729": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "-1.0"
+},
+"CHEMBL408350": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL4112929": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL413": {
+"oral": true,
+"parenteral": true,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL4297065": {
+"oral": false,
+"parenteral": false,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL4297278": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL4297296": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL4297373": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL4297393": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL4297482": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL4297487": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL4297519": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL4297627": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL4297647": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL4298138": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL437765": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL444633": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL4446378": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL444963": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL449158": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL449782": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL451930": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL4525964": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL457547": {
+"oral": false,
+"parenteral": true,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL4594404": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL4646511": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL4650225": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL4802148": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL500576": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL500853": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL501849": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL504757": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "-1.0"
+},
+"CHEMBL5095061": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5095062": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5095200": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5095233": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL5095426": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5172403": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL529": {
+"oral": true,
+"parenteral": true,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL5314412": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5314497": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5314558": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL5314563": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5314581": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL5314934": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL5316155": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL532": {
+"oral": true,
+"parenteral": true,
+"topical": true,
+"max_phase": "4.0"
+},
+"CHEMBL564085": {
+"oral": true,
+"parenteral": false,
+"topical": false,
+"max_phase": "4.0"
+},
+"CHEMBL6033457": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "1.0"
+},
+"CHEMBL606258": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL6067966": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL6068023": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL6068037": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL6068055": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+},
+"CHEMBL91829": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL94657": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "3.0"
+},
+"CHEMBL96172": {
+"oral": false,
+"parenteral": false,
+"topical": false,
+"max_phase": "2.0"
+}
+}
